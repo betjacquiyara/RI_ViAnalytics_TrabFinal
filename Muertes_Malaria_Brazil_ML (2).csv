@@ -1,0 +1,991 @@
+COD_MUNICIPIO_RES_6,COD_MUNICIPIO_RES_7,ESTADO_RESIDENCIA,NOMBRE_MUNICIPIO_RESIDENCIA,COD_MUNICIPIO_OCURRENCIA,ANIO_REGISTRO,MES_REGISTRO,SEXO,RAZA_COLOR,ESCOLARIDAD,RANGO_EDAD,LATITUD,LONGITUD,CASOS_TOTALES,ANIO_MES,TEMPERATURA,HUMEDAD_RELATIVA,CATEGORIA_TEMPERATURA,CATEGORIA_HUMEDAD,CAUSA_BASICA
+110006,1100064,Rondonia,Colorado do oeste,1100205,2004,9,M,Blanca,Sin especificar,65+,-13.1174,-60.5454,1,2004.75,29.464,47.667,Calido,Muy baja,Malaria falciparum
+150580,1505809,Para,Portel,150580,2006,10,F,Parda,Sin especificar,0 a 4,-1.93639,-50.8194,1,2006.8333333333333,31.279,56.645,Muy calido,Baja,Malaria falciparum
+150670,1506708,Para,Santana do araguaia,1506708,2003,4,M,Parda,Ninguna,35 a 39,-9.3281,-50.35,1,2003.3333333333333,24.707,93.933,Calido,Alta,Malaria falciparum
+530010,5300108,Distrito federal,Brasilia,5300108,2004,8,M,Blanca,12 o mas,40 a 44,-15.7795,-47.9297,1,2004.6666666666667,23.225,38.565,Calido,Muy baja,Malaria vivax
+160027,1600279,Amapa,Laranjal do jari,1600279,2005,1,M,Parda,4 a 7,45 a 49,-0.804911,-52.453,1,2005.0833333333333,25.505,94.774,Calido,Alta,Malaria falciparum
+150090,1500909,Para,Augusto correa,1500909,2005,6,M,Parda,Ninguna,0 a 4,-1.0510867,-46.6146851,1,2005.5,26.245,89.083,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,1100205,2005,3,M,Blanca,1 a 3,35 a 39,-8.76077,-63.8999,1,2005.25,26.428,99.048,Calido,Alta,Malaria falciparum
+130100,1301001,Amazonas,Carauari,130100,2007,6,M,Parda,1 a 3,20 a 24,-4.88161,-66.9086,1,2007.5,26.579,82.617,Calido,Moderada,Malaria vivax
+110094,1100940,Rondonia,Cujubim,110094,2009,5,F,Parda,Sin especificar,0 a 4,-9.36065,-62.5846,1,2009.4166666666667,25.448,97.194,Calido,Alta,Malaria falciparum
+510080,5100805,Mato grosso,Apiacas,5100250,2004,3,M,Negra,Ninguna,40 a 44,-9.53981,-57.4587,1,2004.25,24.476,98.242,Calido,Alta,Malaria falciparum
+110018,1100189,Rondonia,Pimenta bueno,110002,2006,3,M,Blanca,Sin especificar,45 a 49,-11.672,-61.198,1,2006.25,24.292,98.589,Calido,Alta,Malaria falciparum
+110140,1101401,Rondonia,Monte negro,110020,2006,3,F,Parda,Sin especificar,5 a 9,-10.2458,-63.29,1,2006.25,24.656,99.137,Calido,Alta,Sin especificar
+150810,1508100,Para,Tucurui,150810,2008,1,M,Parda,Sin especificar,40 a 44,-3.7657,-49.6773,1,2008.0833333333333,25.015,99.911,Calido,Alta,Malaria falciparum
+510795,5107958,Mato grosso,Tangara da serra,510795,2011,1,M,Blanca,Ninguna,50 a 54,-14.6229,-57.4933,1,2011.0833333333333,24.676,97.661,Calido,Alta,Sin especificar
+510454,5104542,Mato grosso,Itanhanga,510792,2011,12,M,Parda,8 a 11,20 a 24,-12.2259455,-56.6462517,1,2012.0,23.909,98.992,Calido,Alta,Malaria vivax
+130165,1301654,Amazonas,Guajara,1200203,2003,1,F,Blanca,Sin especificar,5 a 9,-7.53797,-72.5907,1,2003.0833333333333,26.077,92.976,Calido,Alta,Sin especificar
+150420,1504208,Para,Maraba,1504208,2003,1,M,Negra,8 a 11,25 a 29,-5.38075,-49.1327,1,2003.0833333333333,25.003,98.597,Calido,Alta,Malaria falciparum
+110002,1100023,Rondonia,Ariquemes,1100205,2003,11,F,Blanca,1 a 3,35 a 39,-9.90571,-63.0325,1,2003.9166666666667,24.848,98.458,Calido,Alta,Malaria falciparum
+150360,1503606,Para,Itaituba,150360,2009,12,M,Parda,4 a 7,20 a 24,-4.2667,-55.9926,1,2010.0,25.605,99.887,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2010,7,M,Blanca,Sin especificar,20 a 24,-8.76077,-63.8999,1,2010.5833333333333,25.806,75.895,Calido,Moderada,Sin especificar
+355220,3552205,Sao paulo,Sorocaba,355220,2010,5,F,Blanca,Sin especificar,30 a 34,-23.4969,-47.4451,1,2010.4166666666667,19.192,87.806,Templado,Alta,Malaria falciparum
+130080,1300805,Amazonas,Borba,130260,2011,6,M,Parda,Ninguna,30 a 34,-4.39154,-59.5874,1,2011.5,26.071,91.617,Calido,Alta,Malaria vivax
+110032,1100320,Rondonia,Sao miguel do guapore,110020,2012,5,F,Blanca,12 o mas,20 a 24,-11.6953,-62.7192,1,2012.4166666666667,22.895,94.0,Calido,Alta,Sin especificar
+210462,2104628,Maranhao,Governador luiz rocha,210910,2014,10,M,Parda,1 a 3,45 a 49,-5.47835,-44.0774,1,2014.8333333333333,29.161,63.823,Calido,Baja,Sin especificar
+120040,1200401,Acre,Rio branco,1200401,2005,8,F,Parda,Sin especificar,65+,-9.97499,-67.8243,1,2005.6666666666667,26.525,62.323,Calido,Baja,Sin especificar
+150506,1505064,Para,Novo repartimento,1508100,2005,7,M,Parda,8 a 11,40 a 44,-4.24749,-49.9499,1,2005.5833333333333,26.172,70.355,Calido,Moderada,Sin especificar
+130406,1304062,Amazonas,Tabatinga,130406,2007,7,F,Indigena,Ninguna,65+,-4.2416,-69.9383,1,2007.5833333333333,25.058,96.04,Calido,Alta,Malaria falciparum
+160050,1600501,Amapa,Oiapoque,160050,2013,11,M,Parda,4 a 7,30 a 34,3.84074,-51.8331,1,2013.9166666666667,25.92,94.85,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2013,9,M,Parda,8 a 11,35 a 39,-7.62762,-72.6756,1,2013.75,26.439,85.45,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,1302603,2005,10,M,Parda,4 a 7,20 a 24,-3.11866,-60.0212,1,2005.8333333333333,26.272,96.073,Calido,Alta,Malaria vivax
+150140,1501402,Para,Belem,1501402,2005,3,F,Blanca,4 a 7,35 a 39,-1.4554,-48.4898,2,2005.25,26.039,98.806,Calido,Alta,Sin especificar
+150680,1506807,Para,Santarem,150680,2007,4,M,Parda,Ninguna,65+,-2.43849,-54.6996,1,2007.3333333333333,25.497,99.175,Calido,Alta,Malaria vivax
+110002,1100023,Rondonia,Ariquemes,110002,2009,8,M,Parda,1 a 3,45 a 49,-9.90571,-63.0325,1,2009.6666666666667,24.873,84.129,Calido,Moderada,Malaria falciparum
+355030,3550308,Sao paulo,Sao paulo,355030,2010,1,F,Blanca,Sin especificar,25 a 29,-23.5329,-46.6395,1,2010.0833333333333,24.018,98.113,Calido,Alta,Sin especificar
+210530,2105302,Maranhao,Imperatriz,210530,2011,5,F,Parda,Ninguna,65+,-5.51847,-47.4777,1,2011.4166666666667,24.979,96.435,Calido,Alta,Sin especificar
+130080,1300805,Amazonas,Borba,1300805,2004,4,F,Parda,Ninguna,65+,-4.39154,-59.5874,1,2004.3333333333333,26.002,97.367,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,1100205,2004,5,F,Parda,Ninguna,40 a 44,-8.76077,-63.8999,1,2004.4166666666667,24.991,94.734,Calido,Alta,Malaria falciparum
+150360,1503606,Para,Itaituba,150360,2006,12,F,Parda,4 a 7,20 a 24,-4.2667,-55.9926,1,2007.0,25.774,98.258,Calido,Alta,Malaria falciparum
+330455,3304557,Rio de janeiro,Rio de janeiro,330455,2008,7,F,Blanca,8 a 11,50 a 54,-22.9129,-43.2003,1,2008.5833333333333,-20.75401430835089,81.315,Muy frio,Moderada,Sin especificar
+150275,1502756,Para,Concordia do para,150275,2015,9,M,Parda,4 a 7,60 a 64,-1.99238,-47.9422,1,2015.75,28.765,69.442,Calido,Baja,Malaria vivax
+510515,5105150,Mato grosso,Juina,510515,2006,5,F,Parda,12 o mas,45 a 49,-11.3728,-58.7483,1,2006.4166666666667,23.487,81.992,Calido,Moderada,Malaria vivax
+354850,3548500,Sao paulo,Santos,354850,2008,8,M,Blanca,Sin especificar,40 a 44,-23.9535,-46.335,1,2008.6666666666667,19.844,88.306,Templado,Alta,Sin especificar
+140015,1400159,Roraima,Bonfim,140010,2009,2,F,Sin especificar,12 o mas,15 a 19,3.36161,-59.8333,1,2009.1666666666667,24.836,92.884,Calido,Alta,Malaria vivax
+140010,1400100,Roraima,Boa vista,140010,2010,1,M,Parda,4 a 7,20 a 24,2.82384,-60.6753,1,2010.0833333333333,26.441,80.073,Calido,Moderada,Sin especificar
+150070,1500701,Para,Anajas,150070,2011,8,F,Parda,Ninguna,65+,-0.996811,-49.9354,1,2011.6666666666667,25.739,89.315,Calido,Alta,Malaria falciparum
+150810,1508100,Para,Tucurui,1508100,2005,7,M,Blanca,Ninguna,20 a 24,-3.7657,-49.6773,1,2005.5833333333333,25.286,70.355,Calido,Moderada,Sin especificar
+210005,2100055,Maranhao,Acailandia,210005,2006,3,M,Parda,1 a 3,45 a 49,-4.94714,-47.5004,1,2006.25,24.899,98.427,Calido,Alta,Sin especificar
+150810,1508100,Para,Tucurui,150810,2006,1,M,Blanca,4 a 7,55 a 59,-3.7657,-49.6773,1,2006.0833333333333,25.394,97.234,Calido,Alta,Malaria falciparum
+210830,2108306,Maranhao,Penalva,210830,2007,1,F,Blanca,4 a 7,15 a 19,-3.27674,-45.1768,1,2007.0833333333333,26.304,86.984,Calido,Alta,Malaria falciparum
+140047,1400472,Roraima,Rorainopolis,140047,2010,2,M,Parda,Sin especificar,0 a 4,0.939956,-60.4389,1,2010.1666666666667,25.565,99.036,Calido,Alta,Malaria vivax
+310670,3106705,Minas gerais,Betim,310620,2011,7,M,Parda,8 a 11,40 a 44,-19.9668,-44.2008,1,2011.5833333333333,17.6,60.371,Templado,Baja,Sin especificar
+530010,5300108,Distrito federal,Brasilia,530010,2011,12,F,Negra,12 o mas,35 a 39,-15.7795,-47.9297,1,2012.0,22.533,96.798,Calido,Alta,Sin especificar
+130410,1304104,Amazonas,Tapaua,130410,2014,5,M,Parda,4 a 7,20 a 24,-5.62085,-63.1808,1,2014.4166666666667,25.237,99.355,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,1302603,2004,8,M,Blanca,12 o mas,45 a 49,-3.11866,-60.0212,1,2004.6666666666667,25.917,87.895,Calido,Alta,Malaria vivax
+130420,1304203,Amazonas,Tefe,1304203,2004,10,M,Parda,Sin especificar,0 a 4,-3.36822,-64.7193,1,2004.8333333333333,25.098,94.419,Calido,Alta,Sin especificar
+150140,1501402,Para,Belem,1501402,2004,11,M,Negra,1 a 3,60 a 64,-1.4554,-48.4898,1,2004.9166666666667,28.158,76.892,Calido,Moderada,Malaria vivax
+210740,2107407,Maranhao,Olho d agua das cunhas,2211001,2005,11,M,Sin especificar,4 a 7,5 a 9,-4.13417,-45.1163,1,2005.9166666666667,30.173,60.592,Muy calido,Baja,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2008,8,M,Blanca,4 a 7,60 a 64,-8.76077,-63.8999,1,2008.6666666666667,26.559,88.411,Calido,Alta,Malaria vivax
+520870,5208707,Goias,Goiania,1505031,2003,8,F,Parda,4 a 7,50 a 54,-16.6864,-49.2643,1,2003.6666666666667,25.139,42.419,Calido,Muy baja,Malaria falciparum
+120040,1200401,Acre,Rio branco,1200401,2004,2,M,Sin especificar,1 a 3,50 a 54,-9.97499,-67.8243,1,2004.1666666666667,24.068,92.302,Calido,Alta,Malaria falciparum
+150503,1505031,Para,Novo progresso,1505031,2005,12,F,Parda,Ninguna,0 a 4,-7.14347,-55.3786,1,2006.0,25.455,97.806,Calido,Alta,Malaria falciparum
+211030,2110302,Maranhao,Santo antonio dos lopes,2211001,2005,5,F,Parda,4 a 7,65+,-4.86613,-44.3653,1,2005.4166666666667,25.252,89.742,Calido,Alta,Sin especificar
+210530,2105302,Maranhao,Imperatriz,211130,2007,10,M,Parda,4 a 7,45 a 49,-5.51847,-47.4777,1,2007.8333333333333,28.635,72.484,Calido,Moderada,Sin especificar
+292740,2927408,Bahia,Salvador,292740,2014,4,M,Parda,12 o mas,30 a 34,-12.9718,-38.5011,1,2014.3333333333333,24.013,89.208,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,1200203,2003,1,M,Parda,Ninguna,5 a 9,-7.62762,-72.6756,1,2003.0833333333333,26.364,92.976,Calido,Alta,Malaria falciparum
+510629,5106299,Mato grosso,Paranaita,510025,2006,5,F,Parda,1 a 3,40 a 44,-9.65835,-56.4786,1,2006.4166666666667,23.3,91.452,Calido,Alta,Malaria falciparum
+150503,1505031,Para,Novo progresso,510790,2006,2,M,Blanca,Sin especificar,50 a 54,-7.14347,-55.3786,1,2006.1666666666667,25.545,99.33,Calido,Alta,Malaria falciparum
+241410,2414100,Rio grande do norte,Tenente ananias,240810,2015,12,F,Blanca,Ninguna,65+,-6.45823,-38.182,1,2016.0,29.085,64.75,Calido,Baja,Sin especificar
+160030,1600303,Amapa,Macapa,160030,2015,7,F,Amarilla,4 a 7,45 a 49,0.034934,-51.0694,1,2015.5833333333333,26.312,86.637,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1100205,2004,4,F,Sin especificar,Sin especificar,10 a 14,-8.76077,-63.8999,1,2004.3333333333333,26.028,97.65,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2006,12,M,Parda,Sin especificar,0 a 4,-3.11866,-60.0212,1,2007.0,26.006,97.355,Calido,Alta,Sin especificar
+410650,4106506,Parana,Coronel vivida,411850,2006,1,M,Parda,4 a 7,25 a 29,-25.9767,-52.5641,1,2006.0833333333333,21.88,95.339,Calido,Alta,Malaria falciparum
+120017,1200179,Acre,Capixaba,120045,2007,5,M,Parda,1 a 3,55 a 59,-10.566,-67.686,1,2007.4166666666667,23.208,92.113,Calido,Alta,Malaria falciparum
+150220,1502202,Para,Capanema,150140,2009,6,F,Parda,1 a 3,50 a 54,-1.20529,-47.1778,1,2009.5,26.024,89.9,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2011,5,M,Blanca,1 a 3,5 a 9,-8.76077,-63.8999,1,2011.4166666666667,25.897,95.532,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,110020,2013,11,M,Parda,Sin especificar,25 a 29,-8.76077,-63.8999,1,2013.9166666666667,26.144,97.175,Calido,Alta,Malaria vivax
+150590,1505908,Para,Porto de moz,150060,2009,3,F,Parda,4 a 7,15 a 19,-1.74691,-52.2361,1,2009.25,25.043,100.532,Calido,Muy alta,Sin especificar
+310620,3106200,Minas gerais,Belo horizonte,310620,2012,6,F,Parda,8 a 11,55 a 59,-19.9102,-43.9266,1,2012.5,19.518,80.217,Templado,Moderada,Malaria falciparum
+130380,1303809,Amazonas,Sao gabriel da cachoeira,130380,2015,8,F,Indigena,Ninguna,65+,-0.11909,-67.084,1,2015.6666666666667,25.599,94.476,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,1302603,2004,8,M,Sin especificar,8 a 11,50 a 54,-3.11866,-60.0212,1,2004.6666666666667,25.917,87.895,Calido,Alta,Malaria vivax
+431490,4314902,Rio grande do sul,Porto alegre,431490,2007,5,F,Blanca,8 a 11,55 a 59,-30.0318,-51.2065,1,2007.4166666666667,15.682,89.266,Templado,Alta,Malaria vivax
+130406,1304062,Amazonas,Tabatinga,130406,2012,2,F,Indigena,Sin especificar,0 a 4,-4.2416,-69.9383,1,2012.1666666666667,25.071,96.957,Calido,Alta,Malaria ovale
+150309,1503093,Para,Goianesia do para,1508100,2004,4,F,Blanca,Ninguna,35 a 39,-3.84338,-49.0974,1,2004.3333333333333,25.322,99.392,Calido,Alta,Malaria falciparum
+150070,1500701,Para,Anajas,1500701,2005,8,M,Parda,Sin especificar,65+,-0.996811,-49.9354,1,2005.6666666666667,25.902,85.629,Calido,Alta,Malaria falciparum
+150553,1505536,Para,Parauapebas,1504208,2005,5,F,Blanca,4 a 7,25 a 29,-6.06781,-49.9037,1,2005.4166666666667,24.973,95.742,Calido,Alta,Malaria falciparum
+140010,1400100,Roraima,Boa vista,1400100,2005,2,F,Sin especificar,Sin especificar,45 a 49,2.82384,-60.6753,1,2005.1666666666667,25.787,92.009,Calido,Alta,Malaria falciparum
+240810,2408102,Rio grande do norte,Natal,240810,2014,7,M,Blanca,1 a 3,65+,-5.79357,-35.1986,1,2014.5833333333333,24.392,94.419,Calido,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,1302603,2003,9,M,Blanca,4 a 7,65+,-3.11866,-60.0212,1,2003.75,25.703,95.517,Calido,Alta,Malaria falciparum
+317040,3170404,Minas gerais,Unai,3170404,2003,1,M,Parda,Sin especificar,65+,-16.3592,-46.9022,1,2003.0833333333333,23.095,95.548,Calido,Alta,Sin especificar
+150810,1508100,Para,Tucurui,150810,2006,2,F,Parda,Ninguna,50 a 54,-3.7657,-49.6773,1,2006.1666666666667,25.449,98.92,Calido,Alta,Sin especificar
+150520,1505205,Para,Oeiras do para,150520,2011,3,M,Parda,Sin especificar,5 a 9,-2.00358,-49.8628,1,2011.25,25.556,98.782,Calido,Alta,Malaria falciparum
+520870,5208707,Goias,Goiania,520870,2012,4,M,Blanca,Sin especificar,30 a 34,-16.6864,-49.2643,1,2012.3333333333333,22.587,94.533,Calido,Alta,Malaria falciparum
+140010,1400100,Roraima,Boa vista,140010,2013,10,F,Parda,Sin especificar,30 a 34,2.82384,-60.6753,1,2013.8333333333333,24.766,92.427,Calido,Alta,Malaria falciparum
+140005,1400050,Roraima,Alto alegre,140005,2007,1,F,Indigena,Sin especificar,0 a 4,2.98858,-61.3072,1,2007.0833333333333,25.701,76.427,Calido,Moderada,Sin especificar
+150070,1500701,Para,Anajas,150030,2009,11,M,Parda,Sin especificar,0 a 4,-0.996811,-49.9354,1,2009.9166666666667,30.852,67.95,Muy calido,Baja,Malaria falciparum
+330440,3304409,Rio de janeiro,Rio claro,3300407,2003,7,M,Blanca,1 a 3,55 a 59,-22.72,-44.1419,1,2003.5833333333333,17.376,75.395,Templado,Moderada,Malaria vivax
+120040,1200401,Acre,Rio branco,120040,2007,7,M,Blanca,12 o mas,50 a 54,-9.97499,-67.8243,1,2007.5833333333333,24.452,78.024,Calido,Moderada,Malaria vivax
+150830,1508308,Para,Viseu,150830,2008,7,M,Parda,Ninguna,65+,-1.19124,-46.1399,1,2008.5833333333333,26.194,77.242,Calido,Moderada,Sin especificar
+130260,1302603,Amazonas,Manaus,1302603,2003,1,F,Parda,4 a 7,30 a 34,-3.11866,-60.0212,1,2003.0833333333333,25.984,98.46,Calido,Alta,Sin especificar
+120042,1200427,Acre,Rodrigues alves,120020,2006,1,M,Parda,1 a 3,25 a 29,-7.73864,-72.661,1,2006.0833333333333,25.87,95.081,Calido,Alta,Sin especificar
+150070,1500701,Para,Anajas,150140,2007,8,F,Parda,Sin especificar,0 a 4,-0.996811,-49.9354,1,2007.6666666666667,25.863,89.089,Calido,Alta,Sin especificar
+130002,1300029,Amazonas,Alvaraes,130002,2007,8,F,Parda,Ninguna,65+,-3.22727,-64.8007,1,2007.6666666666667,24.62,93.089,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2011,9,F,Parda,Sin especificar,40 a 44,-8.76077,-63.8999,1,2011.75,26.633,85.458,Calido,Alta,Malaria vivax
+430470,4304705,Rio grande do sul,Carazinho,431710,2014,3,M,Blanca,8 a 11,20 a 24,-28.2958,-52.7933,1,2014.25,19.627,95.46,Templado,Alta,Malaria falciparum
+150360,1503606,Para,Itaituba,150503,2012,8,F,Parda,Sin especificar,35 a 39,-4.2667,-55.9926,1,2012.6666666666667,28.129,72.823,Calido,Moderada,Malaria falciparum
+355030,3550308,Sao paulo,Sao paulo,355030,2015,7,M,Blanca,12 o mas,30 a 34,-23.5329,-46.6395,1,2015.5833333333333,19.314,77.355,Templado,Moderada,Sin especificar
+130260,1302603,Amazonas,Manaus,1302603,2003,12,M,Parda,4 a 7,65+,-3.11866,-60.0212,1,2004.0,25.769,97.508,Calido,Alta,Malaria vivax
+150810,1508100,Para,Tucurui,150810,2006,11,M,Sin especificar,Sin especificar,Sin especificar,-3.7657,-49.6773,1,2006.9166666666667,27.511,98.317,Calido,Alta,Sin especificar
+120030,1200302,Acre,Feijo,120020,2013,8,M,Parda,Ninguna,35 a 39,-8.17054,-70.351,1,2013.6666666666667,26.449,78.468,Calido,Moderada,Malaria vivax
+130240,1302405,Amazonas,Labrea,130240,2014,7,M,Parda,Sin especificar,40 a 44,-7.26413,-64.7948,1,2014.5833333333333,25.408,86.597,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2015,4,M,Blanca,Sin especificar,55 a 59,-8.76077,-63.8999,1,2015.3333333333333,26.281,99.5,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,1100205,2005,1,M,Blanca,Sin especificar,40 a 44,-8.76077,-63.8999,1,2005.0833333333333,26.344,97.258,Calido,Alta,Sin especificar
+140047,1400472,Roraima,Rorainopolis,140010,2013,5,F,Parda,Sin especificar,10 a 14,0.939956,-60.4389,1,2013.4166666666667,24.772,100.79,Calido,Muy alta,Malaria falciparum
+140040,1400407,Roraima,Normandia,140010,2014,12,F,Indigena,8 a 11,45 a 49,3.8853,-59.6204,1,2015.0,24.627,89.194,Calido,Alta,Malaria vivax
+210860,2108603,Maranhao,Pinheiro,210860,2015,11,M,Parda,8 a 11,55 a 59,-2.52224,-45.0788,1,2015.9166666666667,30.723,66.275,Muy calido,Baja,Sin especificar
+130260,1302603,Amazonas,Manaus,1302603,2003,1,F,Parda,Sin especificar,65+,-3.11866,-60.0212,1,2003.0833333333333,25.984,98.46,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,1503606,2003,9,M,Negra,1 a 3,35 a 39,-4.2667,-55.9926,1,2003.75,27.299,81.242,Calido,Moderada,Malaria vivax
+330510,3305109,Rio de janeiro,Sao joao de meriti,330330,2009,2,M,Negra,8 a 11,35 a 39,-22.8058,-43.3729,1,2009.1666666666667,23.791,96.741,Calido,Alta,Malaria vivax
+130406,1304062,Amazonas,Tabatinga,130406,2009,11,M,Parda,Ninguna,55 a 59,-4.2416,-69.9383,1,2009.9166666666667,26.807,96.867,Calido,Alta,Malaria falciparum
+292740,2927408,Bahia,Salvador,292740,2011,5,M,Sin especificar,Sin especificar,65+,-12.9718,-38.5011,1,2011.4166666666667,22.813,92.887,Calido,Alta,Malaria falciparum
+150503,1505031,Para,Novo progresso,1505031,2005,7,F,Blanca,8 a 11,15 a 19,-7.14347,-55.3786,1,2005.5833333333333,26.465,57.169,Calido,Baja,Malaria falciparum
+150503,1505031,Para,Novo progresso,1505031,2005,8,F,Parda,Ninguna,5 a 9,-7.14347,-55.3786,1,2005.6666666666667,27.545,59.218,Calido,Baja,Malaria falciparum
+160060,1600600,Amapa,Santana,160060,2014,9,F,Blanca,Sin especificar,25 a 29,-0.045434,-51.1729,1,2014.75,27.844,73.325,Calido,Moderada,Malaria vivax
+110080,1100809,Rondonia,Candeias do jamari,110020,2015,11,M,Blanca,8 a 11,60 a 64,-8.7907,-63.7005,1,2015.9166666666667,26.854,98.875,Calido,Alta,Malaria vivax
+150178,1501782,Para,Breu branco,150810,2006,7,M,Parda,1 a 3,50 a 54,-3.77191,-49.5735,1,2006.5833333333333,25.002,70.169,Calido,Moderada,Sin especificar
+411990,4119905,Parana,Ponta grossa,411990,2008,9,M,Blanca,8 a 11,45 a 49,-25.0916,-50.1668,1,2008.75,15.298,80.867,Templado,Moderada,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2008,12,M,Amarilla,12 o mas,65+,-3.11866,-60.0212,1,2009.0,25.849,99.444,Calido,Alta,Malaria falciparum
+510263,5102637,Mato grosso,Campo novo do parecis,510795,2009,2,M,Sin especificar,1 a 3,25 a 29,-13.6587,-57.8907,1,2009.1666666666667,25.08,98.92,Calido,Alta,Sin especificar
+110002,1100023,Rondonia,Ariquemes,110002,2006,5,M,Parda,1 a 3,30 a 34,-9.90571,-63.0325,1,2006.4166666666667,22.075,92.556,Calido,Alta,Malaria falciparum
+130270,1302702,Amazonas,Manicore,130170,2008,1,F,Indigena,Ninguna,10 a 14,-5.80462,-61.2895,1,2008.0833333333333,25.441,98.435,Calido,Alta,Malaria falciparum
+150795,1507953,Para,Tailandia,150795,2011,1,F,Parda,4 a 7,10 a 14,-2.94584,-48.9489,1,2011.0833333333333,25.209,98.742,Calido,Alta,Sin especificar
+510790,5107909,Mato grosso,Sinop,510320,2011,8,F,Blanca,4 a 7,20 a 24,-11.8604,-55.5091,1,2011.6666666666667,29.184,32.089,Calido,Muy baja,Malaria falciparum
+130260,1302603,Amazonas,Manaus,130260,2013,7,M,Blanca,Sin especificar,20 a 24,-3.11866,-60.0212,1,2013.5833333333333,25.415,92.484,Calido,Alta,Malaria vivax
+160050,1600501,Amapa,Oiapoque,160050,2007,7,F,Blanca,1 a 3,15 a 19,3.84074,-51.8331,1,2007.5833333333333,26.01,87.734,Calido,Alta,Malaria falciparum
+150110,1501105,Para,Bagre,150180,2010,8,F,Parda,1 a 3,40 a 44,-1.90057,-50.1987,1,2010.6666666666667,25.974,91.653,Calido,Alta,Malaria vivax
+355710,3557105,Sao paulo,Votuporanga,354980,2010,9,M,Blanca,1 a 3,50 a 54,-20.4237,-49.9781,1,2010.75,28.612,43.15,Calido,Muy baja,Malaria falciparum
+220840,2208403,Piaui,Piripiri,261160,2012,12,M,Blanca,4 a 7,40 a 44,-4.27157,-41.7716,1,2013.0,26.449,92.016,Calido,Alta,Sin especificar
+120040,1200401,Acre,Rio branco,1200401,2005,7,F,Parda,Sin especificar,65+,-9.97499,-67.8243,1,2005.5833333333333,23.751,74.194,Calido,Moderada,Malaria falciparum
+150503,1505031,Para,Novo progresso,150503,2007,10,M,Parda,Sin especificar,35 a 39,-7.14347,-55.3786,1,2007.8333333333333,25.53,95.411,Calido,Alta,Sin especificar
+211250,2112506,Maranhao,Tutoia,211250,2011,8,F,Parda,Ninguna,65+,-2.76141,-42.2755,1,2011.6666666666667,28.872,74.073,Calido,Moderada,Sin especificar
+150670,1506708,Para,Santana do araguaia,1506708,2004,2,F,Parda,Ninguna,40 a 44,-9.3281,-50.35,1,2004.1666666666667,23.798,94.397,Calido,Alta,Malaria falciparum
+130250,1302504,Amazonas,Manacapuru,130250,2007,7,M,Parda,Sin especificar,0 a 4,-3.29066,-60.6216,1,2007.5833333333333,25.655,92.363,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2007,1,F,Negra,1 a 3,55 a 59,-7.62762,-72.6756,1,2007.0833333333333,26.465,94.363,Calido,Alta,Sin especificar
+354910,3549102,Sao paulo,Sao joao da boa vista,350950,2013,5,M,Parda,Sin especificar,55 a 59,-21.9707,-46.7944,1,2013.4166666666667,18.609,87.242,Templado,Alta,Sin especificar
+130020,1300201,Amazonas,Atalaia do norte,1300201,2003,4,M,Blanca,Sin especificar,0 a 4,-4.37055,-70.1967,1,2003.3333333333333,26.121,99.875,Calido,Alta,Malaria falciparum
+150503,1505031,Para,Novo progresso,1505031,2003,9,F,Parda,4 a 7,15 a 19,-7.14347,-55.3786,1,2003.75,27.38,69.025,Calido,Baja,Malaria falciparum
+140010,1400100,Roraima,Boa vista,1400472,2005,2,M,Indigena,Sin especificar,45 a 49,2.82384,-60.6753,1,2005.1666666666667,25.787,92.009,Calido,Alta,Malaria vivax
+210540,2105401,Maranhao,Itapecuru mirim,210540,2008,11,F,Parda,4 a 7,5 a 9,-3.40202,-44.3508,1,2008.9166666666667,29.868,70.558,Calido,Moderada,Malaria vivax
+120032,1200328,Acre,Jordao,120032,2010,8,M,Indigena,1 a 3,10 a 14,-9.43091,-71.8974,1,2010.6666666666667,27.898,83.065,Calido,Moderada,Malaria vivax
+351780,3517802,Sao paulo,Guaracai,350280,2013,5,M,Blanca,Sin especificar,50 a 54,-21.0292,-51.2119,1,2013.4166666666667,21.437,80.355,Calido,Moderada,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,1200203,2005,11,M,Parda,Ninguna,30 a 34,-7.62762,-72.6756,1,2005.9166666666667,26.638,87.458,Calido,Alta,Malaria vivax
+150070,1500701,Para,Anajas,1500701,2005,8,M,Parda,Ninguna,0 a 4,-0.996811,-49.9354,1,2005.6666666666667,25.902,85.629,Calido,Alta,Malaria falciparum
+310900,3109006,Minas gerais,Brumadinho,310620,2010,3,M,Parda,4 a 7,45 a 49,-20.151,-44.2007,1,2010.25,20.915,96.371,Calido,Alta,Sin especificar
+130270,1302702,Amazonas,Manicore,130270,2011,3,F,Parda,Sin especificar,0 a 4,-5.80462,-61.2895,1,2011.25,25.698,97.734,Calido,Alta,Sin especificar
+150553,1505536,Para,Parauapebas,150553,2011,8,F,Parda,4 a 7,60 a 64,-6.06781,-49.9037,1,2011.6666666666667,28.825,81.161,Calido,Moderada,Sin especificar
+150070,1500701,Para,Anajas,150070,2015,8,M,Parda,4 a 7,10 a 14,-0.996811,-49.9354,1,2015.6666666666667,26.502,82.96,Calido,Moderada,Malaria falciparum
+150680,1506807,Para,Santarem,1506807,2003,10,M,Sin especificar,12 o mas,45 a 49,-2.43849,-54.6996,1,2003.8333333333333,25.945,94.468,Calido,Alta,Malaria falciparum
+150442,1504422,Para,Marituba,1501402,2003,11,F,Blanca,Ninguna,35 a 39,-1.36002,-48.3421,1,2003.9166666666667,26.69,87.117,Calido,Alta,Malaria falciparum
+140028,1400282,Roraima,Iracema,1400100,2004,10,M,Sin especificar,Sin especificar,10 a 14,2.18305,-61.0415,1,2004.8333333333333,23.194,96.024,Calido,Alta,Sin especificar
+150548,1505486,Para,Pacajus,150810,2007,8,M,Parda,1 a 3,40 a 44,-3.8354194,-50.6399231,1,2007.6666666666667,27.289,64.169,Calido,Baja,Sin especificar
+310620,3106200,Minas gerais,Belo horizonte,310620,2008,6,M,Blanca,8 a 11,25 a 29,-19.9102,-43.9266,1,2008.5,18.545,72.5,Templado,Moderada,Sin especificar
+150180,1501808,Para,Breves,150180,2010,8,F,Parda,Sin especificar,5 a 9,-1.68036,-50.4791,1,2010.6666666666667,25.974,91.653,Calido,Alta,Sin especificar
+160015,1600154,Amapa,Pedra branca do amapari,160030,2015,11,F,Parda,Ninguna,65+,0.777424,-51.9503,1,2015.9166666666667,30.397,54.35,Muy calido,Baja,Malaria vivax
+420280,4202800,Santa catarina,Braco do norte,4218707,2004,3,F,Blanca,Sin especificar,60 a 64,-28.2681,-49.1701,1,2004.25,20.871,97.419,Calido,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,1302603,2005,8,F,Sin especificar,Sin especificar,5 a 9,-3.11866,-60.0212,1,2005.6666666666667,26.14,91.339,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,130260,2007,5,F,Blanca,12 o mas,35 a 39,-3.11866,-60.0212,1,2007.4166666666667,25.952,98.492,Calido,Alta,Malaria vivax
+160027,1600279,Amapa,Laranjal do jari,160027,2008,9,M,Parda,Sin especificar,0 a 4,-0.804911,-52.453,1,2008.75,24.825,96.533,Calido,Alta,Malaria falciparum
+130426,1304260,Amazonas,Uarini,1304203,2004,10,M,Blanca,1 a 3,5 a 9,-2.99609,-65.1133,1,2004.8333333333333,25.098,94.419,Calido,Alta,Malaria falciparum
+260005,2600054,Pernambuco,Abreu e lima,261160,2009,6,M,Parda,4 a 7,30 a 34,-7.90072,-34.8984,1,2009.5,24.31,97.075,Calido,Alta,Malaria falciparum
+150680,1506807,Para,Santarem,1506807,2005,7,M,Parda,1 a 3,10 a 14,-2.43849,-54.6996,1,2005.5833333333333,25.439,94.613,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2008,4,M,Sin especificar,Sin especificar,0 a 4,-7.62762,-72.6756,1,2008.3333333333333,25.777,93.4,Calido,Alta,Malaria vivax
+150360,1503606,Para,Itaituba,150360,2012,10,F,Parda,8 a 11,40 a 44,-4.2667,-55.9926,1,2012.8333333333333,25.989,96.081,Calido,Alta,Malaria falciparum
+130230,1302306,Amazonas,Jutai,1304203,2005,6,F,Indigena,Ninguna,0 a 4,-2.75814,-66.7595,1,2005.5,25.933,95.142,Calido,Alta,Malaria falciparum
+130165,1301654,Amazonas,Guajara,120020,2006,2,M,Parda,Sin especificar,0 a 4,-7.53797,-72.5907,1,2006.1666666666667,25.963,94.384,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2006,7,M,Parda,Ninguna,65+,-3.11866,-60.0212,1,2006.5833333333333,25.927,92.073,Calido,Alta,Sin especificar
+510340,5103403,Mato grosso,Cuiaba,510340,2009,9,M,Amarilla,4 a 7,65+,-15.601,-56.0974,1,2009.75,26.368,76.783,Calido,Moderada,Sin especificar
+500830,5008305,Mato grosso do sul,Tres lagoas,500830,2010,3,M,Blanca,1 a 3,50 a 54,-20.7849,-51.7007,1,2010.25,24.344,93.637,Calido,Alta,Sin especificar
+412125,4121257,Parana,Ramilandia,4121257,2003,12,M,Blanca,Sin especificar,40 a 44,-25.1195,-54.023,1,2004.0,22.816,92.823,Calido,Alta,Malaria falciparum
+130380,1303809,Amazonas,Sao gabriel da cachoeira,130380,2007,4,F,Indigena,Sin especificar,30 a 34,-0.11909,-67.084,1,2007.3333333333333,25.254,97.45,Calido,Alta,Malaria vivax
+160060,1600600,Amapa,Santana,160060,2009,8,M,Blanca,1 a 3,35 a 39,-0.045434,-51.1729,1,2009.6666666666667,26.087,82.653,Calido,Moderada,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2009,8,M,Negra,Sin especificar,50 a 54,-8.76077,-63.8999,1,2009.6666666666667,26.275,87.113,Calido,Alta,Malaria vivax
+130190,1301902,Amazonas,Itacoatiara,130190,2009,3,M,Parda,4 a 7,35 a 39,-3.13861,-58.4449,1,2009.25,25.096,100.782,Calido,Muy alta,Malaria vivax
+140010,1400100,Roraima,Boa vista,140010,2013,2,M,Negra,4 a 7,40 a 44,2.82384,-60.6753,1,2013.1666666666667,25.619,89.973,Calido,Alta,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,1200203,2004,9,F,Parda,4 a 7,25 a 29,-7.62762,-72.6756,1,2004.75,27.308,71.433,Calido,Moderada,Malaria falciparum
+130380,1303809,Amazonas,Sao gabriel da cachoeira,1303809,2005,9,M,Indigena,4 a 7,20 a 24,-0.11909,-67.084,1,2005.75,25.206,93.925,Calido,Alta,Malaria vivax
+160060,1600600,Amapa,Santana,160030,2008,4,M,Blanca,Sin especificar,60 a 64,-0.045434,-51.1729,1,2008.3333333333333,25.455,96.35,Calido,Alta,Sin especificar
+130420,1304203,Amazonas,Tefe,130420,2009,8,M,Parda,Ninguna,60 a 64,-3.36822,-64.7193,1,2009.6666666666667,24.445,95.855,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2014,2,F,Parda,Sin especificar,40 a 44,-8.76077,-63.8999,1,2014.1666666666667,26.138,100.009,Calido,Muy alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,1302603,2004,1,F,Parda,4 a 7,25 a 29,-3.11866,-60.0212,1,2004.0833333333333,25.801,99.71,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,1302603,2004,2,F,Blanca,Sin especificar,35 a 39,-3.11866,-60.0212,1,2004.1666666666667,24.655,97.284,Calido,Alta,Malaria falciparum
+130406,1304062,Amazonas,Tabatinga,130406,2006,5,F,Indigena,Sin especificar,15 a 19,-4.2416,-69.9383,1,2006.4166666666667,24.687,99.863,Calido,Alta,Malaria falciparum
+130420,1304203,Amazonas,Tefe,130260,2007,5,F,Parda,Sin especificar,0 a 4,-3.36822,-64.7193,1,2007.4166666666667,24.455,99.46,Calido,Alta,Malaria vivax
+140020,1400209,Roraima,Caracarai,140020,2009,12,F,Indigena,Sin especificar,0 a 4,1.82766,-61.1304,1,2010.0,25.009,85.847,Calido,Alta,Malaria vivax
+150309,1503093,Para,Goianesia do para,150810,2010,7,M,Parda,4 a 7,25 a 29,-3.84338,-49.0974,1,2010.5833333333333,25.614,84.758,Calido,Moderada,Malaria falciparum
+315460,3154606,Minas gerais,Ribeirao das neves,310620,2014,7,F,Negra,4 a 7,40 a 44,-19.7621,-44.0844,1,2014.5833333333333,17.947,69.048,Templado,Baja,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2014,7,F,Parda,1 a 3,35 a 39,-8.76077,-63.8999,1,2014.5833333333333,25.261,84.629,Calido,Moderada,Malaria ovale
+210197,2101970,Maranhao,Boa vista do gurupi,2104677,2004,7,M,Negra,Sin especificar,0 a 4,-1.77614,-46.3002,1,2004.5833333333333,25.612,96.258,Calido,Alta,Malaria falciparum
+110002,1100023,Rondonia,Ariquemes,411520,2006,10,M,Blanca,12 o mas,35 a 39,-9.90571,-63.0325,1,2006.8333333333333,25.231,94.548,Calido,Alta,Sin especificar
+150190,1501907,Para,Bujaru,150140,2008,6,M,Parda,1 a 3,30 a 34,-1.51762,-48.0381,1,2008.5,25.78,99.45,Calido,Alta,Malaria falciparum
+140045,1400456,Roraima,Pacaraima,140010,2008,12,M,Indigena,Sin especificar,0 a 4,4.4799,-61.1477,1,2009.0,23.883,90.782,Calido,Alta,Sin especificar
+355030,3550308,Sao paulo,Sao paulo,350320,2012,4,F,Blanca,12 o mas,60 a 64,-23.5329,-46.6395,1,2012.3333333333333,21.307,95.9,Calido,Alta,Sin especificar
+110003,1100031,Rondonia,Cabixi,1100304,2003,3,F,Sin especificar,Ninguna,65+,-13.4945,-60.552,1,2003.25,24.429,99.605,Calido,Alta,Malaria vivax
+160027,1600279,Amapa,Laranjal do jari,160027,2006,6,F,Parda,4 a 7,30 a 34,-0.804911,-52.453,1,2006.5,25.148,98.642,Calido,Alta,Malaria falciparum
+310890,3108909,Minas gerais,Brazopolis,313240,2008,7,M,Blanca,Sin especificar,50 a 54,-22.4742832,-45.6165581,1,2008.5833333333333,16.792,75.484,Templado,Moderada,Sin especificar
+130406,1304062,Amazonas,Tabatinga,130406,2012,5,F,Indigena,Ninguna,60 a 64,-4.2416,-69.9383,1,2012.4166666666667,25.925,99.839,Calido,Alta,Sin especificar
+150220,1502202,Para,Capanema,150220,2013,12,M,Parda,4 a 7,65+,-1.20529,-47.1778,1,2014.0,27.067,86.565,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,1302603,2003,5,M,Parda,8 a 11,15 a 19,-3.11866,-60.0212,1,2003.4166666666667,25.91,97.565,Calido,Alta,Malaria falciparum
+150503,1505031,Para,Novo progresso,1505031,2003,7,M,Parda,Ninguna,30 a 34,-7.14347,-55.3786,1,2003.5833333333333,26.171,60.194,Calido,Baja,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1100205,2005,5,M,Blanca,Sin especificar,45 a 49,-8.76077,-63.8999,1,2005.4166666666667,25.903,95.984,Calido,Alta,Sin especificar
+310970,3109709,Minas gerais,Cachoeira de minas,310970,2006,11,M,Blanca,1 a 3,65+,-22.3511,-45.7809,1,2006.9166666666667,20.462,94.708,Calido,Alta,Sin especificar
+160027,1600279,Amapa,Laranjal do jari,150050,2007,7,F,Negra,4 a 7,30 a 34,-0.804911,-52.453,1,2007.5833333333333,24.979,97.387,Calido,Alta,Malaria falciparum
+320013,3200136,Espirito santo,Aguia branca,320150,2011,8,F,Blanca,1 a 3,65+,-18.9846,-40.7437,1,2011.6666666666667,22.092,84.573,Calido,Moderada,Malaria vivax
+120040,1200401,Acre,Rio branco,120040,2013,12,M,Parda,1 a 3,30 a 34,-9.97499,-67.8243,1,2014.0,25.677,96.129,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,120040,2014,1,M,Parda,Sin especificar,0 a 4,-8.76077,-63.8999,1,2014.0833333333333,25.979,100.056,Calido,Muy alta,Sin especificar
+160030,1600303,Amapa,Macapa,160030,2015,7,M,Blanca,8 a 11,50 a 54,0.034934,-51.0694,1,2015.5833333333333,26.312,86.637,Calido,Alta,Malaria falciparum
+510805,5108055,Mato grosso,Terra nova do norte,510340,2006,3,M,Parda,4 a 7,10 a 14,-10.517,-55.231,1,2006.25,24.155,97.25,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,150360,2010,12,M,Sin especificar,Sin especificar,55 a 59,-4.2667,-55.9926,1,2011.0,25.636,99.823,Calido,Alta,Malaria vivax
+150280,1502806,Para,Curralinho,150180,2012,8,M,Parda,Sin especificar,10 a 14,-1.81179,-49.7952,1,2012.6666666666667,25.912,91.242,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,150360,2012,9,M,Parda,8 a 11,45 a 49,-4.2667,-55.9926,1,2012.75,27.791,82.758,Calido,Moderada,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2013,10,M,Blanca,4 a 7,60 a 64,-3.11866,-60.0212,1,2013.8333333333333,25.945,94.056,Calido,Alta,Malaria vivax
+150503,1505031,Para,Novo progresso,150503,2014,10,M,Parda,Sin especificar,0 a 4,-7.14347,-55.3786,1,2014.8333333333333,25.608,95.121,Calido,Alta,Malaria ovale
+150745,1507458,Para,Sao geraldo do araguaia,1702109,2004,4,F,Parda,1 a 3,45 a 49,-6.39471,-48.5592,1,2004.3333333333333,25.146,97.083,Calido,Alta,Malaria falciparum
+355030,3550308,Sao paulo,Sao paulo,3548500,2005,7,M,Blanca,12 o mas,65+,-23.5329,-46.6395,1,2005.5833333333333,17.915,75.145,Templado,Moderada,Sin especificar
+150210,1502103,Para,Cameta,150210,2011,8,F,Negra,Sin especificar,65+,-2.24295,-49.4979,1,2011.6666666666667,25.281,95.952,Calido,Alta,Malaria vivax
+150506,1505064,Para,Novo repartimento,1508100,2003,3,F,Blanca,Ninguna,30 a 34,-4.24749,-49.9499,1,2003.25,25.277,99.806,Calido,Alta,Malaria vivax
+130190,1301902,Amazonas,Itacoatiara,130260,2006,12,M,Sin especificar,Sin especificar,20 a 24,-3.13861,-58.4449,1,2007.0,25.478,94.895,Calido,Alta,Malaria vivax
+210860,2108603,Maranhao,Pinheiro,210860,2012,1,M,Blanca,4 a 7,35 a 39,-2.52224,-45.0788,1,2012.0833333333333,25.895,90.758,Calido,Alta,Sin especificar
+130420,1304203,Amazonas,Tefe,130420,2014,7,M,Sin especificar,Sin especificar,10 a 14,-3.36822,-64.7193,1,2014.5833333333333,24.167,96.387,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,1100205,2003,11,M,Parda,Sin especificar,45 a 49,-8.76077,-63.8999,1,2003.9166666666667,26.267,94.667,Calido,Alta,Malaria vivax
+130250,1302504,Amazonas,Manacapuru,1302603,2004,11,F,Parda,Sin especificar,45 a 49,-3.29066,-60.6216,1,2004.9166666666667,26.065,98.192,Calido,Alta,Sin especificar
+210320,2103208,Maranhao,Chapadinha,2111300,2004,4,M,Parda,4 a 7,45 a 49,-3.73875,-43.3538,1,2004.3333333333333,26.374,91.858,Calido,Alta,Sin especificar
+120033,1200336,Acre,Municipio de lima,1200203,2005,12,F,Blanca,Ninguna,0 a 4,-7.61657,-72.8997,1,2006.0,26.118,90.476,Calido,Alta,Malaria falciparum
+160030,1600303,Amapa,Macapa,160060,2012,6,M,Parda,Ninguna,25 a 29,0.034934,-51.0694,1,2012.5,26.077,90.725,Calido,Alta,Malaria vivax
+352640,3526407,Sao paulo,Laranjal paulista,350750,2014,6,M,Blanca,12 o mas,50 a 54,-23.0506,-47.8375,1,2014.5,18.179,80.1,Templado,Moderada,Sin especificar
+150810,1508100,Para,Tucurui,1508100,2004,11,F,Parda,Sin especificar,0 a 4,-3.7657,-49.6773,1,2004.9166666666667,26.472,100.267,Calido,Muy alta,Malaria falciparum
+160050,1600501,Amapa,Oiapoque,160030,2007,8,M,Parda,Sin especificar,25 a 29,3.84074,-51.8331,1,2007.6666666666667,26.124,88.226,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2008,9,F,Blanca,Sin especificar,45 a 49,-8.76077,-63.8999,1,2008.75,26.449,81.75,Calido,Moderada,Malaria vivax
+330455,3304557,Rio de janeiro,Rio de janeiro,330455,2009,1,M,Blanca,8 a 11,30 a 34,-22.9129,-43.2003,1,2009.0833333333333,-20.75401430835089,97.032,Muy frio,Alta,Sin especificar
+130240,1302405,Amazonas,Labrea,130240,2012,7,F,Indigena,Sin especificar,0 a 4,-7.26413,-64.7948,1,2012.5833333333333,25.323,83.879,Calido,Moderada,Malaria vivax
+130060,1300607,Amazonas,Benjamin constant,130060,2013,12,M,Indigena,4 a 7,10 a 14,-4.37768,-70.0342,1,2014.0,26.483,99.524,Calido,Alta,Malaria vivax
+160030,1600303,Amapa,Macapa,1600303,2003,9,M,Parda,Ninguna,30 a 34,0.034934,-51.0694,1,2003.75,26.132,88.167,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,1100205,2003,9,M,Parda,Sin especificar,65+,-8.76077,-63.8999,1,2003.75,27.233,73.35,Calido,Moderada,Malaria falciparum
+130260,1302603,Amazonas,Manaus,1302603,2004,8,F,Blanca,Sin especificar,65+,-3.11866,-60.0212,1,2004.6666666666667,25.917,87.895,Calido,Alta,Malaria falciparum
+160030,1600303,Amapa,Macapa,1600303,2004,1,F,Blanca,4 a 7,20 a 24,0.034934,-51.0694,1,2004.0833333333333,25.879,96.355,Calido,Alta,Malaria falciparum
+150010,1500107,Para,Abaetetuba,150010,2010,8,M,Parda,1 a 3,10 a 14,-1.72183,-48.8788,1,2010.6666666666667,26.324,91.653,Calido,Alta,Sin especificar
+150795,1507953,Para,Tailandia,1507953,2005,8,M,Parda,4 a 7,15 a 19,-2.94584,-48.9489,1,2005.6666666666667,26.449,85.113,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,120040,2007,3,F,Parda,Ninguna,65+,-8.76077,-63.8999,1,2007.25,26.103,98.331,Calido,Alta,Malaria vivax
+140023,1400233,Roraima,Caroebe,140010,2007,5,F,Parda,Ninguna,65+,0.884203,-59.6959,1,2007.4166666666667,24.96,100.395,Calido,Muy alta,Malaria vivax
+160030,1600303,Amapa,Macapa,160030,2009,11,M,Parda,Ninguna,60 a 64,0.034934,-51.0694,1,2009.9166666666667,30.092,67.95,Muy calido,Baja,Sin especificar
+160050,1600501,Amapa,Oiapoque,160050,2010,5,M,Parda,4 a 7,65+,3.84074,-51.8331,1,2010.4166666666667,26.676,94.798,Calido,Alta,Malaria falciparum
+110002,1100023,Rondonia,Ariquemes,261160,2011,12,F,Blanca,12 o mas,30 a 34,-9.90571,-63.0325,1,2012.0,24.752,99.871,Calido,Alta,Sin especificar
+140047,1400472,Roraima,Rorainopolis,140047,2015,12,F,Negra,Ninguna,65+,0.939956,-60.4389,1,2016.0,25.923,85.161,Calido,Alta,Sin especificar
+150178,1501782,Para,Breu branco,1508100,2003,2,M,Parda,1 a 3,50 a 54,-3.77191,-49.5735,1,2003.1666666666667,25.291,100.732,Calido,Muy alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1100205,2003,2,M,Blanca,Sin especificar,55 a 59,-8.76077,-63.8999,1,2003.1666666666667,26.164,100.643,Calido,Muy alta,Sin especificar
+130002,1300029,Amazonas,Alvaraes,1300029,2004,6,M,Parda,1 a 3,15 a 19,-3.22727,-64.8007,1,2004.5,23.49,96.417,Calido,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,1302603,2004,6,M,Parda,Ninguna,65+,-3.11866,-60.0212,1,2004.5,25.085,94.25,Calido,Alta,Malaria falciparum
+160030,1600303,Amapa,Macapa,1600303,2004,1,F,Parda,1 a 3,25 a 29,0.034934,-51.0694,1,2004.0833333333333,25.879,96.355,Calido,Alta,Malaria falciparum
+510558,5105580,Mato grosso,Marcelandia,5103205,2004,2,F,Parda,4 a 7,25 a 29,-11.0463,-54.4377,1,2004.1666666666667,23.166,96.198,Calido,Alta,Malaria falciparum
+150172,1501725,Para,Brasil novo,1501725,2005,5,M,Parda,4 a 7,15 a 19,-3.29792,-52.534,1,2005.4166666666667,25.555,98.637,Calido,Alta,Malaria falciparum
+150503,1505031,Para,Novo progresso,1505031,2005,7,M,Parda,4 a 7,20 a 24,-7.14347,-55.3786,1,2005.5833333333333,26.465,57.169,Calido,Baja,Malaria falciparum
+170220,1702208,Tocantins,Araguatins,1702109,2005,10,M,Parda,1 a 3,55 a 59,-5.64659,-48.1232,1,2005.8333333333333,27.249,66.54,Calido,Baja,Malaria vivax
+520870,5208707,Goias,Goiania,520870,2010,12,M,Blanca,8 a 11,25 a 29,-16.6864,-49.2643,1,2011.0,23.193,94.831,Calido,Alta,Sin especificar
+160030,1600303,Amapa,Macapa,160030,2012,5,M,Parda,8 a 11,50 a 54,0.034934,-51.0694,1,2012.4166666666667,26.197,92.516,Calido,Alta,Sin especificar
+130320,1303205,Amazonas,Novo airao,130320,2012,7,F,Indigena,8 a 11,20 a 24,-2.63637,-60.9434,1,2012.5833333333333,26.136,93.403,Calido,Alta,Malaria vivax
+110013,1100130,Rondonia,Machadinho d'oeste,1100130,2003,1,M,Blanca,Sin especificar,45 a 49,-9.44363,-61.9818,1,2003.0833333333333,26.111,99.315,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2006,8,M,Parda,Sin especificar,65+,-8.76077,-63.8999,1,2006.6666666666667,28.061,67.081,Calido,Baja,Malaria vivax
+150613,1506138,Para,Redencao,172100,2007,7,M,Sin especificar,Sin especificar,0 a 4,-8.02529,-50.0317,1,2007.5833333333333,28.575,52.339,Calido,Baja,Malaria vivax
+270030,2700300,Alagoas,Arapiraca,270430,2007,4,M,Parda,Ninguna,50 a 54,-9.75487,-36.6615,1,2007.3333333333333,25.898,87.942,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2009,9,M,Parda,1 a 3,45 a 49,-8.76077,-63.8999,1,2009.75,26.387,90.158,Calido,Alta,Malaria vivax
+150730,1507300,Para,Sao felix do xingu,1507300,2004,9,F,Blanca,1 a 3,55 a 59,-6.64254,-51.9904,1,2004.75,26.78,64.667,Calido,Baja,Malaria vivax
+110011,1100114,Rondonia,Jaru,110020,2007,6,M,Sin especificar,Sin especificar,50 a 54,-10.4318,-62.4788,1,2007.5,25.12,82.767,Calido,Moderada,Malaria falciparum
+210125,2101251,Maranhao,Bacabeira,210125,2010,8,M,Parda,Sin especificar,60 a 64,-2.96452,-44.3164,1,2010.6666666666667,28.775,65.774,Calido,Baja,Sin especificar
+150503,1505031,Para,Novo progresso,150503,2010,12,F,Parda,1 a 3,15 a 19,-7.14347,-55.3786,1,2011.0,25.348,98.887,Calido,Alta,Malaria falciparum
+431240,4312401,Rio grande do sul,Montenegro,431490,2011,5,M,Blanca,Sin especificar,50 a 54,-29.6824,-51.4679,1,2011.4166666666667,16.647,91.508,Templado,Alta,Sin especificar
+130426,1304260,Amazonas,Uarini,130426,2012,3,F,Parda,Sin especificar,0 a 4,-2.99609,-65.1133,1,2012.25,24.422,98.984,Calido,Alta,Sin especificar
+140047,1400472,Roraima,Rorainopolis,140047,2015,8,F,Parda,4 a 7,10 a 14,0.939956,-60.4389,1,2015.6666666666667,24.981,94.04,Calido,Alta,Malaria falciparum
+150503,1505031,Para,Novo progresso,1505031,2004,10,M,Parda,Sin especificar,60 a 64,-7.14347,-55.3786,1,2004.8333333333333,25.771,96.347,Calido,Alta,Malaria vivax
+140010,1400100,Roraima,Boa vista,1400100,2004,12,F,Blanca,Sin especificar,20 a 24,2.82384,-60.6753,1,2005.0,24.705,94.29,Calido,Alta,Sin especificar
+150120,1501204,Para,Baiao,1508100,2005,3,F,Parda,1 a 3,50 a 54,-2.79021,-49.6694,1,2005.25,25.609,97.548,Calido,Alta,Sin especificar
+150345,1503457,Para,Ipixuna do para,150345,2010,2,F,Parda,Sin especificar,0 a 4,-2.55992,-47.5059,1,2010.1666666666667,26.022,98.214,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2012,1,F,Blanca,8 a 11,35 a 39,-3.11866,-60.0212,1,2012.0833333333333,25.74,98.863,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2012,7,M,Blanca,4 a 7,50 a 54,-3.11866,-60.0212,1,2012.5833333333333,25.615,93.403,Calido,Alta,Malaria vivax
+160030,1600303,Amapa,Macapa,1600303,2003,4,M,Parda,Ninguna,35 a 39,0.034934,-51.0694,1,2003.3333333333333,25.969,96.425,Calido,Alta,Malaria falciparum
+120010,1200104,Acre,Brasilia,1200104,2005,2,M,Parda,Ninguna,10 a 14,-10.995,-68.7497,1,2005.1666666666667,25.783,97.964,Calido,Alta,Sin especificar
+130190,1301902,Amazonas,Itacoatiara,130190,2007,9,F,Blanca,1 a 3,5 a 9,-3.13861,-58.4449,1,2007.75,25.04,95.3,Calido,Alta,Sin especificar
+510840,5108402,Mato grosso,Varzea grande,510340,2012,5,M,Parda,4 a 7,25 a 29,-15.6458,-56.1322,1,2012.4166666666667,23.447,90.024,Calido,Alta,Malaria ovale
+411370,4113700,Parana,Londrina,411370,2015,8,F,Negra,8 a 11,35 a 39,-23.304,-51.1691,1,2015.6666666666667,19.923,57.468,Templado,Baja,Malaria vivax
+510890,5108907,Mato grosso,Nova maringa,5107925,2003,12,M,Parda,4 a 7,45 a 49,-13.0136,-57.0908,1,2004.0,24.005,96.96,Calido,Alta,Sin especificar
+160030,1600303,Amapa,Macapa,1600303,2005,7,M,Parda,Sin especificar,0 a 4,0.034934,-51.0694,1,2005.5833333333333,25.866,87.323,Calido,Alta,Sin especificar
+160050,1600501,Amapa,Oiapoque,1600501,2005,4,M,Parda,Sin especificar,0 a 4,3.84074,-51.8331,1,2005.3333333333333,26.15,97.425,Calido,Alta,Sin especificar
+500270,5002704,Mato grosso do sul,Campo grande,500270,2010,6,M,Blanca,4 a 7,60 a 64,-20.4486,-54.6295,1,2010.5,21.079,68.825,Calido,Baja,Malaria falciparum
+410480,4104808,Parana,Cascavel,4104808,2003,12,M,Blanca,4 a 7,40 a 44,-24.9573,-53.459,1,2004.0,22.816,93.524,Calido,Alta,Sin especificar
+411990,4119905,Parana,Ponta grossa,411990,2008,6,M,Blanca,8 a 11,45 a 49,-25.0916,-50.1668,1,2008.5,12.037,88.4,Templado,Alta,Malaria falciparum
+150360,1503606,Para,Itaituba,150360,2010,7,M,Parda,4 a 7,25 a 29,-4.2667,-55.9926,1,2010.5833333333333,25.803,94.347,Calido,Alta,Malaria falciparum
+130060,1300607,Amazonas,Benjamin constant,130406,2012,11,F,Parda,Sin especificar,65+,-4.37768,-70.0342,1,2012.9166666666667,26.8,98.6,Calido,Alta,Malaria vivax
+130395,1303957,Amazonas,Sao sebastiao do uatuma,1303957,2005,6,M,Blanca,Ninguna,0 a 4,-2.55915,-57.8731,1,2005.5,25.332,97.092,Calido,Alta,Malaria falciparum
+210960,2109601,Maranhao,Rosario,2111300,2005,7,M,Parda,4 a 7,20 a 24,-2.93444,-44.2531,1,2005.5833333333333,26.983,70.194,Calido,Moderada,Sin especificar
+150360,1503606,Para,Itaituba,1503606,2005,1,M,Parda,Sin especificar,0 a 4,-4.2667,-55.9926,1,2005.0833333333333,25.709,98.823,Calido,Alta,Sin especificar
+210550,2105500,Maranhao,Joao lisboa,210530,2011,6,F,Parda,Ninguna,65+,-5.44363,-47.4064,1,2011.5,24.824,88.058,Calido,Alta,Sin especificar
+211220,2112209,Maranhao,Timon,221100,2013,7,M,Parda,4 a 7,30 a 34,-5.09769,-42.8329,1,2013.5833333333333,26.063,71.96,Calido,Moderada,Sin especificar
+160060,1600600,Amapa,Santana,1600600,2003,10,M,Parda,Sin especificar,0 a 4,-0.045434,-51.1729,1,2003.8333333333333,26.62,82.137,Calido,Moderada,Malaria falciparum
+130350,1303502,Amazonas,Pauini,1303502,2004,8,M,Parda,Sin especificar,10 a 14,-7.71311,-66.992,1,2004.6666666666667,24.278,82.669,Calido,Moderada,Malaria falciparum
+250400,2504009,Paraiba,Campina grande,250400,2008,5,M,Parda,Sin especificar,35 a 39,-7.22196,-35.8731,1,2008.4166666666667,24.98,96.089,Calido,Alta,Sin especificar
+160060,1600600,Amapa,Santana,160060,2006,8,F,Parda,Sin especificar,0 a 4,-0.045434,-51.1729,1,2006.6666666666667,26.466,80.556,Calido,Moderada,Malaria falciparum
+410940,4109401,Parana,Guarapuava,410940,2006,1,M,Blanca,12 o mas,40 a 44,-25.3902,-51.4623,1,2006.0833333333333,21.544,95.339,Calido,Alta,Malaria falciparum
+150178,1501782,Para,Breu branco,150810,2009,2,M,Parda,1 a 3,20 a 24,-3.77191,-49.5735,1,2009.1666666666667,25.304,101.0,Calido,Muy alta,Sin especificar
+160030,1600303,Amapa,Macapa,160030,2009,10,F,Parda,1 a 3,25 a 29,0.034934,-51.0694,1,2009.8333333333333,29.689,69.903,Calido,Baja,Sin especificar
+110002,1100023,Rondonia,Ariquemes,110002,2010,11,F,Blanca,1 a 3,25 a 29,-9.90571,-63.0325,1,2010.9166666666667,24.682,97.717,Calido,Alta,Sin especificar
+210360,2103604,Maranhao,Coroata,2103604,2004,2,M,Parda,Ninguna,30 a 34,-4.13442,-44.1244,1,2004.1666666666667,24.658,96.25,Calido,Alta,Sin especificar
+130426,1304260,Amazonas,Uarini,130426,2011,9,M,Parda,Ninguna,65+,-2.99609,-65.1133,1,2011.75,25.027,95.317,Calido,Alta,Sin especificar
+420540,4205407,Santa catarina,Florianopolis,420540,2011,10,M,Blanca,8 a 11,45 a 49,-27.5945,-48.5477,1,2011.8333333333333,18.891,89.54,Templado,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,1200203,2005,9,M,Sin especificar,Ninguna,0 a 4,-7.62762,-72.6756,1,2005.75,27.181,71.25,Calido,Moderada,Sin especificar
+210005,2100055,Maranhao,Acailandia,210530,2010,7,M,Blanca,1 a 3,65+,-4.94714,-47.5004,1,2010.5833333333333,25.486,75.952,Calido,Moderada,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,1200203,2003,7,M,Sin especificar,Sin especificar,0 a 4,-7.62762,-72.6756,1,2003.5833333333333,24.753,84.298,Calido,Moderada,Sin especificar
+160053,1600535,Amapa,Porto grande,1600303,2003,10,M,Parda,1 a 3,25 a 29,0.71243,-51.4155,1,2003.8333333333333,27.07,88.911,Calido,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,1302603,2005,4,M,Parda,4 a 7,25 a 29,-3.11866,-60.0212,1,2005.3333333333333,26.231,98.892,Calido,Alta,Malaria vivax
+150420,1504208,Para,Maraba,150420,2009,6,M,Parda,Sin especificar,40 a 44,-5.38075,-49.1327,1,2009.5,24.741,96.208,Calido,Alta,Sin especificar
+110002,1100023,Rondonia,Ariquemes,110002,2010,4,M,Parda,1 a 3,45 a 49,-9.90571,-63.0325,1,2010.3333333333333,24.733,95.983,Calido,Alta,Malaria falciparum
+130020,1300201,Amazonas,Atalaia do norte,130060,2010,4,F,Blanca,1 a 3,20 a 24,-4.37055,-70.1967,1,2010.3333333333333,26.833,99.917,Calido,Alta,Malaria falciparum
+510525,5105259,Mato grosso,Lucas do rio verde,510525,2010,8,M,Parda,Ninguna,45 a 49,-13.0588,-55.9042,1,2010.6666666666667,27.739,32.323,Calido,Muy baja,Malaria vivax
+313170,3131703,Minas gerais,Itabira,310620,2011,4,F,Parda,12 o mas,25 a 29,-19.6239,-43.2312,1,2011.3333333333333,20.829,98.375,Calido,Alta,Sin especificar
+150030,1500305,Para,Afua,150030,2012,8,F,Parda,Sin especificar,0 a 4,-0.154874,-50.3861,1,2012.6666666666667,25.912,87.21,Calido,Alta,Malaria falciparum
+130150,1301506,Amazonas,Envira,1301506,2003,2,M,Blanca,8 a 11,15 a 19,-7.43789,-70.0281,1,2003.1666666666667,24.453,98.741,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1100205,2004,4,F,Negra,Sin especificar,0 a 4,-8.76077,-63.8999,1,2004.3333333333333,26.028,97.65,Calido,Alta,Sin especificar
+354780,3547809,Sao paulo,Santo andre,3548708,2004,8,M,Blanca,Sin especificar,55 a 59,-23.6737,-46.5432,1,2004.6666666666667,18.614,63.629,Templado,Baja,Sin especificar
+160030,1600303,Amapa,Macapa,160030,2009,3,M,Parda,Sin especificar,50 a 54,0.034934,-51.0694,1,2009.25,25.75,96.355,Calido,Alta,Malaria falciparum
+150600,1506005,Para,Prainha,150600,2010,7,M,Parda,Ninguna,65+,-1.798,-53.4779,1,2010.5833333333333,25.178,97.766,Calido,Alta,Malaria falciparum
+120042,1200427,Acre,Rodrigues alves,1200427,2005,3,F,Parda,Ninguna,20 a 24,-7.73864,-72.661,1,2005.25,26.525,93.081,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2006,10,M,Parda,4 a 7,50 a 54,-3.11866,-60.0212,1,2006.8333333333333,26.199,96.048,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2008,5,F,Blanca,Sin especificar,40 a 44,-8.76077,-63.8999,1,2008.4166666666667,25.393,96.597,Calido,Alta,Malaria falciparum
+140050,1400506,Roraima,Sao joao da baliza,140010,2010,5,F,Parda,4 a 7,65+,0.951659,-59.9133,1,2010.4166666666667,25.448,100.629,Calido,Muy alta,Malaria falciparum
+150810,1508100,Para,Tucurui,1508100,2004,1,M,Negra,4 a 7,20 a 24,-3.7657,-49.6773,1,2004.0833333333333,25.451,99.661,Calido,Alta,Malaria falciparum
+120033,1200336,Acre,Municipio de lima,1200203,2005,8,F,Parda,1 a 3,20 a 24,-7.61657,-72.8997,1,2005.6666666666667,27.34,64.685,Calido,Baja,Malaria falciparum
+520870,5208707,Goias,Goiania,520870,2006,4,F,Sin especificar,Sin especificar,30 a 34,-16.6864,-49.2643,1,2006.3333333333333,21.972,93.75,Calido,Alta,Malaria vivax
+110012,1100122,Rondonia,Ji-parana,110020,2006,5,M,Parda,8 a 11,20 a 24,-10.8777,-61.9322,1,2006.4166666666667,23.198,92.556,Calido,Alta,Malaria falciparum
+130320,1303205,Amazonas,Novo airao,130260,2007,10,F,Parda,Ninguna,5 a 9,-2.63637,-60.9434,1,2007.8333333333333,26.913,94.0,Calido,Alta,Malaria vivax
+320130,3201308,Espirito santo,Cariacica,3201308,2003,11,M,Blanca,Sin especificar,60 a 64,-20.2632,-40.4165,1,2003.9166666666667,23.106,87.633,Calido,Alta,Malaria vivax
+140070,1400704,Roraima,Uiramuta,1400704,2004,12,M,Sin especificar,Sin especificar,0 a 4,4.60314,-60.1815,1,2005.0,24.456,91.556,Calido,Alta,Malaria vivax
+130356,1303569,Amazonas,Rio preto da eva,130260,2006,4,F,Sin especificar,Sin especificar,60 a 64,-2.7045,-59.6858,1,2006.3333333333333,25.85,98.658,Calido,Alta,Malaria falciparum
+510790,5107909,Mato grosso,Sinop,510790,2011,7,F,Blanca,Ninguna,65+,-11.8604,-55.5091,1,2011.5833333333333,26.415,44.839,Calido,Muy baja,Sin especificar
+130420,1304203,Amazonas,Tefe,1302603,2003,7,M,Parda,Sin especificar,20 a 24,-3.36822,-64.7193,1,2003.5833333333333,23.803,95.145,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,1302603,2003,9,F,Parda,4 a 7,65+,-3.11866,-60.0212,1,2003.75,25.703,95.517,Calido,Alta,Malaria vivax
+500270,5002704,Mato grosso do sul,Campo grande,500270,2007,5,M,Parda,8 a 11,35 a 39,-20.4486,-54.6295,1,2007.4166666666667,20.559,85.524,Calido,Alta,Sin especificar
+160027,1600279,Amapa,Laranjal do jari,150050,2008,3,M,Parda,1 a 3,30 a 34,-0.804911,-52.453,1,2008.25,24.674,100.532,Calido,Muy alta,Sin especificar
+150250,1502509,Para,Chaves,1502509,2005,8,M,Parda,Ninguna,55 a 59,-0.164154,-49.987,1,2005.6666666666667,25.902,85.629,Calido,Alta,Malaria vivax
+130270,1302702,Amazonas,Manicore,130270,2009,3,F,Blanca,Sin especificar,5 a 9,-5.80462,-61.2895,1,2009.25,25.583,99.976,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,110020,2010,4,M,Negra,12 o mas,20 a 24,-8.76077,-63.8999,1,2010.3333333333333,26.626,96.0,Calido,Alta,Malaria vivax
+160030,1600303,Amapa,Macapa,160030,2012,9,F,Parda,Sin especificar,0 a 4,0.034934,-51.0694,1,2012.75,26.712,83.175,Calido,Moderada,Malaria falciparum
+130260,1302603,Amazonas,Manaus,1302603,2004,2,M,Parda,Ninguna,50 a 54,-3.11866,-60.0212,1,2004.1666666666667,24.655,97.284,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,1100205,2004,3,M,Parda,Sin especificar,50 a 54,-8.76077,-63.8999,1,2004.25,25.964,99.387,Calido,Alta,Malaria falciparum
+210530,2105302,Maranhao,Imperatriz,210530,2006,1,M,Parda,4 a 7,15 a 19,-5.51847,-47.4777,1,2006.0833333333333,24.874,97.661,Calido,Alta,Sin especificar
+140047,1400472,Roraima,Rorainopolis,140047,2006,3,F,Parda,Sin especificar,0 a 4,0.939956,-60.4389,1,2006.25,24.467,100.419,Calido,Muy alta,Malaria vivax
+150170,1501709,Para,Braganca,150170,2007,4,M,Parda,4 a 7,10 a 14,-1.06126,-46.7826,1,2007.3333333333333,26.287,94.233,Calido,Alta,Malaria vivax
+150270,1502707,Para,Conceicao do araguaia,150270,2009,11,F,Parda,Sin especificar,35 a 39,-8.26136,-49.2689,1,2009.9166666666667,25.22,98.525,Calido,Alta,Malaria vivax
+150180,1501808,Para,Breves,150180,2010,5,M,Parda,4 a 7,40 a 44,-1.68036,-50.4791,1,2010.4166666666667,26.593,98.065,Calido,Alta,Malaria falciparum
+130185,1301852,Amazonas,Iranduba,130185,2012,9,F,Parda,4 a 7,65+,-3.27479,-60.19,1,2012.75,26.214,89.45,Calido,Alta,Sin especificar
+210750,2107506,Maranhao,Paco do lumiar,2111300,2004,2,M,Blanca,12 o mas,55 a 59,-2.51657,-44.1019,1,2004.1666666666667,25.236,91.784,Calido,Alta,Malaria vivax
+140010,1400100,Roraima,Boa vista,1400100,2004,2,M,Parda,12 o mas,35 a 39,2.82384,-60.6753,1,2004.1666666666667,23.975,88.948,Calido,Alta,Malaria vivax
+210160,2101608,Maranhao,Barra do corda,221100,2006,7,M,Sin especificar,Sin especificar,35 a 39,-5.49682,-45.2485,1,2006.5833333333333,27.195,54.073,Calido,Baja,Sin especificar
+110002,1100023,Rondonia,Ariquemes,110020,2006,4,M,Blanca,12 o mas,15 a 19,-9.90571,-63.0325,1,2006.3333333333333,24.122,98.392,Calido,Alta,Sin especificar
+130120,1301209,Amazonas,Coari,130120,2007,9,M,Blanca,Sin especificar,0 a 4,-4.09412,-63.1441,1,2007.75,25.21,94.117,Calido,Alta,Malaria falciparum
+120040,1200401,Acre,Rio branco,120040,2007,3,F,Parda,1 a 3,65+,-9.97499,-67.8243,1,2007.25,25.152,97.339,Calido,Alta,Sin especificar
+120040,1200401,Acre,Rio branco,120040,2009,11,M,Blanca,Sin especificar,30 a 34,-9.97499,-67.8243,1,2009.9166666666667,27.106,90.742,Calido,Alta,Malaria vivax
+311530,3115300,Minas gerais,Cataguases,311530,2009,2,F,Blanca,Sin especificar,65+,-21.3924,-42.6896,1,2009.1666666666667,23.791,96.741,Calido,Alta,Sin especificar
+150380,1503804,Para,Jacunda,150380,2009,12,M,Blanca,4 a 7,15 a 19,-4.44617,-49.1153,1,2010.0,25.222,99.452,Calido,Alta,Sin especificar
+510335,5103353,Mato grosso,Confresa,510340,2010,6,M,Parda,1 a 3,25 a 29,-10.6437,-51.5699,1,2010.5,26.002,65.8,Calido,Baja,Sin especificar
+150710,1507102,Para,Sao caetano de odivelas,150140,2014,12,F,Parda,Sin especificar,0 a 4,-0.747293,-48.0246,1,2015.0,27.483,81.613,Calido,Moderada,Sin especificar
+130330,1303304,Amazonas,Novo aripuana,1303304,2005,9,F,Parda,Ninguna,0 a 4,-5.12593,-60.3732,1,2005.75,26.501,88.792,Calido,Alta,Malaria falciparum
+292740,2927408,Bahia,Salvador,290570,2009,4,M,Negra,4 a 7,30 a 34,-12.9718,-38.5011,1,2009.3333333333333,24.322,91.975,Calido,Alta,Sin especificar
+410830,4108304,Parana,Foz do iguacu,4108304,2003,3,M,Blanca,4 a 7,60 a 64,-25.5427,-54.5827,1,2003.25,23.132,94.847,Calido,Alta,Malaria falciparum
+150795,1507953,Para,Tailandia,1507953,2004,1,M,Parda,Sin especificar,0 a 4,-2.94584,-48.9489,1,2004.0833333333333,25.451,98.911,Calido,Alta,Malaria falciparum
+330575,3305752,Rio de janeiro,Tangua,3304904,2005,10,M,Parda,4 a 7,50 a 54,-22.7423,-42.7202,1,2005.8333333333333,24.079,82.887,Calido,Moderada,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2006,5,F,Blanca,Sin especificar,30 a 34,-3.11866,-60.0212,1,2006.4166666666667,25.723,97.742,Calido,Alta,Sin especificar
+130080,1300805,Amazonas,Borba,130080,2006,6,F,Parda,1 a 3,65+,-4.39154,-59.5874,1,2006.5,25.821,89.492,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2011,1,M,Parda,8 a 11,15 a 19,-8.76077,-63.8999,1,2011.0833333333333,26.13,98.266,Calido,Alta,Malaria vivax
+130250,1302504,Amazonas,Manacapuru,130260,2012,2,F,Parda,4 a 7,20 a 24,-3.29066,-60.6216,1,2012.1666666666667,24.642,95.103,Calido,Alta,Malaria vivax
+130420,1304203,Amazonas,Tefe,1304203,2003,5,F,Blanca,Ninguna,0 a 4,-3.36822,-64.7193,1,2003.4166666666667,24.449,99.468,Calido,Alta,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,1200203,2005,3,F,Parda,Sin especificar,0 a 4,-7.62762,-72.6756,1,2005.25,26.525,93.081,Calido,Alta,Malaria falciparum
+150178,1501782,Para,Breu branco,150810,2008,9,F,Parda,Sin especificar,0 a 4,-3.77191,-49.5735,1,2008.75,25.691,84.908,Calido,Moderada,Sin especificar
+110030,1100304,Rondonia,Vilhena,110030,2013,8,M,Blanca,12 o mas,65+,-12.7502,-60.1488,1,2013.6666666666667,26.763,39.677,Calido,Muy baja,Malaria vivax
+110080,1100809,Rondonia,Candeias do jamari,110020,2014,8,M,Parda,1 a 3,5 a 9,-8.7907,-63.7005,1,2014.6666666666667,26.488,72.25,Calido,Moderada,Malaria vivax
+110020,1100205,Rondonia,Porto velho,1100205,2004,10,F,Blanca,Sin especificar,20 a 24,-8.76077,-63.8999,1,2004.8333333333333,26.381,88.548,Calido,Alta,Malaria falciparum
+510025,5100250,Mato grosso,Alta floresta,1505031,2005,9,M,Parda,1 a 3,0 a 4,-9.86674,-56.0867,1,2005.75,28.945,50.925,Calido,Baja,Malaria falciparum
+210545,2105450,Maranhao,Jatoba,2211001,2005,5,F,Parda,Ninguna,55 a 59,-5.82282,-44.2153,1,2005.4166666666667,25.032,89.742,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2009,10,M,Blanca,4 a 7,65+,-3.11866,-60.0212,1,2009.8333333333333,26.173,95.71,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,150360,2010,12,F,Negra,Sin especificar,30 a 34,-4.2667,-55.9926,1,2011.0,25.636,99.823,Calido,Alta,Malaria falciparum
+150070,1500701,Para,Anajas,150070,2012,2,M,Parda,Ninguna,10 a 14,-0.996811,-49.9354,1,2012.1666666666667,24.57,92.733,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2012,10,F,Blanca,Ninguna,65+,-8.76077,-63.8999,1,2012.8333333333333,26.355,91.702,Calido,Alta,Malaria vivax
+120020,1200203,Acre,Cruzeiro do sul,120020,2008,6,F,Parda,Sin especificar,0 a 4,-7.62762,-72.6756,1,2008.5,24.287,90.292,Calido,Alta,Malaria falciparum
+160030,1600303,Amapa,Macapa,150140,2010,7,M,Parda,4 a 7,65+,0.034934,-51.0694,1,2010.5833333333333,26.355,90.387,Calido,Alta,Malaria vivax
+130380,1303809,Amazonas,Sao gabriel da cachoeira,130380,2012,3,M,Indigena,4 a 7,55 a 59,-0.11909,-67.084,1,2012.25,24.895,97.75,Calido,Alta,Sin especificar
+120040,1200401,Acre,Rio branco,120040,2012,4,M,Sin especificar,Sin especificar,25 a 29,-9.97499,-67.8243,1,2012.3333333333333,25.261,96.117,Calido,Alta,Sin especificar
+350160,3501608,Sao paulo,Americana,350950,2015,10,M,Blanca,12 o mas,60 a 64,-22.7374,-47.3331,1,2015.8333333333333,24.959,74.016,Calido,Moderada,Malaria falciparum
+150810,1508100,Para,Tucurui,1508100,2005,7,F,Parda,1 a 3,25 a 29,-3.7657,-49.6773,1,2005.5833333333333,25.286,70.355,Calido,Moderada,Malaria falciparum
+130070,1300706,Amazonas,Boca do acre,120040,2007,9,F,Blanca,Ninguna,65+,-8.74232,-67.3919,1,2007.75,24.896,93.275,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,1100205,2004,7,M,Parda,Sin especificar,0 a 4,-8.76077,-63.8999,1,2004.5833333333333,24.995,83.419,Calido,Moderada,Malaria vivax
+110020,1100205,Rondonia,Porto velho,1100205,2005,6,F,Parda,Sin especificar,0 a 4,-8.76077,-63.8999,1,2005.5,25.496,90.433,Calido,Alta,Malaria falciparum
+160015,1600154,Amapa,Pedra branca do amapari,160015,2006,10,F,Indigena,1 a 3,15 a 19,0.777424,-51.9503,1,2006.8333333333333,28.206,66.032,Calido,Baja,Malaria falciparum
+160080,1600808,Amapa,Vitoria do jari,150050,2010,7,F,Amarilla,4 a 7,15 a 19,-0.938,-52.424,1,2010.5833333333333,25.356,99.032,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,150360,2009,10,F,Parda,1 a 3,40 a 44,-4.2667,-55.9926,1,2009.8333333333333,25.998,98.387,Calido,Alta,Malaria falciparum
+211400,2114007,Maranhao,Ze doca,2114007,2005,10,M,Blanca,Ninguna,30 a 34,-3.27014,-45.6553,1,2005.8333333333333,31.046,65.016,Muy calido,Baja,Sin especificar
+510325,5103254,Mato grosso,Colniza,510325,2006,12,F,Blanca,4 a 7,15 a 19,-9.46121,-59.2252,1,2007.0,25.552,95.927,Calido,Alta,Sin especificar
+150800,1508001,Para,Tome-acu,150140,2008,8,F,Parda,1 a 3,55 a 59,-2.4130163,-48.1414871,1,2008.6666666666667,25.698,87.984,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,1100205,2005,6,F,Parda,Sin especificar,30 a 34,-8.76077,-63.8999,1,2005.5,25.496,90.433,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2007,8,F,Parda,4 a 7,40 a 44,-8.76077,-63.8999,1,2007.6666666666667,28.2,61.065,Calido,Baja,Malaria falciparum
+150070,1500701,Para,Anajas,150070,2009,8,F,Parda,Ninguna,35 a 39,-0.996811,-49.9354,1,2009.6666666666667,26.087,82.653,Calido,Moderada,Malaria falciparum
+210530,2105302,Maranhao,Imperatriz,210530,2011,10,M,Parda,4 a 7,65+,-5.51847,-47.4777,1,2011.8333333333333,26.865,85.403,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2014,5,F,Blanca,8 a 11,20 a 24,-3.11866,-60.0212,1,2014.4166666666667,26.013,98.153,Calido,Alta,Malaria vivax
+160027,1600279,Amapa,Laranjal do jari,1600279,2004,3,M,Negra,12 o mas,25 a 29,-0.804911,-52.453,1,2004.25,25.204,102.202,Calido,Muy alta,Malaria falciparum
+130250,1302504,Amazonas,Manacapuru,130260,2007,12,F,Parda,Ninguna,5 a 9,-3.29066,-60.6216,1,2008.0,25.763,98.153,Calido,Alta,Sin especificar
+150380,1503804,Para,Jacunda,150810,2009,1,M,Parda,4 a 7,20 a 24,-4.44617,-49.1153,1,2009.0833333333333,25.006,99.46,Calido,Alta,Malaria vivax
+500790,5007901,Mato grosso do sul,Sidrolandia,500270,2013,2,F,Blanca,8 a 11,30 a 34,-20.9302,-54.9692,1,2013.1666666666667,24.451,95.991,Calido,Alta,Sin especificar
+150420,1504208,Para,Maraba,1504208,2003,10,F,Parda,4 a 7,20 a 24,-5.38075,-49.1327,1,2003.8333333333333,26.754,92.629,Calido,Alta,Sin especificar
+210690,2106904,Maranhao,Montes claros,2111300,2004,10,M,Parda,1 a 3,35 a 39,-3.48125,-45.2496,1,2004.8333333333333,30.674,65.113,Muy calido,Baja,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,120020,2009,9,M,Parda,4 a 7,10 a 14,-7.62762,-72.6756,1,2009.75,26.092,88.1,Calido,Alta,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,120020,2015,6,F,Parda,8 a 11,25 a 29,-7.62762,-72.6756,1,2015.5,25.183,90.667,Calido,Alta,Malaria vivax
+150503,1505031,Para,Novo progresso,1505031,2003,9,M,Parda,Sin especificar,50 a 54,-7.14347,-55.3786,1,2003.75,27.38,69.025,Calido,Baja,Malaria falciparum
+211130,2111300,Maranhao,Sao luis,2111300,2005,2,M,Parda,Sin especificar,15 a 19,-2.53874,-44.2825,1,2005.1666666666667,26.642,92.455,Calido,Alta,Malaria falciparum
+150178,1501782,Para,Breu branco,1508100,2005,4,M,Parda,Sin especificar,0 a 4,-3.77191,-49.5735,1,2005.3333333333333,25.652,97.792,Calido,Alta,Sin especificar
+352590,3525904,Sao paulo,Jundiai,3525904,2005,12,M,Blanca,4 a 7,35 a 39,-23.1852,-46.8974,1,2006.0,21.345,94.54,Calido,Alta,Sin especificar
+330455,3304557,Rio de janeiro,Rio de janeiro,330455,2006,9,M,Blanca,4 a 7,40 a 44,-22.9129,-43.2003,1,2006.75,-20.755055432859205,79.883,Muy frio,Moderada,Sin especificar
+521800,5218003,Goias,Porangatu,520870,2007,3,F,Parda,8 a 11,10 a 14,-13.4391,-49.1503,1,2007.25,22.798,92.742,Calido,Alta,Malaria falciparum
+130390,1303908,Amazonas,Sao paulo de olivenca,130390,2013,6,F,Indigena,Ninguna,65+,-3.47292,-68.9646,1,2013.5,25.916,99.35,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,1302603,2004,1,M,Parda,8 a 11,40 a 44,-3.11866,-60.0212,1,2004.0833333333333,25.801,99.71,Calido,Alta,Malaria vivax
+314740,3147402,Minas gerais,Paraopeba,2211001,2004,12,F,Parda,1 a 3,45 a 49,-19.2732,-44.4044,1,2005.0,20.636,96.968,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,1100205,2004,7,M,Blanca,Sin especificar,35 a 39,-8.76077,-63.8999,1,2004.5833333333333,24.995,83.419,Calido,Moderada,Sin especificar
+170320,1703206,Tocantins,Bernardo sayao,1702109,2004,4,M,Negra,1 a 3,30 a 34,-7.87481,-48.8893,1,2004.3333333333333,24.917,97.4,Calido,Alta,Malaria falciparum
+411790,4117909,Parana,Palotina,4127700,2005,1,M,Blanca,4 a 7,30 a 34,-24.2868,-53.8404,1,2005.0833333333333,24.503,95.589,Calido,Alta,Malaria falciparum
+411370,4113700,Parana,Londrina,411370,2007,8,F,Parda,1 a 3,45 a 49,-23.304,-51.1691,1,2007.6666666666667,19.218,60.226,Templado,Baja,Malaria falciparum
+140017,1400175,Roraima,Canta,140010,2009,7,M,Blanca,8 a 11,15 a 19,2.60994,-60.6058,1,2009.5833333333333,24.222,96.508,Calido,Alta,Sin especificar
+520870,5208707,Goias,Goiania,520870,2007,10,M,Parda,4 a 7,55 a 59,-16.6864,-49.2643,1,2007.8333333333333,27.228,57.226,Calido,Baja,Malaria falciparum
+140002,1400027,Roraima,Amajari,140002,2009,6,F,Indigena,Ninguna,5 a 9,3.64571,-61.3692,1,2009.5,23.281,97.767,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,110020,2009,6,M,Parda,4 a 7,50 a 54,-8.76077,-63.8999,1,2009.5,25.313,96.3,Calido,Alta,Malaria vivax
+110033,1100338,Rondonia,Nova mamore,110020,2012,9,F,Blanca,4 a 7,65+,-10.4077,-65.3346,1,2012.75,25.7,83.342,Calido,Moderada,Malaria vivax
+520870,5208707,Goias,Goiania,5208707,2003,8,M,Blanca,Sin especificar,30 a 34,-16.6864,-49.2643,1,2003.6666666666667,25.139,42.419,Calido,Muy baja,Malaria falciparum
+140005,1400050,Roraima,Alto alegre,140005,2007,2,F,Indigena,Ninguna,5 a 9,2.98858,-61.3072,1,2007.1666666666667,26.558,73.045,Calido,Moderada,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2008,7,F,Parda,Ninguna,65+,-3.11866,-60.0212,1,2008.5833333333333,25.775,90.984,Calido,Alta,Malaria vivax
+240810,2408102,Rio grande do norte,Natal,240810,2008,12,F,Blanca,4 a 7,55 a 59,-5.79357,-35.1986,1,2009.0,28.072,81.379,Calido,Moderada,Malaria falciparum
+120040,1200401,Acre,Rio branco,120040,2009,8,F,Parda,8 a 11,55 a 59,-9.97499,-67.8243,1,2009.6666666666667,25.292,85.113,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,1100205,2003,7,M,Parda,Sin especificar,65+,-8.76077,-63.8999,1,2003.5833333333333,26.275,74.508,Calido,Moderada,Sin especificar
+150360,1503606,Para,Itaituba,1503606,2004,8,F,Parda,4 a 7,30 a 34,-4.2667,-55.9926,1,2004.6666666666667,27.243,80.984,Calido,Moderada,Sin especificar
+110033,1100338,Rondonia,Nova mamore,1100023,2004,1,F,Blanca,Sin especificar,45 a 49,-10.4077,-65.3346,1,2004.0833333333333,24.895,97.75,Calido,Alta,Malaria falciparum
+320490,3204906,Espirito santo,Sao mateus,3205002,2005,7,F,Sin especificar,Sin especificar,50 a 54,-18.7214,-39.8579,1,2005.5833333333333,-20.75401430835089,84.669,Muy frio,Moderada,Malaria vivax
+150085,1500859,Para,Anapu,150810,2006,1,M,Parda,Sin especificar,0 a 4,-3.46985,-51.2003,1,2006.0833333333333,25.581,97.653,Calido,Alta,Malaria vivax
+150370,1503705,Para,Itupiranga,150370,2007,6,F,Parda,Sin especificar,0 a 4,-5.13272,-49.3358,1,2007.5,24.913,82.375,Calido,Moderada,Malaria falciparum
+431480,4314803,Rio grande do sul,Portao,431490,2010,4,M,Blanca,Sin especificar,55 a 59,-29.7015,-51.2429,1,2010.3333333333333,19.728,89.308,Templado,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,130260,2006,1,F,Blanca,Sin especificar,60 a 64,-3.11866,-60.0212,1,2006.0833333333333,25.863,98.516,Calido,Alta,Malaria vivax
+150180,1501808,Para,Breves,150180,2006,1,M,Parda,4 a 7,35 a 39,-1.68036,-50.4791,1,2006.0833333333333,25.621,97.653,Calido,Alta,Malaria falciparum
+330455,3304557,Rio de janeiro,Rio de janeiro,330455,2007,3,F,Negra,8 a 11,40 a 44,-22.9129,-43.2003,1,2007.25,-20.75401430835089,91.798,Muy frio,Alta,Malaria falciparum
+150110,1501105,Para,Bagre,150180,2010,8,F,Parda,Sin especificar,5 a 9,-1.90057,-50.1987,1,2010.6666666666667,25.974,91.653,Calido,Alta,Sin especificar
+410590,4105904,Parana,Colorado,4105904,2005,7,M,Blanca,1 a 3,45 a 49,-22.8374,-51.9743,1,2005.5833333333333,18.573,72.306,Templado,Moderada,Malaria vivax
+150085,1500859,Para,Anapu,150060,2006,7,M,Parda,4 a 7,25 a 29,-3.46985,-51.2003,1,2006.5833333333333,25.263,88.734,Calido,Alta,Malaria vivax
+150060,1500602,Para,Altamira,150060,2006,8,F,Parda,Ninguna,65+,-3.20407,-52.21,1,2006.6666666666667,26.104,87.419,Calido,Alta,Malaria vivax
+130420,1304203,Amazonas,Tefe,130420,2007,3,M,Parda,Sin especificar,0 a 4,-3.36822,-64.7193,1,2007.25,24.537,98.782,Calido,Alta,Malaria vivax
+221100,2211001,Piaui,Teresina,221100,2010,2,M,Parda,8 a 11,55 a 59,-5.09194,-42.8034,1,2010.1666666666667,26.51,91.518,Calido,Alta,Sin especificar
+351620,3516200,Sao paulo,Franca,351620,2011,5,F,Blanca,Ninguna,65+,-20.5352,-47.4039,1,2011.4166666666667,18.412,84.435,Templado,Moderada,Sin especificar
+313380,3133808,Minas gerais,Itauna,313380,2014,8,M,Blanca,12 o mas,35 a 39,-20.0818,-44.5801,1,2014.6666666666667,20.188,50.669,Calido,Baja,Sin especificar
+140010,1400100,Roraima,Boa vista,140010,2015,1,M,Parda,1 a 3,50 a 54,2.82384,-60.6753,1,2015.0833333333333,25.194,86.629,Calido,Alta,Malaria falciparum
+120040,1200401,Acre,Rio branco,1200401,2003,9,M,Parda,Sin especificar,30 a 34,-9.97499,-67.8243,1,2003.75,26.26,73.8,Calido,Moderada,Malaria falciparum
+210197,2101970,Maranhao,Boa vista do gurupi,2104677,2004,6,M,Parda,1 a 3,50 a 54,-1.77614,-46.3002,1,2004.5,25.645,99.275,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,1200203,2005,2,M,Parda,Ninguna,15 a 19,-7.62762,-72.6756,1,2005.1666666666667,26.054,95.723,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2006,2,M,Sin especificar,Sin especificar,0 a 4,-7.62762,-72.6756,1,2006.1666666666667,26.394,94.384,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,110020,2006,8,M,Parda,Sin especificar,45 a 49,-8.76077,-63.8999,1,2006.6666666666667,28.061,67.081,Calido,Baja,Sin especificar
+210890,2108900,Maranhao,Pocao de pedras,221100,2007,7,M,Blanca,Ninguna,50 a 54,-4.74626,-44.9432,1,2007.5833333333333,26.709,60.839,Calido,Baja,Sin especificar
+313670,3136702,Minas gerais,Juiz de fora,313670,2009,7,M,Blanca,Sin especificar,65+,-21.7595,-43.3398,1,2009.5833333333333,20.085,88.669,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,150360,2010,6,F,Parda,4 a 7,25 a 29,-4.2667,-55.9926,1,2010.5,25.881,95.167,Calido,Alta,Malaria vivax
+130240,1302405,Amazonas,Labrea,130240,2012,2,M,Parda,Ninguna,40 a 44,-7.26413,-64.7948,1,2012.1666666666667,25.234,92.983,Calido,Alta,Sin especificar
+130406,1304062,Amazonas,Tabatinga,130406,2014,6,F,Indigena,4 a 7,15 a 19,-4.2416,-69.9383,1,2014.5,26.013,100.158,Calido,Muy alta,Malaria vivax
+130353,1303536,Amazonas,Presidente figueiredo,1302603,2004,6,M,Parda,Ninguna,65+,-2.02981,-60.0234,1,2004.5,25.085,94.25,Calido,Alta,Malaria vivax
+211300,2113009,Maranhao,Vitorino freire,2113009,2005,9,M,Blanca,1 a 3,45 a 49,-4.28184,-45.2505,1,2005.75,31.616,42.408,Muy calido,Muy baja,Malaria vivax
+110020,1100205,Rondonia,Porto velho,1100205,2005,10,M,Parda,Sin especificar,50 a 54,-8.76077,-63.8999,1,2005.8333333333333,26.383,88.798,Calido,Alta,Malaria falciparum
+150180,1501808,Para,Breves,150180,2006,10,F,Blanca,Ninguna,5 a 9,-1.68036,-50.4791,1,2006.8333333333333,31.189,56.645,Muy calido,Baja,Malaria vivax
+130410,1304104,Amazonas,Tapaua,130410,2012,8,M,Parda,1 a 3,25 a 29,-5.62085,-63.1808,1,2012.6666666666667,25.53,86.371,Calido,Alta,Malaria vivax
+140010,1400100,Roraima,Boa vista,140010,2013,10,M,Parda,1 a 3,65+,2.82384,-60.6753,1,2013.8333333333333,24.766,92.427,Calido,Alta,Malaria vivax
+411520,4115200,Parana,Maringa,4115200,2004,3,M,Blanca,4 a 7,50 a 54,-23.4205,-51.9333,1,2004.25,21.273,90.137,Calido,Alta,Malaria vivax
+110011,1100114,Rondonia,Jaru,110020,2006,8,F,Parda,Sin especificar,15 a 19,-10.4318,-62.4788,1,2006.6666666666667,28.891,60.911,Calido,Baja,Sin especificar
+150178,1501782,Para,Breu branco,150810,2008,1,F,Blanca,Ninguna,25 a 29,-3.77191,-49.5735,1,2008.0833333333333,25.015,99.911,Calido,Alta,Sin especificar
+110012,1100122,Rondonia,Ji-parana,110012,2009,5,M,Parda,8 a 11,30 a 34,-10.8777,-61.9322,1,2009.4166666666667,24.654,97.194,Calido,Alta,Malaria vivax
+160050,1600501,Amapa,Oiapoque,160050,2012,8,F,Parda,4 a 7,30 a 34,3.84074,-51.8331,1,2012.6666666666667,26.318,87.347,Calido,Alta,Malaria falciparum
+150010,1500107,Para,Abaetetuba,150140,2013,5,M,Parda,1 a 3,25 a 29,-1.72183,-48.8788,1,2013.4166666666667,26.24,97.29,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2013,8,M,Parda,4 a 7,55 a 59,-8.76077,-63.8999,1,2013.6666666666667,25.848,73.548,Calido,Moderada,Malaria vivax
+130380,1303809,Amazonas,Sao gabriel da cachoeira,1303809,2004,3,M,Indigena,Sin especificar,0 a 4,-0.11909,-67.084,1,2004.25,24.919,98.169,Calido,Alta,Sin especificar
+150060,1500602,Para,Altamira,1503606,2004,12,M,Parda,Ninguna,0 a 4,-3.20407,-52.21,1,2005.0,25.397,95.266,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1200401,2005,11,M,Blanca,Ninguna,10 a 14,-8.76077,-63.8999,1,2005.9166666666667,26.307,93.05,Calido,Alta,Malaria falciparum
+150280,1502806,Para,Curralinho,150280,2007,10,M,Parda,Sin especificar,5 a 9,-1.81179,-49.7952,1,2007.8333333333333,25.799,93.597,Calido,Alta,Sin especificar
+150180,1501808,Para,Breves,150180,2011,2,M,Blanca,Sin especificar,5 a 9,-1.68036,-50.4791,1,2011.1666666666667,25.476,99.286,Calido,Alta,Sin especificar
+160040,1600402,Amapa,Mazagao,160030,2008,4,F,Parda,Ninguna,15 a 19,-0.11336,-51.2891,1,2008.3333333333333,25.455,100.983,Calido,Muy alta,Sin especificar
+140005,1400050,Roraima,Alto alegre,140005,2009,8,M,Indigena,Sin especificar,0 a 4,2.98858,-61.3072,1,2009.6666666666667,23.125,96.202,Calido,Alta,Malaria vivax
+120040,1200401,Acre,Rio branco,120040,2009,9,M,Blanca,Sin especificar,45 a 49,-9.97499,-67.8243,1,2009.75,26.501,84.45,Calido,Moderada,Sin especificar
+110080,1100809,Rondonia,Candeias do jamari,1100205,2003,6,F,Parda,Sin especificar,60 a 64,-8.7907,-63.7005,1,2003.5,25.23,86.542,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,1100205,2005,1,M,Blanca,1 a 3,50 a 54,-8.76077,-63.8999,1,2005.0833333333333,26.344,97.258,Calido,Alta,Sin especificar
+130110,1301100,Amazonas,Careiro,130110,2006,1,M,Parda,4 a 7,65+,-3.76803,-60.369,1,2006.0833333333333,25.863,96.871,Calido,Alta,Malaria ovale
+150240,1502400,Para,Castanhal,210530,2006,2,M,Blanca,1 a 3,60 a 64,-1.29797,-47.9167,1,2006.1666666666667,25.959,98.518,Calido,Alta,Sin especificar
+160050,1600501,Amapa,Oiapoque,160050,2008,10,M,Parda,8 a 11,35 a 39,3.84074,-51.8331,1,2008.8333333333333,28.093,81.669,Calido,Moderada,Malaria falciparum
+130050,1300508,Amazonas,Barreirinha,130260,2012,9,M,Parda,1 a 3,50 a 54,-2.79886,-57.0679,1,2012.75,27.124,85.783,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2013,11,F,Parda,Ninguna,50 a 54,-7.62762,-72.6756,1,2013.9166666666667,26.435,92.992,Calido,Alta,Malaria vivax
+150570,1505700,Para,Ponta de pedras,1500701,2003,7,M,Parda,Sin especificar,25 a 29,-1.39587,-48.8661,1,2003.5833333333333,25.55,91.532,Calido,Alta,Malaria falciparum
+150506,1505064,Para,Novo repartimento,1508100,2005,8,M,Parda,Sin especificar,0 a 4,-4.24749,-49.9499,1,2005.6666666666667,27.967,62.387,Calido,Baja,Sin especificar
+120001,1200013,Acre,Acrelandia,120040,2006,6,F,Parda,Sin especificar,50 a 54,-9.82581,-66.8972,1,2006.5,25.168,84.45,Calido,Moderada,Malaria vivax
+150550,1505502,Para,Paragominas,150140,2006,3,I,Parda,4 a 7,55 a 59,-3.00212,-47.3527,1,2006.25,25.379,99.21,Calido,Alta,Malaria falciparum
+170210,1702109,Tocantins,Araguaina,170210,2011,11,M,Parda,1 a 3,35 a 39,-7.19238,-48.2044,1,2011.9166666666667,24.832,96.617,Calido,Alta,Malaria vivax
+150503,1505031,Para,Novo progresso,150680,2015,12,M,Negra,1 a 3,40 a 44,-7.14347,-55.3786,1,2016.0,25.661,97.806,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,1100205,2004,6,M,Negra,Sin especificar,25 a 29,-8.76077,-63.8999,1,2004.5,24.763,85.583,Calido,Alta,Malaria falciparum
+510020,5100201,Mato grosso,Agua boa,510020,2006,1,M,Parda,4 a 7,30 a 34,-14.051,-52.1601,1,2006.0833333333333,24.469,94.242,Calido,Alta,Sin especificar
+353870,3538709,Sao paulo,Piracicaba,353870,2007,10,F,Blanca,Sin especificar,40 a 44,-22.7338,-47.6476,1,2007.8333333333333,23.075,74.702,Calido,Moderada,Sin especificar
+150360,1503606,Para,Itaituba,150360,2007,2,M,Parda,Sin especificar,0 a 4,-4.2667,-55.9926,1,2007.1666666666667,25.574,98.446,Calido,Alta,Malaria falciparum
+130080,1300805,Amazonas,Borba,130080,2009,7,M,Parda,1 a 3,5 a 9,-4.39154,-59.5874,1,2009.5833333333333,25.809,91.129,Calido,Alta,Sin especificar
+160053,1600535,Amapa,Porto grande,230820,2009,12,F,Parda,Ninguna,60 a 64,0.71243,-51.4155,1,2010.0,27.015,90.742,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2011,4,F,Negra,Sin especificar,65+,-8.76077,-63.8999,1,2011.3333333333333,26.15,98.033,Calido,Alta,Malaria vivax
+510790,5107909,Mato grosso,Sinop,5107909,2004,2,M,Sin especificar,Sin especificar,65+,-11.8604,-55.5091,1,2004.1666666666667,22.753,95.043,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,110020,2007,11,F,Sin especificar,Sin especificar,65+,-8.76077,-63.8999,1,2007.9166666666667,26.337,93.75,Calido,Alta,Malaria vivax
+150360,1503606,Para,Itaituba,150360,2007,4,M,Blanca,Ninguna,35 a 39,-4.2667,-55.9926,1,2007.3333333333333,25.645,100.608,Calido,Muy alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2010,7,F,Parda,Sin especificar,45 a 49,-8.76077,-63.8999,1,2010.5833333333333,25.806,75.895,Calido,Moderada,Malaria vivax
+140010,1400100,Roraima,Boa vista,140010,2012,1,F,Parda,Sin especificar,25 a 29,2.82384,-60.6753,1,2012.0833333333333,24.654,93.032,Calido,Alta,Malaria vivax
+110009,1100098,Rondonia,Espigao d'oeste,110009,2012,3,M,Parda,1 a 3,65+,-11.5266,-61.0252,1,2012.25,23.705,100.081,Calido,Muy alta,Malaria vivax
+130063,1300631,Amazonas,Beruri,130260,2006,12,F,Sin especificar,Sin especificar,35 a 39,-3.89874,-61.3616,1,2007.0,26.47,94.798,Calido,Alta,Malaria vivax
+352440,3524402,Sao paulo,Jacarezinho,355030,2007,10,F,Blanca,12 o mas,40 a 44,-23.2983,-45.9658,1,2007.8333333333333,22.584,81.476,Calido,Moderada,Malaria falciparum
+220370,2203701,Piaui,Esperantina,220370,2009,1,M,Parda,1 a 3,65+,-3.88863,-42.2324,1,2009.0833333333333,25.725,93.613,Calido,Alta,Sin especificar
+310200,3102001,Minas gerais,Alterosa,3102001,2003,4,F,Blanca,Ninguna,65+,-21.2488,-46.1387,1,2003.3333333333333,20.176,91.617,Calido,Alta,Malaria vivax
+120060,1200609,Acre,Tarauaca,120060,2008,12,F,Parda,Sin especificar,5 a 9,-8.15697,-70.7722,1,2009.0,26.465,96.169,Calido,Alta,Malaria vivax
+211130,2111300,Maranhao,Sao luis,211130,2009,4,M,Sin especificar,12 o mas,15 a 19,-2.53874,-44.2825,1,2009.3333333333333,26.216,95.983,Calido,Alta,Malaria vivax
+150030,1500305,Para,Afua,150030,2012,2,M,Parda,Sin especificar,0 a 4,-0.154874,-50.3861,1,2012.1666666666667,24.57,92.733,Calido,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,3550308,2003,6,F,Blanca,Sin especificar,40 a 44,-3.11866,-60.0212,1,2003.5,25.652,96.85,Calido,Alta,Sin especificar
+120040,1200401,Acre,Rio branco,1200401,2005,2,F,Parda,Sin especificar,10 a 14,-9.97499,-67.8243,1,2005.1666666666667,25.205,97.964,Calido,Alta,Malaria vivax
+160050,1600501,Amapa,Oiapoque,1600501,2005,4,F,Parda,Sin especificar,25 a 29,3.84074,-51.8331,1,2005.3333333333333,26.15,97.425,Calido,Alta,Sin especificar
+150060,1500602,Para,Altamira,150060,2006,1,M,Parda,1 a 3,20 a 24,-3.20407,-52.21,1,2006.0833333333333,25.252,98.815,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110045,2007,5,M,Parda,Sin especificar,65+,-8.76077,-63.8999,1,2007.4166666666667,25.224,95.032,Calido,Alta,Malaria falciparum
+150210,1502103,Para,Cameta,150210,2011,4,F,Parda,Ninguna,65+,-2.24295,-49.4979,1,2011.3333333333333,25.532,99.325,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2012,7,M,Parda,Sin especificar,60 a 64,-8.76077,-63.8999,1,2012.5833333333333,25.269,80.968,Calido,Moderada,Malaria vivax
+140010,1400100,Roraima,Boa vista,140010,2012,12,M,Blanca,Ninguna,65+,2.82384,-60.6753,1,2013.0,24.91,91.605,Calido,Alta,Malaria vivax
+160060,1600600,Amapa,Santana,160030,2013,9,F,Parda,Ninguna,20 a 24,-0.045434,-51.1729,1,2013.75,26.028,85.417,Calido,Alta,Malaria vivax
+130030,1300300,Amazonas,Autazes,1300300,2005,9,M,Parda,Ninguna,0 a 4,-3.58574,-59.1256,1,2005.75,26.282,92.575,Calido,Alta,Sin especificar
+130185,1301852,Amazonas,Iranduba,1302603,2005,8,M,Parda,Sin especificar,15 a 19,-3.27479,-60.19,1,2005.6666666666667,26.14,91.339,Calido,Alta,Sin especificar
+110033,1100338,Rondonia,Nova mamore,110045,2006,2,M,Negra,Sin especificar,30 a 34,-10.4077,-65.3346,1,2006.1666666666667,24.901,99.5,Calido,Alta,Malaria falciparum
+110013,1100130,Rondonia,Machadinho d'oeste,110013,2006,11,M,Parda,1 a 3,25 a 29,-9.44363,-61.9818,1,2006.9166666666667,26.219,95.258,Calido,Alta,Malaria falciparum
+130100,1301001,Amazonas,Carauari,130100,2008,7,M,Indigena,Sin especificar,0 a 4,-4.88161,-66.9086,1,2008.5833333333333,26.745,79.065,Calido,Moderada,Malaria vivax
+150375,1503754,Para,Jacareacanga,150375,2012,4,F,Parda,Sin especificar,65+,-6.21469,-57.7544,1,2012.3333333333333,25.29,98.3,Calido,Alta,Malaria falciparum
+210300,2103000,Maranhao,Caxias,2103000,2005,5,F,Negra,Ninguna,20 a 24,-4.86505,-43.3617,1,2005.4166666666667,25.487,86.081,Calido,Alta,Malaria vivax
+120020,1200203,Acre,Cruzeiro do sul,120040,2009,4,M,Parda,Sin especificar,0 a 4,-7.62762,-72.6756,1,2009.3333333333333,25.921,95.292,Calido,Alta,Sin especificar
+210542,2105427,Maranhao,Itinga do maranhao,210530,2010,4,F,Parda,1 a 3,30 a 34,-4.45293,-47.5235,1,2010.3333333333333,25.675,98.408,Calido,Alta,Malaria vivax
+130140,1301407,Amazonas,Eirunepe,130140,2010,10,M,Parda,Sin especificar,25 a 29,-6.65677,-69.8662,1,2010.8333333333333,24.837,89.145,Calido,Alta,Malaria vivax
+510325,5103254,Mato grosso,Colniza,510340,2011,4,M,Blanca,1 a 3,55 a 59,-9.46121,-59.2252,1,2011.3333333333333,25.066,98.417,Calido,Alta,Malaria vivax
+160027,1600279,Amapa,Laranjal do jari,150050,2007,8,F,Parda,1 a 3,15 a 19,-0.804911,-52.453,1,2007.6666666666667,25.057,97.508,Calido,Alta,Sin especificar
+160027,1600279,Amapa,Laranjal do jari,160027,2009,8,M,Sin especificar,Sin especificar,Sin especificar,-0.804911,-52.453,1,2009.6666666666667,25.025,96.435,Calido,Alta,Sin especificar
+350280,3502804,Sao paulo,Aracatuba,350280,2010,10,F,Blanca,Sin especificar,65+,-21.2076,-50.4401,1,2010.8333333333333,23.764,76.21,Calido,Moderada,Sin especificar
+313670,3136702,Minas gerais,Juiz de fora,313670,2014,5,F,Sin especificar,Sin especificar,40 a 44,-21.7595,-43.3398,1,2014.4166666666667,20.145,88.298,Calido,Alta,Sin especificar
+150506,1505064,Para,Novo repartimento,1508100,2003,1,F,Parda,Ninguna,25 a 29,-4.24749,-49.9499,1,2003.0833333333333,25.264,98.597,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1100205,2005,11,M,Blanca,Sin especificar,55 a 59,-8.76077,-63.8999,1,2005.9166666666667,26.307,93.05,Calido,Alta,Malaria vivax
+210270,2102705,Maranhao,Cantanhede,210270,2007,10,M,Parda,Ninguna,45 a 49,-3.63757,-44.383,1,2007.8333333333333,31.398,62.524,Muy calido,Baja,Malaria falciparum
+160030,1600303,Amapa,Macapa,160030,2011,7,M,Parda,1 a 3,45 a 49,0.034934,-51.0694,1,2011.5833333333333,25.847,89.444,Calido,Alta,Malaria falciparum
+120033,1200336,Acre,Municipio de lima,1200336,2005,5,M,Parda,Ninguna,15 a 19,-7.61657,-72.8997,1,2005.4166666666667,25.396,92.363,Calido,Alta,Sin especificar
+510330,5103304,Mato grosso,Comodoro,510330,2006,11,M,Parda,Sin especificar,50 a 54,-13.6614,-59.7848,1,2006.9166666666667,25.224,94.492,Calido,Alta,Sin especificar
+352370,3523701,Sao paulo,Itirapua,353630,2006,4,F,Blanca,1 a 3,65+,-20.6416,-47.2194,1,2006.3333333333333,19.862,92.783,Templado,Alta,Sin especificar
+510730,5107305,Mato grosso,Sao jose do rio claro,510730,2007,4,M,Blanca,4 a 7,45 a 49,-13.4398,-56.7218,1,2007.3333333333333,24.242,97.542,Calido,Alta,Malaria vivax
+330250,3302502,Rio de janeiro,Mage,330490,2008,2,F,Negra,Sin especificar,50 a 54,-22.6632,-43.0315,1,2008.1666666666667,22.346,93.526,Calido,Alta,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,120020,2009,2,F,Parda,4 a 7,15 a 19,-7.62762,-72.6756,1,2009.1666666666667,26.233,96.107,Calido,Alta,Malaria vivax
+310560,3105608,Minas gerais,Barbacena,313670,2010,6,M,Parda,Sin especificar,50 a 54,-21.2214,-43.7703,1,2010.5,18.219,69.383,Templado,Baja,Sin especificar
+210530,2105302,Maranhao,Imperatriz,210530,2010,4,M,Negra,1 a 3,65+,-5.51847,-47.4777,1,2010.3333333333333,25.675,98.408,Calido,Alta,Sin especificar
+510760,5107602,Mato grosso,Rondonopolis,510760,2010,9,M,Parda,Ninguna,50 a 54,-16.4673,-54.6372,1,2010.75,30.433,41.033,Muy calido,Muy baja,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2014,1,M,Amarilla,1 a 3,40 a 44,-3.11866,-60.0212,1,2014.0833333333333,25.741,98.629,Calido,Alta,Malaria vivax
+510792,5107925,Mato grosso,Sorriso,5107925,2004,1,M,Blanca,1 a 3,30 a 34,-12.5425,-55.7211,1,2004.0833333333333,23.725,98.556,Calido,Alta,Sin especificar
+130406,1304062,Amazonas,Tabatinga,1304062,2005,12,M,Parda,Ninguna,65+,-4.2416,-69.9383,1,2006.0,26.232,97.782,Calido,Alta,Sin especificar
+313130,3131307,Minas gerais,Ipatinga,313130,2006,9,M,Blanca,Sin especificar,40 a 44,-19.4703,-42.5476,1,2006.75,21.976,71.933,Calido,Moderada,Sin especificar
+510730,5107305,Mato grosso,Sao jose do rio claro,510515,2007,7,M,Negra,4 a 7,40 a 44,-13.4398,-56.7218,1,2007.5833333333333,24.43,55.815,Calido,Baja,Malaria falciparum
+130260,1302603,Amazonas,Manaus,130260,2007,8,M,Parda,8 a 11,45 a 49,-3.11866,-60.0212,1,2007.6666666666667,26.034,91.75,Calido,Alta,Malaria falciparum
+140010,1400100,Roraima,Boa vista,140010,2008,8,F,Blanca,8 a 11,20 a 24,2.82384,-60.6753,1,2008.6666666666667,24.473,96.073,Calido,Alta,Malaria vivax
+160027,1600279,Amapa,Laranjal do jari,160027,2009,6,M,Parda,4 a 7,35 a 39,-0.804911,-52.453,1,2009.5,25.046,100.425,Calido,Muy alta,Malaria falciparum
+510790,5107909,Mato grosso,Sinop,5103403,2003,9,F,Blanca,4 a 7,65+,-11.8604,-55.5091,1,2003.75,28.834,39.608,Calido,Muy baja,Sin especificar
+160030,1600303,Amapa,Macapa,160030,2006,9,F,Blanca,Sin especificar,15 a 19,0.034934,-51.0694,1,2006.75,28.25,72.883,Calido,Moderada,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2008,3,M,Sin especificar,Sin especificar,0 a 4,-8.76077,-63.8999,1,2008.25,25.721,98.992,Calido,Alta,Sin especificar
+352250,3522505,Sao paulo,Itapevi,355030,2014,3,M,Parda,4 a 7,40 a 44,-23.5488,-46.9327,1,2014.25,22.649,97.194,Calido,Alta,Malaria falciparum
+130360,1303601,Amazonas,Santa isabel do rio negro,1303809,2004,3,M,Indigena,Ninguna,45 a 49,-0.410824,-65.0092,1,2004.25,24.821,100.008,Calido,Muy alta,Malaria falciparum
+150360,1503606,Para,Itaituba,1503606,2004,6,M,Blanca,1 a 3,50 a 54,-4.2667,-55.9926,1,2004.5,24.918,96.442,Calido,Alta,Malaria vivax
+110002,1100023,Rondonia,Ariquemes,1100023,2004,8,F,Blanca,Sin especificar,65+,-9.90571,-63.0325,1,2004.6666666666667,25.66,60.96,Calido,Baja,Malaria falciparum
+150810,1508100,Para,Tucurui,150810,2008,5,M,Parda,Sin especificar,0 a 4,-3.7657,-49.6773,1,2008.4166666666667,25.217,97.984,Calido,Alta,Sin especificar
+110080,1100809,Rondonia,Candeias do jamari,110020,2008,7,M,Parda,Sin especificar,35 a 39,-8.7907,-63.7005,1,2008.5833333333333,26.455,67.508,Calido,Baja,Malaria vivax
+130260,1302603,Amazonas,Manaus,130260,2008,9,F,Blanca,Sin especificar,45 a 49,-3.11866,-60.0212,1,2008.75,26.022,94.3,Calido,Alta,Malaria vivax
+120020,1200203,Acre,Cruzeiro do sul,120020,2009,6,F,Parda,1 a 3,5 a 9,-7.62762,-72.6756,1,2009.5,25.048,91.925,Calido,Alta,Malaria falciparum
+431010,4310108,Rio grande do sul,Igrejinha,431040,2009,6,F,Blanca,Sin especificar,65+,-29.5693,-50.7919,1,2009.5,13.148,87.158,Templado,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2009,8,M,Parda,1 a 3,45 a 49,-8.76077,-63.8999,1,2009.6666666666667,26.275,87.113,Calido,Alta,Malaria vivax
+522185,5221858,Goias,Valparaiso de goias,520870,2011,10,M,Blanca,Sin especificar,50 a 54,-16.0651,-47.9757,1,2011.8333333333333,23.234,76.919,Calido,Moderada,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2012,2,F,Parda,4 a 7,65+,-3.11866,-60.0212,1,2012.1666666666667,24.642,95.103,Calido,Alta,Malaria vivax
+330630,3306305,Rio de janeiro,Volta redonda,330630,2014,11,F,Blanca,12 o mas,50 a 54,-22.5202,-44.0996,1,2014.9166666666667,20.952,91.483,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,1503606,2003,1,F,Indigena,Ninguna,0 a 4,-4.2667,-55.9926,1,2003.0833333333333,25.649,98.089,Calido,Alta,Malaria vivax
+210805,2108058,Maranhao,Paulino neves,2108058,2004,6,M,Parda,Ninguna,30 a 34,-2.72094,-42.5258,1,2004.5,25.727,86.1,Calido,Alta,Malaria vivax
+150060,1500602,Para,Altamira,1500602,2004,3,M,Parda,Ninguna,55 a 59,-3.20407,-52.21,1,2004.25,25.456,102.081,Calido,Muy alta,Malaria vivax
+110030,1100304,Rondonia,Vilhena,1100205,2005,7,M,Blanca,Sin especificar,45 a 49,-12.7502,-60.1488,1,2005.5833333333333,25.646,49.879,Calido,Muy baja,Sin especificar
+140020,1400209,Roraima,Caracarai,140020,2006,10,M,Blanca,Ninguna,65+,1.82766,-61.1304,1,2006.8333333333333,25.142,95.903,Calido,Alta,Malaria falciparum
+530010,5300108,Distrito federal,Brasilia,530010,2015,3,F,Negra,12 o mas,50 a 54,-15.7795,-47.9297,1,2015.25,22.535,97.685,Calido,Alta,Malaria falciparum
+130380,1303809,Amazonas,Sao gabriel da cachoeira,130380,2015,10,F,Indigena,Sin especificar,0 a 4,-0.11909,-67.084,1,2015.8333333333333,26.25,95.282,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,1100205,2003,12,M,Sin especificar,Sin especificar,65+,-8.76077,-63.8999,1,2004.0,26.232,93.976,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,1302603,2004,9,F,Blanca,Sin especificar,0 a 4,-3.11866,-60.0212,1,2004.75,25.902,94.842,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2006,8,F,Parda,8 a 11,20 a 24,-3.11866,-60.0212,1,2006.6666666666667,25.95,92.468,Calido,Alta,Malaria falciparum
+130250,1302504,Amazonas,Manacapuru,130250,2007,8,F,Parda,Sin especificar,0 a 4,-3.29066,-60.6216,1,2007.6666666666667,26.034,91.75,Calido,Alta,Malaria vivax
+160015,1600154,Amapa,Pedra branca do amapari,160030,2011,12,F,Indigena,Sin especificar,10 a 14,0.777424,-51.9503,1,2012.0,25.51,90.0,Calido,Alta,Malaria vivax
+120020,1200203,Acre,Cruzeiro do sul,1200203,2005,4,F,Parda,Ninguna,45 a 49,-7.62762,-72.6756,1,2005.3333333333333,26.077,94.942,Calido,Alta,Malaria falciparum
+170220,1702208,Tocantins,Araguatins,1702109,2005,11,M,Parda,1 a 3,65+,-5.64659,-48.1232,1,2005.9166666666667,26.109,82.508,Calido,Moderada,Malaria vivax
+110060,1100601,Rondonia,Cacaulandia,110020,2007,3,F,Parda,Sin especificar,0 a 4,-10.349,-62.9043,1,2007.25,24.55,97.702,Calido,Alta,Sin especificar
+210360,2103604,Maranhao,Coroata,210360,2007,6,M,Parda,Ninguna,30 a 34,-4.13442,-44.1244,1,2007.5,25.373,69.525,Calido,Baja,Sin especificar
+150810,1508100,Para,Tucurui,150810,2008,3,M,Parda,Sin especificar,0 a 4,-3.7657,-49.6773,1,2008.25,25.065,100.008,Calido,Muy alta,Sin especificar
+150375,1503754,Para,Jacareacanga,150375,2012,7,F,Indigena,Sin especificar,0 a 4,-6.21469,-57.7544,1,2012.5833333333333,25.504,90.331,Calido,Alta,Malaria vivax
+160030,1600303,Amapa,Macapa,1600303,2003,8,M,Parda,Ninguna,25 a 29,0.034934,-51.0694,1,2003.6666666666667,25.817,86.661,Calido,Alta,Malaria falciparum
+292930,2929305,Bahia,Sao gonçalo dos campos,2929305,2003,12,F,Negra,Ninguna,65+,-12.4331,-38.9663,1,2004.0,26.958,67.008,Calido,Baja,Sin especificar
+150370,1503705,Para,Itupiranga,1503705,2003,1,M,Parda,4 a 7,15 a 19,-5.13272,-49.3358,1,2003.0833333333333,25.003,98.597,Calido,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,1302603,2004,9,F,Parda,Ninguna,15 a 19,-3.11866,-60.0212,1,2004.75,25.902,94.842,Calido,Alta,Sin especificar
+120040,1200401,Acre,Rio branco,120040,2006,9,F,Parda,Sin especificar,0 a 4,-9.97499,-67.8243,1,2006.75,26.972,75.517,Calido,Moderada,Sin especificar
+150060,1500602,Para,Altamira,150060,2007,10,M,Parda,Sin especificar,20 a 24,-3.20407,-52.21,1,2007.8333333333333,24.95,98.202,Calido,Alta,Malaria falciparum
+520450,5204508,Goias,Caldas novas,520870,2013,12,M,Blanca,1 a 3,50 a 54,-17.7441,-48.6246,1,2014.0,23.39,96.597,Calido,Alta,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,120020,2015,5,M,Parda,Sin especificar,25 a 29,-7.62762,-72.6756,1,2015.4166666666667,25.735,95.081,Calido,Alta,Malaria vivax
+130250,1302504,Amazonas,Manacapuru,1302603,2003,5,M,Parda,Sin especificar,0 a 4,-3.29066,-60.6216,1,2003.4166666666667,25.91,97.565,Calido,Alta,Sin especificar
+210500,2105005,Maranhao,Humberto de campos,2105005,2004,3,M,Parda,1 a 3,35 a 39,-2.59828,-43.4649,1,2004.25,26.272,92.032,Calido,Alta,Sin especificar
+210510,2105104,Maranhao,Icatu,2111300,2005,1,M,Parda,1 a 3,15 a 19,-2.77206,-44.0501,1,2005.0833333333333,27.671,83.677,Calido,Moderada,Malaria vivax
+150085,1500859,Para,Anapu,1500859,2005,3,M,Parda,1 a 3,65+,-3.46985,-51.2003,1,2005.25,25.786,97.548,Calido,Alta,Malaria vivax
+150550,1505502,Para,Paragominas,150140,2006,7,M,Parda,Sin especificar,40 a 44,-3.00212,-47.3527,1,2006.5833333333333,25.127,86.677,Calido,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,130260,2007,8,M,Blanca,1 a 3,20 a 24,-3.11866,-60.0212,1,2007.6666666666667,26.034,91.75,Calido,Alta,Malaria falciparum
+130140,1301407,Amazonas,Eirunepe,130140,2009,9,M,Negra,Ninguna,40 a 44,-6.65677,-69.8662,1,2009.75,24.492,88.858,Calido,Alta,Malaria vivax
+280120,2801207,Sergipe,Caninde de sao francisco,280030,2009,5,M,Parda,8 a 11,55 a 59,-9.64882,-37.7923,1,2009.4166666666667,24.708,99.04,Calido,Alta,Sin especificar
+352590,3525904,Sao paulo,Jundiai,350950,2011,1,M,Blanca,12 o mas,25 a 29,-23.1852,-46.8974,1,2011.0833333333333,23.777,98.056,Calido,Alta,Malaria vivax
+355220,3552205,Sao paulo,Sorocaba,355220,2013,7,M,Negra,Sin especificar,30 a 34,-23.4969,-47.4451,1,2013.5833333333333,17.511,79.782,Templado,Moderada,Malaria vivax
+520870,5208707,Goias,Goiania,520870,2015,1,F,Parda,Sin especificar,35 a 39,-16.6864,-49.2643,1,2015.0833333333333,22.942,90.202,Calido,Alta,Sin especificar
+510270,5102702,Mato grosso,Canarana,5208707,2004,2,M,Indigena,Ninguna,0 a 4,-13.5515,-52.2705,1,2004.1666666666667,23.348,95.138,Calido,Alta,Sin especificar
+160027,1600279,Amapa,Laranjal do jari,1500503,2005,4,M,Parda,1 a 3,20 a 24,-0.804911,-52.453,1,2005.3333333333333,25.475,99.85,Calido,Alta,Malaria falciparum
+120045,1200450,Acre,Senador guiomard,120040,2007,11,M,Parda,Sin especificar,30 a 34,-10.1497,-67.7362,1,2007.9166666666667,26.52,88.867,Calido,Alta,Malaria vivax
+140028,1400282,Roraima,Iracema,140010,2007,12,F,Blanca,Ninguna,65+,2.18305,-61.0415,1,2008.0,23.261,95.798,Calido,Alta,Sin especificar
+120040,1200401,Acre,Rio branco,120040,2008,7,M,Negra,Sin especificar,50 a 54,-9.97499,-67.8243,1,2008.5833333333333,25.249,78.976,Calido,Moderada,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2010,1,F,Parda,Sin especificar,65+,-8.76077,-63.8999,1,2010.0833333333333,26.399,98.29,Calido,Alta,Sin especificar
+510517,5105176,Mato grosso,Juruena,5105176,2004,7,F,Blanca,Ninguna,0 a 4,-10.3178,-58.3592,1,2004.5833333333333,26.203,60.645,Calido,Baja,Malaria vivax
+120017,1200179,Acre,Capixaba,120040,2007,1,M,Sin especificar,Sin especificar,65+,-10.566,-67.686,1,2007.0833333333333,25.855,96.258,Calido,Alta,Sin especificar
+310260,3102605,Minas gerais,Andradas,3102605,2003,7,F,Blanca,Sin especificar,50 a 54,-22.0695,-46.5724,1,2003.5833333333333,16.987,67.371,Templado,Baja,Sin especificar
+130110,1301100,Amazonas,Careiro,1301100,2004,4,F,Parda,Ninguna,65+,-3.76803,-60.369,1,2004.3333333333333,25.938,97.367,Calido,Alta,Malaria vivax
+140005,1400050,Roraima,Alto alegre,1400050,2005,3,M,Negra,Ninguna,50 a 54,2.98858,-61.3072,1,2005.25,24.643,92.758,Calido,Alta,Malaria vivax
+210860,2108603,Maranhao,Pinheiro,211130,2007,9,M,Sin especificar,Sin especificar,25 a 29,-2.52224,-45.0788,1,2007.75,30.933,59.05,Muy calido,Baja,Malaria falciparum
+230440,2304400,Ceara,Fortaleza,230440,2014,9,M,Parda,Ninguna,65+,-3.71664,-38.5423,1,2014.75,-20.755055432859205,82.958,Muy frio,Moderada,Malaria vivax
+291720,2917201,Bahia,Ituacu,2917201,2003,12,M,Parda,Sin especificar,65+,-13.8107,-41.3003,1,2004.0,26.275,69.089,Calido,Baja,Sin especificar
+160030,1600303,Amapa,Macapa,1600303,2005,9,F,Parda,1 a 3,65+,0.034934,-51.0694,1,2005.75,28.122,74.192,Calido,Moderada,Malaria falciparum
+150060,1500602,Para,Altamira,150060,2010,12,M,Blanca,4 a 7,40 a 44,-3.20407,-52.21,1,2011.0,25.233,99.056,Calido,Alta,Malaria vivax
+211220,2112209,Maranhao,Timon,211220,2013,1,M,Negra,1 a 3,45 a 49,-5.09769,-42.8329,1,2013.0833333333333,25.961,95.581,Calido,Alta,Sin especificar
+355540,3555406,Sao paulo,Ubatuba,355540,2014,1,M,Parda,12 o mas,35 a 39,-23.4332,-45.0834,1,2014.0833333333333,-20.75401430835089,93.871,Muy frio,Alta,Malaria falciparum
+260110,2601102,Pernambuco,Araripina,260110,2006,1,F,Parda,Ninguna,55 a 59,-7.57073,-40.494,1,2006.0833333333333,27.073,56.952,Calido,Baja,Malaria vivax
+110170,1101708,Rondonia,Uruguaiana,110020,2007,6,M,Parda,Sin especificar,10 a 14,-11.1261,-62.3639,1,2007.5,25.12,82.767,Calido,Moderada,Malaria falciparum
+354850,3548500,Sao paulo,Santos,354850,2010,11,M,Amarilla,12 o mas,20 a 24,-23.9535,-46.335,1,2010.9166666666667,20.985,94.65,Calido,Alta,Malaria falciparum
+355030,3550308,Sao paulo,Sao paulo,355030,2011,8,M,Blanca,4 a 7,30 a 34,-23.5329,-46.6395,1,2011.6666666666667,19.361,63.073,Templado,Baja,Sin especificar
+130060,1300607,Amazonas,Benjamin constant,130060,2012,6,M,Parda,1 a 3,5 a 9,-4.37768,-70.0342,1,2012.5,25.6,99.842,Calido,Alta,Sin especificar
+140010,1400100,Roraima,Boa vista,140010,2014,2,M,Negra,Ninguna,45 a 49,2.82384,-60.6753,1,2014.1666666666667,25.562,90.009,Calido,Alta,Malaria falciparum
+150360,1503606,Para,Itaituba,1503606,2003,3,F,Parda,8 a 11,45 a 49,-4.2667,-55.9926,1,2003.25,25.629,100.589,Calido,Muy alta,Sin especificar
+510250,5102504,Mato grosso,Caceres,510250,2009,2,F,Parda,4 a 7,40 a 44,-16.0764,-57.6818,1,2009.1666666666667,25.937,97.589,Calido,Alta,Malaria ovale
+110030,1100304,Rondonia,Vilhena,130014,2010,3,M,Parda,Sin especificar,35 a 39,-12.7502,-60.1488,1,2010.25,25.547,98.597,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2013,9,F,Blanca,4 a 7,50 a 54,-7.62762,-72.6756,1,2013.75,26.439,85.45,Calido,Alta,Malaria vivax
+130120,1301209,Amazonas,Coari,130260,2013,11,M,Parda,Ninguna,50 a 54,-4.09412,-63.1441,1,2013.9166666666667,25.643,97.767,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,130260,2015,11,F,Parda,12 o mas,35 a 39,-3.11866,-60.0212,1,2015.9166666666667,26.581,96.542,Calido,Alta,Malaria vivax
+150715,1507151,Para,Sao domingos do araguaia,1504208,2003,7,M,Parda,1 a 3,5 a 9,-5.53732,-48.7366,1,2003.5833333333333,25.51,68.113,Calido,Baja,Sin especificar
+130185,1301852,Amazonas,Iranduba,1302603,2003,10,F,Sin especificar,Sin especificar,Sin especificar,-3.27479,-60.19,1,2003.8333333333333,25.823,98.202,Calido,Alta,Sin especificar
+150172,1501725,Para,Brasil novo,1500602,2005,3,M,Parda,Sin especificar,25 a 29,-3.29792,-52.534,1,2005.25,25.521,98.911,Calido,Alta,Malaria falciparum
+150360,1503606,Para,Itaituba,150360,2010,9,F,Parda,Ninguna,50 a 54,-4.2667,-55.9926,1,2010.75,27.727,82.7,Calido,Moderada,Malaria vivax
+150030,1500305,Para,Afua,150030,2011,2,F,Blanca,Sin especificar,0 a 4,-0.154874,-50.3861,1,2011.1666666666667,25.476,97.616,Calido,Alta,Malaria vivax
+150360,1503606,Para,Itaituba,150360,2011,10,F,Blanca,8 a 11,30 a 34,-4.2667,-55.9926,1,2011.8333333333333,25.63,97.395,Calido,Alta,Malaria falciparum
+510615,5106158,Mato grosso,Nova bandeirantes,510025,2014,4,F,Parda,4 a 7,40 a 44,-9.8497658,-57.8138733,1,2014.3333333333333,24.744,98.983,Calido,Alta,Malaria vivax
+410690,4106902,Parana,Curitiba,4106902,2004,9,M,Blanca,8 a 11,55 a 59,-25.4195,-49.2646,1,2004.75,20.368,75.8,Calido,Moderada,Sin especificar
+130260,1302603,Amazonas,Manaus,1302603,2005,3,M,Sin especificar,Sin especificar,65+,-3.11866,-60.0212,1,2005.25,26.213,99.387,Calido,Alta,Sin especificar
+130395,1303957,Amazonas,Sao sebastiao do uatuma,130260,2006,12,F,Parda,Sin especificar,0 a 4,-2.55915,-57.8731,1,2007.0,25.478,94.895,Calido,Alta,Sin especificar
+130083,1300839,Amazonas,Caapiranga,130083,2008,5,F,Parda,Sin especificar,0 a 4,-3.31537,-61.2206,1,2008.4166666666667,26.328,98.008,Calido,Alta,Malaria falciparum
+150520,1505205,Para,Oeiras do para,150210,2010,12,F,Parda,Sin especificar,0 a 4,-2.00358,-49.8628,1,2011.0,25.545,97.806,Calido,Alta,Sin especificar
+160015,1600154,Amapa,Pedra branca do amapari,160030,2012,12,F,Parda,12 o mas,40 a 44,0.777424,-51.9503,1,2013.0,26.864,85.315,Calido,Alta,Malaria falciparum
+330455,3304557,Rio de janeiro,Rio de janeiro,330455,2012,12,M,Blanca,12 o mas,50 a 54,-22.9129,-43.2003,1,2013.0,-20.75401430835089,94.298,Muy frio,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,1302603,2003,9,F,Blanca,Sin especificar,65+,-3.11866,-60.0212,1,2003.75,25.703,95.517,Calido,Alta,Malaria falciparum
+120042,1200427,Acre,Rodrigues alves,120033,2006,11,M,Parda,Sin especificar,0 a 4,-7.73864,-72.661,1,2006.9166666666667,26.593,86.858,Calido,Alta,Malaria vivax
+316720,3167202,Minas gerais,Sete lagoas,314480,2006,11,M,Blanca,12 o mas,45 a 49,-19.4569,-44.2413,1,2006.9166666666667,20.154,95.833,Calido,Alta,Malaria ovale
+220200,2202000,Piaui,Buriti dos lopes,220200,2011,5,M,Parda,Ninguna,15 a 19,-3.18259,-41.8695,1,2011.4166666666667,-20.75401430835089,90.976,Muy frio,Alta,Malaria vivax
+320500,3205002,Espirito santo,Serra,3205002,2003,12,M,Amarilla,Sin especificar,25 a 29,-20.121,-40.3074,1,2004.0,-20.75401430835089,91.008,Muy frio,Alta,Sin especificar
+140010,1400100,Roraima,Boa vista,1400100,2003,5,M,Sin especificar,Sin especificar,0 a 4,2.82384,-60.6753,1,2003.4166666666667,24.382,98.548,Calido,Alta,Malaria falciparum
+160030,1600303,Amapa,Macapa,160030,2006,10,F,Negra,4 a 7,35 a 39,0.034934,-51.0694,1,2006.8333333333333,29.754,66.065,Calido,Baja,Malaria falciparum
+352900,3529005,Sao paulo,Marilia,352900,2009,3,M,Blanca,4 a 7,25 a 29,-22.2171,-49.9501,1,2009.25,24.381,92.798,Calido,Alta,Sin especificar
+150070,1500701,Para,Anajas,150070,2010,2,F,Parda,1 a 3,25 a 29,-0.996811,-49.9354,1,2010.1666666666667,26.361,96.045,Calido,Alta,Malaria vivax
+150360,1503606,Para,Itaituba,150360,2010,3,F,Parda,Ninguna,35 a 39,-4.2667,-55.9926,1,2010.25,26.012,99.984,Calido,Alta,Malaria falciparum
+150450,1504505,Para,Melgaco,150180,2011,1,M,Parda,Sin especificar,0 a 4,-1.8032,-50.7149,1,2011.0833333333333,25.476,98.742,Calido,Alta,Malaria vivax
+130280,1302801,Amazonas,Maraa,1302801,2003,6,M,Negra,1 a 3,5 a 9,-1.85313,-65.573,1,2003.5,24.823,97.517,Calido,Alta,Sin especificar
+160030,1600303,Amapa,Macapa,1600303,2003,12,F,Parda,8 a 11,20 a 24,0.034934,-51.0694,1,2004.0,25.821,93.323,Calido,Alta,Malaria falciparum
+150070,1500701,Para,Anajas,1500701,2005,11,F,Parda,Ninguna,0 a 4,-0.996811,-49.9354,1,2005.9166666666667,28.366,77.342,Calido,Moderada,Malaria falciparum
+140015,1400159,Roraima,Bonfim,1400100,2005,1,M,Parda,Sin especificar,0 a 4,3.36161,-59.8333,1,2005.0833333333333,25.118,91.444,Calido,Alta,Sin especificar
+355030,3550308,Sao paulo,Sao paulo,3550308,2005,11,M,Blanca,1 a 3,65+,-23.5329,-46.6395,1,2005.9166666666667,20.84,91.3,Calido,Alta,Sin especificar
+130020,1300201,Amazonas,Atalaia do norte,130020,2008,2,M,Indigena,1 a 3,15 a 19,-4.37055,-70.1967,1,2008.1666666666667,25.175,94.086,Calido,Alta,Malaria falciparum
+140010,1400100,Roraima,Boa vista,140010,2009,1,F,Blanca,8 a 11,30 a 34,2.82384,-60.6753,1,2009.0833333333333,24.58,92.992,Calido,Alta,Malaria falciparum
+130010,1300102,Amazonas,Anori,130010,2006,1,M,Parda,1 a 3,15 a 19,-3.74603,-61.6575,1,2006.0833333333333,26.506,90.944,Calido,Alta,Malaria falciparum
+210530,2105302,Maranhao,Imperatriz,150680,2006,10,M,Parda,8 a 11,20 a 24,-5.51847,-47.4777,1,2006.8333333333333,30.631,60.145,Muy calido,Baja,Malaria falciparum
+110012,1100122,Rondonia,Ji-parana,110020,2006,5,M,Parda,Sin especificar,50 a 54,-10.8777,-61.9322,1,2006.4166666666667,23.198,92.556,Calido,Alta,Malaria falciparum
+120045,1200450,Acre,Senador guiomard,120040,2008,2,M,Blanca,Ninguna,20 a 24,-10.1497,-67.7362,1,2008.1666666666667,24.17,93.888,Calido,Alta,Malaria vivax
+130100,1301001,Amazonas,Carauari,130100,2008,5,M,Blanca,4 a 7,20 a 24,-4.88161,-66.9086,1,2008.4166666666667,26.63,85.613,Calido,Alta,Malaria vivax
+210177,2101772,Maranhao,Bela vista do maranhao,211130,2008,10,M,Blanca,4 a 7,20 a 24,-3.72618,-45.3075,1,2008.8333333333333,30.855,66.218,Muy calido,Baja,Malaria falciparum
+130020,1300201,Amazonas,Atalaia do norte,130406,2007,5,F,Indigena,4 a 7,15 a 19,-4.37055,-70.1967,1,2007.4166666666667,25.56,99.5,Calido,Alta,Malaria falciparum
+210317,2103174,Maranhao,Centro novo do maranhao,211130,2008,9,M,Negra,Ninguna,35 a 39,-2.12696,-46.1228,1,2008.75,26.889,66.158,Calido,Baja,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2009,7,F,Parda,Ninguna,65+,-3.11866,-60.0212,1,2009.5833333333333,25.768,92.363,Calido,Alta,Malaria vivax
+317010,3170107,Minas gerais,Uberaba,317010,2011,6,M,Sin especificar,12 o mas,40 a 44,-19.7472,-47.9381,1,2011.5,18.812,72.067,Templado,Moderada,Malaria falciparum
+330630,3306305,Rio de janeiro,Volta redonda,330630,2013,3,M,Blanca,12 o mas,50 a 54,-22.5202,-44.0996,1,2013.25,21.501,95.782,Calido,Alta,Sin especificar
+150553,1505536,Para,Parauapebas,1702109,2003,1,M,Parda,4 a 7,65+,-6.06781,-49.9037,1,2003.0833333333333,24.877,98.597,Calido,Alta,Sin especificar
+150277,1502772,Para,Curionopolis,1702109,2003,12,F,Parda,1 a 3,50 a 54,-6.09965,-49.6068,1,2004.0,24.839,98.556,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,1503606,2003,1,F,Parda,4 a 7,30 a 34,-4.2667,-55.9926,1,2003.0833333333333,25.649,98.089,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2007,7,F,Blanca,Sin especificar,60 a 64,-8.76077,-63.8999,1,2007.5833333333333,25.715,80.726,Calido,Moderada,Sin especificar
+150520,1505205,Para,Oeiras do para,150520,2010,5,M,Parda,1 a 3,15 a 19,-2.00358,-49.8628,1,2010.4166666666667,26.481,98.065,Calido,Alta,Malaria vivax
+150140,1501402,Para,Belem,150140,2011,3,F,Parda,4 a 7,15 a 19,-1.4554,-48.4898,1,2011.25,25.789,99.097,Calido,Alta,Malaria falciparum
+170550,1705508,Tocantins,Colinas do tocantins,1702109,2004,4,M,Blanca,4 a 7,35 a 39,-8.05764,-48.4757,1,2004.3333333333333,24.917,97.083,Calido,Alta,Sin especificar
+330390,3303906,Rio de janeiro,Petrolandia,330390,2006,3,F,Blanca,4 a 7,45 a 49,-22.52,-43.1926,1,2006.25,23.331,94.774,Calido,Alta,Malaria vivax
+150360,1503606,Para,Itaituba,150360,2008,10,M,Parda,1 a 3,40 a 44,-4.2667,-55.9926,1,2008.8333333333333,25.614,98.306,Calido,Alta,Sin especificar
+510330,5103304,Mato grosso,Comodoro,510330,2009,5,M,Indigena,Sin especificar,0 a 4,-13.6614,-59.7848,1,2009.4166666666667,23.394,97.444,Calido,Alta,Sin especificar
+210530,2105302,Maranhao,Imperatriz,210530,2011,9,F,Parda,Ninguna,65+,-5.51847,-47.4777,1,2011.75,28.899,61.125,Calido,Baja,Sin especificar
+260960,2609600,Pernambuco,Olinda,260960,2012,2,F,Parda,Ninguna,65+,-8.01017,-34.8545,1,2012.1666666666667,24.906,84.328,Calido,Moderada,Sin especificar
+150178,1501782,Para,Breu branco,150810,2013,1,F,Parda,8 a 11,20 a 24,-3.77191,-49.5735,1,2013.0833333333333,25.545,99.444,Calido,Alta,Malaria falciparum
+350600,3506003,Sao paulo,Bauru,350600,2015,11,M,Blanca,8 a 11,50 a 54,-22.3246,-49.0871,1,2015.9166666666667,24.243,96.65,Calido,Alta,Malaria falciparum
+510642,5106422,Mato grosso,Peixoto de azevedo,510642,2008,7,M,Blanca,1 a 3,45 a 49,-10.2262,-54.9794,1,2008.5833333333333,27.411,40.766,Calido,Muy baja,Sin especificar
+150360,1503606,Para,Itaituba,150360,2009,5,M,Parda,4 a 7,30 a 34,-4.2667,-55.9926,1,2009.4166666666667,25.184,101.234,Calido,Muy alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2012,12,F,Parda,4 a 7,65+,-8.76077,-63.8999,1,2013.0,26.374,98.548,Calido,Alta,Malaria vivax
+292740,2927408,Bahia,Salvador,292740,2014,4,F,Blanca,4 a 7,65+,-12.9718,-38.5011,1,2014.3333333333333,24.013,89.208,Calido,Alta,Sin especificar
+120040,1200401,Acre,Rio branco,1200401,2005,11,M,Parda,Sin especificar,40 a 44,-9.97499,-67.8243,1,2005.9166666666667,26.84,87.5,Calido,Alta,Sin especificar
+130080,1300805,Amazonas,Borba,130080,2006,5,F,Parda,Ninguna,65+,-4.39154,-59.5874,1,2006.4166666666667,25.672,95.54,Calido,Alta,Malaria vivax
+150085,1500859,Para,Anapu,150060,2006,3,M,Parda,Ninguna,15 a 19,-3.46985,-51.2003,1,2006.25,25.62,99.242,Calido,Alta,Malaria falciparum
+510025,5100250,Mato grosso,Alta floresta,510025,2009,12,M,Blanca,4 a 7,55 a 59,-9.86674,-56.0867,1,2010.0,24.369,98.371,Calido,Alta,Sin especificar
+510525,5105259,Mato grosso,Lucas do rio verde,510792,2010,2,M,Parda,Sin especificar,30 a 34,-13.0588,-55.9042,1,2010.1666666666667,24.435,96.955,Calido,Alta,Sin especificar
+150548,1505486,Para,Pacajus,150810,2010,6,M,Parda,1 a 3,25 a 29,-3.8354194,-50.6399231,1,2010.5,25.568,92.008,Calido,Alta,Malaria falciparum
+150110,1501105,Para,Bagre,150180,2010,11,M,Parda,Sin especificar,0 a 4,-1.90057,-50.1987,1,2010.9166666666667,26.863,93.283,Calido,Alta,Sin especificar
+130390,1303908,Amazonas,Sao paulo de olivenca,130390,2014,12,M,Parda,4 a 7,35 a 39,-3.47292,-68.9646,1,2015.0,26.677,99.411,Calido,Alta,Malaria vivax
+211230,2112308,Maranhao,Tuntum,2112308,2005,6,M,Parda,12 o mas,45 a 49,-5.25476,-44.6444,1,2005.5,25.618,75.233,Calido,Moderada,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2006,5,F,Blanca,Sin especificar,0 a 4,-7.62762,-72.6756,1,2006.4166666666667,23.972,89.605,Calido,Alta,Sin especificar
+110002,1100023,Rondonia,Ariquemes,1100023,2004,9,M,Parda,Sin especificar,15 a 19,-9.90571,-63.0325,1,2004.75,26.09,77.033,Calido,Moderada,Malaria falciparum
+130380,1303809,Amazonas,Sao gabriel da cachoeira,130380,2015,5,F,Indigena,Sin especificar,5 a 9,-0.11909,-67.084,1,2015.4166666666667,25.294,98.419,Calido,Alta,Malaria vivax
+130080,1300805,Amazonas,Borba,130080,2007,7,M,Parda,Sin especificar,0 a 4,-4.39154,-59.5874,1,2007.5833333333333,25.686,90.831,Calido,Alta,Malaria falciparum
+211130,2111300,Maranhao,Sao luis,211130,2008,7,M,Blanca,8 a 11,20 a 24,-2.53874,-44.2825,1,2008.5833333333333,26.457,70.282,Calido,Moderada,Sin especificar
+120039,1200393,Acre,Porto walter,120020,2009,5,M,Parda,Sin especificar,65+,-8.26323,-72.7537,1,2009.4166666666667,25.779,93.508,Calido,Alta,Malaria falciparum
+150375,1503754,Para,Jacareacanga,150375,2011,7,F,Indigena,Sin especificar,0 a 4,-6.21469,-57.7544,1,2011.5833333333333,25.706,90.153,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2014,7,M,Parda,8 a 11,20 a 24,-7.62762,-72.6756,1,2014.5833333333333,24.814,88.363,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,1100205,2004,4,F,Parda,Sin especificar,20 a 24,-8.76077,-63.8999,1,2004.3333333333333,26.028,97.65,Calido,Alta,Malaria falciparum
+521890,5218904,Goias,Rubiataba,521890,2006,6,M,Blanca,4 a 7,50 a 54,-15.1617,-49.8048,1,2006.5,23.174,59.483,Calido,Baja,Sin especificar
+530010,5300108,Distrito federal,Brasilia,530010,2015,9,M,Parda,12 o mas,65+,-15.7795,-47.9297,1,2015.75,27.928,35.258,Calido,Muy baja,Sin especificar
+150309,1503093,Para,Goianesia do para,1508100,2005,9,M,Blanca,Ninguna,65+,-3.84338,-49.0974,1,2005.75,31.095,55.625,Muy calido,Baja,Sin especificar
+432140,4321402,Rio grande do sul,Tenente portela,431020,2007,5,M,Blanca,8 a 11,25 a 29,-27.3711,-53.7585,1,2007.4166666666667,14.755,91.46,Templado,Alta,Sin especificar
+530010,5300108,Distrito federal,Brasilia,351880,2014,8,M,Negra,8 a 11,55 a 59,-15.7795,-47.9297,1,2014.6666666666667,24.682,42.855,Calido,Muy baja,Sin especificar
+160030,1600303,Amapa,Macapa,160030,2015,7,F,Parda,4 a 7,10 a 14,0.034934,-51.0694,1,2015.5833333333333,26.312,86.637,Calido,Alta,Malaria falciparum
+150810,1508100,Para,Tucurui,150810,2008,3,M,Parda,Sin especificar,0 a 4,-3.7657,-49.6773,1,2008.25,25.065,100.008,Calido,Muy alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,130260,2008,10,F,Blanca,Sin especificar,10 a 14,-3.11866,-60.0212,1,2008.8333333333333,25.965,96.121,Calido,Alta,Sin especificar
+240325,2403251,Rio grande do norte,Parnamirim,240810,2009,4,M,Parda,12 o mas,55 a 59,-5.91116,-35.271,1,2009.3333333333333,25.54,89.808,Calido,Alta,Sin especificar
+130390,1303908,Amazonas,Sao paulo de olivenca,130390,2012,6,M,Indigena,Ninguna,65+,-3.47292,-68.9646,1,2012.5,25.766,99.8,Calido,Alta,Malaria vivax
+421010,4210100,Santa catarina,Mafra,421010,2010,6,M,Blanca,1 a 3,65+,-26.1159,-49.8086,1,2010.5,13.568,84.217,Templado,Moderada,Malaria vivax
+120020,1200203,Acre,Cruzeiro do sul,120020,2011,5,F,Parda,8 a 11,25 a 29,-7.62762,-72.6756,1,2011.4166666666667,25.141,93.927,Calido,Alta,Malaria vivax
+120040,1200401,Acre,Rio branco,1200401,2003,10,M,Parda,4 a 7,40 a 44,-9.97499,-67.8243,1,2003.8333333333333,27.387,77.347,Calido,Moderada,Malaria vivax
+140010,1400100,Roraima,Boa vista,140010,2006,4,F,Blanca,Sin especificar,10 a 14,2.82384,-60.6753,1,2006.3333333333333,25.134,94.8,Calido,Alta,Sin especificar
+130220,1302207,Amazonas,Jurua,130160,2007,11,M,Indigena,Ninguna,45 a 49,-3.48438,-66.0718,1,2007.9166666666667,25.064,96.875,Calido,Alta,Malaria falciparum
+150360,1503606,Para,Itaituba,150360,2009,10,M,Blanca,4 a 7,25 a 29,-4.2667,-55.9926,1,2009.8333333333333,25.998,98.387,Calido,Alta,Malaria vivax
+150360,1503606,Para,Itaituba,150360,2012,3,M,Parda,4 a 7,25 a 29,-4.2667,-55.9926,1,2012.25,25.242,99.919,Calido,Alta,Malaria falciparum
+120033,1200336,Acre,Municipio de lima,1200336,2005,5,M,Parda,1 a 3,65+,-7.61657,-72.8997,1,2005.4166666666667,25.396,92.363,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,1100205,2005,6,F,Blanca,Sin especificar,0 a 4,-8.76077,-63.8999,1,2005.5,25.496,90.433,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,130260,2007,3,M,Parda,12 o mas,35 a 39,-3.11866,-60.0212,1,2007.25,25.696,99.226,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,1302603,2005,3,M,Parda,4 a 7,45 a 49,-3.11866,-60.0212,1,2005.25,26.213,99.387,Calido,Alta,Malaria vivax
+150070,1500701,Para,Anajas,150140,2006,4,M,Parda,1 a 3,15 a 19,-0.996811,-49.9354,1,2006.3333333333333,25.677,97.275,Calido,Alta,Malaria vivax
+150503,1505031,Para,Novo progresso,150503,2009,5,M,Negra,Sin especificar,50 a 54,-7.14347,-55.3786,1,2009.4166666666667,24.952,98.863,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2010,7,F,Parda,12 o mas,50 a 54,-3.11866,-60.0212,1,2010.5833333333333,25.875,93.742,Calido,Alta,Malaria falciparum
+160060,1600600,Amapa,Santana,160060,2011,7,M,Parda,8 a 11,15 a 19,-0.045434,-51.1729,1,2011.5833333333333,25.615,89.444,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2013,1,F,Parda,4 a 7,65+,-8.76077,-63.8999,1,2013.0833333333333,26.405,100.032,Calido,Muy alta,Sin especificar
+292045,2920452,Bahia,Mansidao,292045,2015,10,F,Parda,Ninguna,65+,-10.7227,-44.0428,1,2015.8333333333333,27.669,48.0,Calido,Muy baja,Sin especificar
+130380,1303809,Amazonas,Sao gabriel da cachoeira,130380,2015,12,M,Indigena,Ninguna,65+,-0.11909,-67.084,1,2016.0,25.872,96.887,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,110020,2011,5,M,Parda,1 a 3,65+,-8.76077,-63.8999,1,2011.4166666666667,25.897,95.532,Calido,Alta,Malaria vivax
+210820,2108207,Maranhao,Pedreiras,2211001,2004,1,M,Parda,Ninguna,35 a 39,-4.56482,-44.6006,1,2004.0833333333333,25.635,98.016,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,150360,2009,8,F,Blanca,4 a 7,55 a 59,-4.2667,-55.9926,1,2009.6666666666667,25.897,92.976,Calido,Alta,Malaria vivax
+150520,1505205,Para,Oeiras do para,150520,2011,6,M,Parda,Sin especificar,0 a 4,-2.00358,-49.8628,1,2011.5,25.717,95.0,Calido,Alta,Malaria vivax
+150360,1503606,Para,Itaituba,150360,2013,9,M,Parda,Sin especificar,50 a 54,-4.2667,-55.9926,1,2013.75,26.206,93.842,Calido,Alta,Sin especificar
+230110,2301109,Ceara,Aracati,2301109,2004,6,F,Parda,1 a 3,65+,-4.55826,-37.7679,1,2004.5,26.061,89.033,Calido,Alta,Sin especificar
+130014,1300144,Amazonas,Apu?,1300144,2005,7,M,Blanca,4 a 7,15 a 19,-7.19409,-59.896,1,2005.5833333333333,25.73,71.032,Calido,Moderada,Malaria vivax
+150178,1501782,Para,Breu branco,1508100,2005,3,F,Parda,4 a 7,30 a 34,-3.77191,-49.5735,1,2005.25,25.609,99.427,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2008,3,M,Amarilla,1 a 3,65+,-3.11866,-60.0212,1,2008.25,25.417,98.919,Calido,Alta,Malaria vivax
+150590,1505908,Para,Porto de moz,1505908,2004,12,M,Parda,4 a 7,65+,-1.74691,-52.2361,1,2005.0,26.429,95.266,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2008,8,M,Parda,1 a 3,55 a 59,-7.62762,-72.6756,1,2008.6666666666667,25.821,87.468,Calido,Alta,Malaria falciparum
+150506,1505064,Para,Novo repartimento,150810,2009,11,M,Parda,Sin especificar,0 a 4,-4.24749,-49.9499,1,2009.9166666666667,25.672,97.892,Calido,Alta,Malaria falciparum
+510525,5105259,Mato grosso,Lucas do rio verde,510790,2010,2,F,Blanca,12 o mas,35 a 39,-13.0588,-55.9042,1,2010.1666666666667,24.435,96.955,Calido,Alta,Malaria falciparum
+150070,1500701,Para,Anajas,1500701,2003,7,F,Blanca,Ninguna,0 a 4,-0.996811,-49.9354,1,2003.5833333333333,25.329,86.952,Calido,Alta,Malaria falciparum
+110013,1100130,Rondonia,Machadinho d'oeste,1100130,2003,3,M,Negra,Sin especificar,55 a 59,-9.44363,-61.9818,1,2003.25,25.748,98.944,Calido,Alta,Malaria falciparum
+120040,1200401,Acre,Rio branco,120040,2008,1,M,Parda,Sin especificar,15 a 19,-9.97499,-67.8243,1,2008.0833333333333,25.212,96.419,Calido,Alta,Sin especificar
+353530,3535309,Sao paulo,Palmital,352900,2009,4,M,Blanca,4 a 7,55 a 59,-22.7858,-50.218,1,2009.3333333333333,22.36,90.517,Calido,Alta,Sin especificar
+110012,1100122,Rondonia,Ji-parana,110020,2009,12,M,Parda,Sin especificar,40 a 44,-10.8777,-61.9322,1,2010.0,25.396,100.073,Calido,Muy alta,Malaria vivax
+312160,3121605,Minas gerais,Diamantina,312160,2012,1,M,Parda,Sin especificar,35 a 39,-18.2413,-43.6031,1,2012.0833333333333,21.42,95.879,Calido,Alta,Sin especificar
+160030,1600303,Amapa,Macapa,160030,2013,3,M,Parda,Sin especificar,0 a 4,0.034934,-51.0694,1,2013.25,26.158,95.847,Calido,Alta,Malaria vivax
+120060,1200609,Acre,Tarauaca,1200609,2003,9,F,Parda,1 a 3,65+,-8.15697,-70.7722,1,2003.75,27.711,78.45,Calido,Moderada,Sin especificar
+130406,1304062,Amazonas,Tabatinga,1304062,2003,8,F,Indigena,Ninguna,60 a 64,-4.2416,-69.9383,1,2003.6666666666667,25.134,94.298,Calido,Alta,Malaria falciparum
+510850,5108501,Mato grosso,Vera,5107925,2003,12,M,Blanca,8 a 11,20 a 24,-12.3017,-55.3045,1,2004.0,24.362,95.161,Calido,Alta,Sin especificar
+120033,1200336,Acre,Municipio de lima,1200336,2005,2,F,Parda,Ninguna,0 a 4,-7.61657,-72.8997,1,2005.1666666666667,25.881,95.723,Calido,Alta,Sin especificar
+292740,2927408,Bahia,Salvador,2927408,2005,12,M,Sin especificar,8 a 11,65+,-12.9718,-38.5011,1,2006.0,25.949,85.718,Calido,Alta,Sin especificar
+120033,1200336,Acre,Municipio de lima,120020,2006,7,F,Blanca,Sin especificar,0 a 4,-7.61657,-72.8997,1,2006.5833333333333,25.373,79.855,Calido,Moderada,Malaria falciparum
+150140,1501402,Para,Belem,150140,2006,9,F,Parda,1 a 3,35 a 39,-1.4554,-48.4898,1,2006.75,30.223,58.567,Muy calido,Baja,Malaria vivax
+110092,1100924,Rondonia,Chupinguaia,110030,2006,5,F,Blanca,4 a 7,25 a 29,-12.5611,-60.8877,1,2006.4166666666667,22.48,83.968,Calido,Moderada,Malaria vivax
+420540,4205407,Santa catarina,Florianopolis,420540,2011,2,F,Blanca,12 o mas,25 a 29,-27.5945,-48.5477,1,2011.1666666666667,23.611,97.83,Calido,Alta,Sin especificar
+130406,1304062,Amazonas,Tabatinga,1304062,2004,10,F,Parda,Sin especificar,20 a 24,-4.2416,-69.9383,1,2004.8333333333333,26.381,94.008,Calido,Alta,Sin especificar
+110033,1100338,Rondonia,Nova mamore,110020,2007,3,F,Blanca,Sin especificar,10 a 14,-10.4077,-65.3346,1,2007.25,24.668,98.331,Calido,Alta,Malaria falciparum
+130165,1301654,Amazonas,Guajara,120020,2009,2,M,Sin especificar,Sin especificar,0 a 4,-7.53797,-72.5907,1,2009.1666666666667,25.723,96.107,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,110020,2009,3,M,Negra,Sin especificar,65+,-8.76077,-63.8999,1,2009.25,26.065,99.056,Calido,Alta,Malaria vivax
+160050,1600501,Amapa,Oiapoque,1600501,2003,8,M,Blanca,Sin especificar,50 a 54,3.84074,-51.8331,1,2003.6666666666667,25.889,88.298,Calido,Alta,Malaria falciparum
+160030,1600303,Amapa,Macapa,1600303,2003,10,F,Parda,1 a 3,40 a 44,0.034934,-51.0694,1,2003.8333333333333,27.07,82.137,Calido,Moderada,Malaria falciparum
+170380,1703800,Tocantins,Buriti do tocantins,1702554,2003,12,M,Parda,1 a 3,50 a 54,-5.31448,-48.2271,1,2004.0,24.97,95.879,Calido,Alta,Sin especificar
+120040,1200401,Acre,Rio branco,1200401,2005,10,F,Sin especificar,1 a 3,30 a 34,-9.97499,-67.8243,1,2005.8333333333333,27.945,79.073,Calido,Moderada,Malaria falciparum
+510790,5107909,Mato grosso,Sinop,5107909,2005,2,M,Blanca,1 a 3,40 a 44,-11.8604,-55.5091,1,2005.1666666666667,24.255,97.205,Calido,Alta,Malaria falciparum
+130080,1300805,Amazonas,Borba,130080,2008,8,F,Indigena,Ninguna,20 a 24,-4.39154,-59.5874,1,2008.6666666666667,25.866,92.04,Calido,Alta,Malaria falciparum
+130423,1304237,Amazonas,Tonantins,130423,2011,4,M,Indigena,8 a 11,20 a 24,-2.86582,-67.7919,1,2011.3333333333333,26.354,95.742,Calido,Alta,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,1200203,2004,1,M,Blanca,1 a 3,0 a 4,-7.62762,-72.6756,1,2004.0833333333333,26.399,92.185,Calido,Alta,Malaria falciparum
+150815,1508159,Para,Uruguaiana,150815,2006,12,F,Blanca,1 a 3,15 a 19,-3.71519,-53.7396,1,2007.0,26.028,92.911,Calido,Alta,Malaria vivax
+260410,2604106,Pernambuco,Caruaru,260410,2006,9,F,Parda,Ninguna,25 a 29,-8.28455,-35.9699,1,2006.75,25.25,87.292,Calido,Alta,Malaria vivax
+150307,1503077,Para,Garrafao do norte,150140,2007,8,F,Blanca,Sin especificar,25 a 29,-1.92986,-47.0505,1,2007.6666666666667,25.853,83.427,Calido,Moderada,Malaria falciparum
+130380,1303809,Amazonas,Sao gabriel da cachoeira,130380,2009,1,F,Indigena,Ninguna,65+,-0.11909,-67.084,1,2009.0833333333333,24.94,98.0,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,150360,2010,3,F,Indigena,1 a 3,5 a 9,-4.2667,-55.9926,1,2010.25,26.012,99.984,Calido,Alta,Malaria falciparum
+352050,3520509,Sao paulo,Indaiatuba,355030,2011,2,F,Blanca,12 o mas,40 a 44,-23.0816,-47.2101,1,2011.1666666666667,23.924,96.714,Calido,Alta,Malaria falciparum
+150210,1502103,Para,Cameta,150210,2012,2,M,Negra,1 a 3,5 a 9,-2.24295,-49.4979,1,2012.1666666666667,24.133,95.069,Calido,Alta,Malaria vivax
+150360,1503606,Para,Itaituba,150360,2012,7,M,Parda,4 a 7,45 a 49,-4.2667,-55.9926,1,2012.5833333333333,25.628,92.145,Calido,Alta,Malaria vivax
+150550,1505502,Para,Paragominas,1501402,2003,8,F,Negra,4 a 7,15 a 19,-3.00212,-47.3527,1,2003.6666666666667,25.665,86.927,Calido,Alta,Malaria falciparum
+110030,1100304,Rondonia,Vilhena,1100205,2003,9,F,Parda,Sin especificar,0 a 4,-12.7502,-60.1488,1,2003.75,27.176,62.725,Calido,Baja,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1100205,2005,10,I,Parda,Sin especificar,50 a 54,-8.76077,-63.8999,1,2005.8333333333333,26.383,88.798,Calido,Alta,Sin especificar
+150810,1508100,Para,Tucurui,150810,2006,5,M,Parda,4 a 7,10 a 14,-3.7657,-49.6773,1,2006.4166666666667,25.316,96.524,Calido,Alta,Sin especificar
+150140,1501402,Para,Belem,150810,2008,1,M,Parda,8 a 11,25 a 29,-1.4554,-48.4898,1,2008.0833333333333,25.448,99.315,Calido,Alta,Malaria falciparum
+210547,2105476,Maranhao,Jenipapo dos vieiras,210160,2009,1,M,Blanca,8 a 11,20 a 24,-5.36237,-45.6356,1,2009.0833333333333,25.298,98.653,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,130260,2011,11,M,Parda,1 a 3,65+,-3.11866,-60.0212,1,2011.9166666666667,25.973,97.108,Calido,Alta,Sin especificar
+130060,1300607,Amazonas,Benjamin constant,130060,2012,7,M,Parda,1 a 3,40 a 44,-4.37768,-70.0342,1,2012.5833333333333,25.222,97.516,Calido,Alta,Malaria falciparum
+130310,1303106,Amazonas,Nova olinda do norte,1303106,2003,7,F,Parda,1 a 3,50 a 54,-3.90037,-59.094,1,2003.5833333333333,25.607,87.04,Calido,Alta,Sin especificar
+150370,1503705,Para,Itupiranga,1504208,2003,5,F,Parda,1 a 3,10 a 14,-5.13272,-49.3358,1,2003.4166666666667,25.015,96.081,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1100205,2005,3,M,Blanca,Sin especificar,60 a 64,-8.76077,-63.8999,1,2005.25,26.428,99.048,Calido,Alta,Malaria vivax
+120020,1200203,Acre,Cruzeiro do sul,120040,2011,6,M,Indigena,Sin especificar,0 a 4,-7.62762,-72.6756,1,2011.5,25.25,92.575,Calido,Alta,Malaria vivax
+320060,3200607,Espirito santo,Aracruz,320530,2011,5,F,Negra,12 o mas,60 a 64,-19.82,-40.2764,1,2011.4166666666667,-20.75401430835089,86.823,Muy frio,Alta,Malaria falciparum
+110002,1100023,Rondonia,Ariquemes,1100023,2005,7,M,Parda,Sin especificar,10 a 14,-9.90571,-63.0325,1,2005.5833333333333,23.512,64.847,Calido,Baja,Malaria vivax
+110094,1100940,Rondonia,Cujubim,110002,2006,8,F,Sin especificar,1 a 3,60 a 64,-9.36065,-62.5846,1,2006.6666666666667,28.156,60.911,Calido,Baja,Malaria vivax
+210830,2108306,Maranhao,Penalva,211130,2007,1,M,Parda,8 a 11,30 a 34,-3.27674,-45.1768,1,2007.0833333333333,26.304,86.984,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2008,8,F,Parda,Sin especificar,65+,-8.76077,-63.8999,1,2008.6666666666667,26.559,88.411,Calido,Alta,Malaria vivax
+130410,1304104,Amazonas,Tapaua,130260,2008,9,M,Parda,4 a 7,25 a 29,-5.62085,-63.1808,1,2008.75,25.176,94.858,Calido,Alta,Malaria vivax
+130190,1301902,Amazonas,Itacoatiara,130190,2009,5,F,Parda,Ninguna,65+,-3.13861,-58.4449,1,2009.4166666666667,24.965,100.742,Calido,Muy alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,110020,2010,5,M,Parda,Sin especificar,55 a 59,-8.76077,-63.8999,1,2010.4166666666667,25.829,94.508,Calido,Alta,Malaria falciparum
+150210,1502103,Para,Cameta,150210,2011,6,M,Parda,Ninguna,65+,-2.24295,-49.4979,1,2011.5,25.428,95.0,Calido,Alta,Malaria vivax
+150210,1502103,Para,Cameta,150210,2011,8,M,Parda,Ninguna,60 a 64,-2.24295,-49.4979,1,2011.6666666666667,25.281,95.952,Calido,Alta,Malaria vivax
+120042,1200427,Acre,Rodrigues alves,120020,2015,2,M,Parda,Sin especificar,0 a 4,-7.73864,-72.661,1,2015.1666666666667,26.179,95.589,Calido,Alta,Sin especificar
+120033,1200336,Acre,Municipio de lima,1200336,2003,1,F,Parda,8 a 11,45 a 49,-7.61657,-72.8997,1,2003.0833333333333,26.077,92.976,Calido,Alta,Sin especificar
+170950,1709500,Tocantins,Gurupi,2104677,2004,6,F,Negra,1 a 3,10 a 14,-11.7279,-49.068,1,2004.5,23.957,58.2,Calido,Baja,Malaria falciparum
+120033,1200336,Acre,Municipio de lima,1200336,2005,3,M,Sin especificar,Sin especificar,50 a 54,-7.61657,-72.8997,1,2005.25,26.206,93.081,Calido,Alta,Sin especificar
+120050,1200500,Acre,Sena madureira,120050,2006,4,M,Parda,1 a 3,40 a 44,-9.0659552,-68.6571045,1,2006.3333333333333,23.85,95.775,Calido,Alta,Sin especificar
+110013,1100130,Rondonia,Machadinho d'oeste,110013,2006,3,F,Parda,Ninguna,20 a 24,-9.44363,-61.9818,1,2006.25,25.728,99.137,Calido,Alta,Sin especificar
+354850,3548500,Sao paulo,Santos,354850,2007,10,M,Parda,8 a 11,20 a 24,-23.9535,-46.335,1,2007.8333333333333,22.584,89.21,Calido,Alta,Sin especificar
+130260,1302603,Amazonas,Manaus,1302603,2003,5,M,Parda,Sin especificar,60 a 64,-3.11866,-60.0212,1,2003.4166666666667,25.91,97.565,Calido,Alta,Malaria vivax
+110011,1100114,Rondonia,Jaru,1100205,2004,4,M,Blanca,4 a 7,55 a 59,-10.4318,-62.4788,1,2004.3333333333333,24.894,98.908,Calido,Alta,Malaria falciparum
+150400,1504000,Para,Limoeiro do ajuru,150140,2010,3,F,Parda,4 a 7,10 a 14,-1.8985,-49.3903,1,2010.25,26.485,98.274,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,150360,2010,8,F,Parda,8 a 11,25 a 29,-4.2667,-55.9926,1,2010.6666666666667,27.987,77.726,Calido,Moderada,Malaria falciparum
+150210,1502103,Para,Cameta,150210,2011,5,M,Parda,Sin especificar,10 a 14,-2.24295,-49.4979,1,2011.4166666666667,25.657,97.984,Calido,Alta,Malaria vivax
+510795,5107958,Mato grosso,Tangara da serra,510795,2014,3,M,Parda,8 a 11,30 a 34,-14.6229,-57.4933,1,2014.25,24.824,97.0,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1100205,2003,10,M,Blanca,Sin especificar,65+,-8.76077,-63.8999,1,2003.8333333333333,26.113,86.718,Calido,Alta,Malaria falciparum
+150506,1505064,Para,Novo repartimento,1505064,2005,1,M,Parda,4 a 7,25 a 29,-4.24749,-49.9499,1,2005.0833333333333,25.079,99.395,Calido,Alta,Sin especificar
+140010,1400100,Roraima,Boa vista,1400100,2003,12,F,Parda,Sin especificar,5 a 9,2.82384,-60.6753,1,2004.0,24.268,96.508,Calido,Alta,Malaria falciparum
+150150,1501501,Para,Benevides,1501501,2005,2,M,Parda,1 a 3,50 a 54,-1.36183,-48.2434,1,2005.1666666666667,26.07,99.536,Calido,Alta,Sin especificar
+130190,1301902,Amazonas,Itacoatiara,130260,2006,12,M,Parda,Sin especificar,40 a 44,-3.13861,-58.4449,1,2007.0,25.478,94.895,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2008,5,F,Parda,1 a 3,65+,-7.62762,-72.6756,1,2008.4166666666667,25.056,92.21,Calido,Alta,Malaria vivax
+210632,2106326,Maranhao,Maracacume,210632,2008,11,M,Parda,Ninguna,35 a 39,-2.04918,-45.9587,1,2008.9166666666667,26.928,70.558,Calido,Moderada,Sin especificar
+130140,1301407,Amazonas,Eirunepe,130140,2011,8,F,Indigena,Sin especificar,0 a 4,-6.65677,-69.8662,1,2011.6666666666667,23.79,81.871,Calido,Moderada,Malaria vivax
+150613,1506138,Para,Redencao,1506138,2004,3,M,Parda,1 a 3,25 a 29,-8.02529,-50.0317,1,2004.25,24.605,97.782,Calido,Alta,Malaria falciparum
+120020,1200203,Acre,Cruzeiro do sul,120020,2006,5,F,Sin especificar,Sin especificar,0 a 4,-7.62762,-72.6756,1,2006.4166666666667,23.972,89.605,Calido,Alta,Sin especificar
+150060,1500602,Para,Altamira,150543,2009,8,F,Indigena,Sin especificar,0 a 4,-3.20407,-52.21,1,2009.6666666666667,25.097,96.484,Calido,Alta,Malaria vivax
+130170,1301704,Amazonas,Humaita,130170,2011,6,M,Parda,1 a 3,5 a 9,-7.51171,-63.0327,1,2011.5,26.04,89.983,Calido,Alta,Malaria vivax
+150360,1503606,Para,Itaituba,150360,2013,2,M,Parda,Ninguna,60 a 64,-4.2667,-55.9926,1,2013.1666666666667,25.869,100.473,Calido,Muy alta,Sin especificar
+431870,4318705,Rio grande do sul,Sao leopoldo,431870,2014,8,F,Negra,Sin especificar,50 a 54,-29.7545,-51.1498,1,2014.6666666666667,15.903,86.427,Templado,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,1302603,2003,9,M,Parda,12 o mas,45 a 49,-3.11866,-60.0212,1,2003.75,25.703,95.517,Calido,Alta,Sin especificar
+210860,2108603,Maranhao,Pinheiro,2108603,2003,4,M,Parda,1 a 3,40 a 44,-2.52224,-45.0788,1,2003.3333333333333,26.218,93.533,Calido,Alta,Sin especificar
+150810,1508100,Para,Tucurui,1508100,2004,2,M,Blanca,1 a 3,10 a 14,-3.7657,-49.6773,1,2004.1666666666667,24.532,97.681,Calido,Alta,Malaria falciparum
+150070,1500701,Para,Anajas,1500701,2004,6,F,Parda,Ninguna,0 a 4,-0.996811,-49.9354,1,2004.5,25.34,89.042,Calido,Alta,Malaria falciparum
+140070,1400704,Roraima,Uiramuta,1400100,2005,12,M,Indigena,Sin especificar,0 a 4,4.60314,-60.1815,1,2006.0,23.837,93.903,Calido,Alta,Sin especificar
+150548,1505486,Para,Pacajus,150810,2007,1,M,Parda,Sin especificar,5 a 9,-3.8354194,-50.6399231,1,2007.0833333333333,25.757,97.177,Calido,Alta,Sin especificar
+150503,1505031,Para,Novo progresso,150503,2009,3,M,Parda,Sin especificar,35 a 39,-7.14347,-55.3786,1,2009.25,25.036,98.935,Calido,Alta,Sin especificar
+130280,1302801,Amazonas,Maraa,130280,2007,8,M,Parda,1 a 3,10 a 14,-1.85313,-65.573,1,2007.6666666666667,25.018,93.089,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,110020,2007,3,F,Parda,1 a 3,5 a 9,-8.76077,-63.8999,1,2007.25,26.103,98.331,Calido,Alta,Malaria falciparum
+150613,1506138,Para,Redencao,150613,2015,6,M,Blanca,8 a 11,30 a 34,-8.02529,-50.0317,1,2015.5,26.043,77.833,Calido,Moderada,Malaria falciparum
+150810,1508100,Para,Tucurui,1508100,2003,1,F,Parda,4 a 7,10 a 14,-3.7657,-49.6773,1,2003.0833333333333,25.221,98.597,Calido,Alta,Malaria falciparum
+150810,1508100,Para,Tucurui,1508100,2004,8,F,Parda,Ninguna,0 a 4,-3.7657,-49.6773,1,2004.6666666666667,25.172,74.726,Calido,Moderada,Malaria falciparum
+150070,1500701,Para,Anajas,150070,2006,9,M,Parda,Sin especificar,0 a 4,-0.996811,-49.9354,1,2006.75,29.239,72.883,Calido,Moderada,Malaria vivax
+150190,1501907,Para,Bujaru,150140,2006,10,M,Parda,Sin especificar,25 a 29,-1.51762,-48.0381,1,2006.8333333333333,31.226,56.903,Muy calido,Baja,Sin especificar
+150360,1503606,Para,Itaituba,150360,2006,9,M,Blanca,Sin especificar,50 a 54,-4.2667,-55.9926,1,2006.75,26.004,92.058,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,130260,2007,9,M,Parda,4 a 7,30 a 34,-3.11866,-60.0212,1,2007.75,25.842,92.392,Calido,Alta,Malaria vivax
+120033,1200336,Acre,Municipio de lima,120020,2008,9,M,Sin especificar,Sin especificar,10 a 14,-7.61657,-72.8997,1,2008.75,25.491,85.383,Calido,Alta,Malaria vivax
+150590,1505908,Para,Porto de moz,1505908,2004,8,M,Parda,1 a 3,15 a 19,-1.74691,-52.2361,1,2004.6666666666667,24.663,96.79,Calido,Alta,Malaria falciparum
+130380,1303809,Amazonas,Sao gabriel da cachoeira,1303809,2005,6,M,Indigena,Sin especificar,0 a 4,-0.11909,-67.084,1,2005.5,24.928,96.633,Calido,Alta,Sin especificar
+150309,1503093,Para,Goianesia do para,150810,2007,10,F,Parda,4 a 7,15 a 19,-3.84338,-49.0974,1,2007.8333333333333,26.461,94.548,Calido,Alta,Malaria falciparum
+150520,1505205,Para,Oeiras do para,150520,2011,1,M,Parda,Ninguna,45 a 49,-2.00358,-49.8628,1,2011.0833333333333,25.365,98.742,Calido,Alta,Malaria vivax
+150548,1505486,Para,Pacajus,150810,2011,1,F,Parda,Ninguna,55 a 59,-3.8354194,-50.6399231,1,2011.0833333333333,25.136,99.516,Calido,Alta,Sin especificar
+210360,2103604,Maranhao,Coroata,2103604,2003,7,M,Negra,4 a 7,15 a 19,-4.13442,-44.1244,1,2003.5833333333333,25.894,59.452,Calido,Baja,Malaria falciparum
+130420,1304203,Amazonas,Tefe,1304203,2004,4,M,Parda,Sin especificar,5 a 9,-3.36822,-64.7193,1,2004.3333333333333,24.73,99.358,Calido,Alta,Malaria falciparum
+110028,1100288,Rondonia,Rolim de moura,1100304,2004,10,M,Blanca,8 a 11,20 a 24,-11.7271,-61.7714,1,2004.8333333333333,26.206,75.016,Calido,Moderada,Malaria vivax
+210860,2108603,Maranhao,Pinheiro,2108603,2005,11,M,Parda,4 a 7,30 a 34,-2.52224,-45.0788,1,2005.9166666666667,30.761,66.242,Muy calido,Baja,Sin especificar
+293130,2931301,Bahia,Tapiramuta,293130,2007,4,F,Parda,4 a 7,55 a 59,-11.8475,-40.7927,1,2007.3333333333333,24.271,77.508,Calido,Moderada,Malaria falciparum
+410660,4106605,Parana,Cruzeiro do oeste,412810,2009,11,M,Blanca,1 a 3,35 a 39,-23.7799,-53.0774,1,2009.9166666666667,23.773,93.883,Calido,Alta,Malaria falciparum
+150030,1500305,Para,Afua,160030,2013,2,F,Parda,Sin especificar,15 a 19,-0.154874,-50.3861,1,2013.1666666666667,25.845,96.232,Calido,Alta,Malaria vivax
+110020,1100205,Rondonia,Porto velho,110020,2014,2,F,Blanca,1 a 3,10 a 14,-8.76077,-63.8999,1,2014.1666666666667,26.138,100.009,Calido,Muy alta,Malaria falciparum
+110002,1100023,Rondonia,Ariquemes,110020,2008,2,M,Negra,Ninguna,10 a 14,-9.90571,-63.0325,1,2008.1666666666667,23.458,95.405,Calido,Alta,Malaria vivax
+130420,1304203,Amazonas,Tefe,130420,2008,9,M,Parda,Sin especificar,5 a 9,-3.36822,-64.7193,1,2008.75,24.708,95.65,Calido,Alta,Malaria vivax
+150178,1501782,Para,Breu branco,150810,2008,11,M,Parda,Ninguna,40 a 44,-3.77191,-49.5735,1,2008.9166666666667,26.11,99.958,Calido,Alta,Malaria falciparum
+510340,5103403,Mato grosso,Cuiaba,510340,2010,6,M,Blanca,12 o mas,15 a 19,-15.601,-56.0974,1,2010.5,24.743,58.483,Calido,Baja,Sin especificar
+522045,5220454,Goias,Senador canedo,5208707,2003,6,F,Parda,Sin especificar,45 a 49,-16.7084,-49.0914,1,2003.5,21.903,54.867,Calido,Baja,Malaria vivax
+150420,1504208,Para,Maraba,1504208,2004,3,F,Parda,1 a 3,65+,-5.38075,-49.1327,1,2004.25,25.103,100.524,Calido,Muy alta,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,1200203,2005,11,F,Negra,Ninguna,65+,-7.62762,-72.6756,1,2005.9166666666667,26.638,87.458,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2010,7,M,Sin especificar,1 a 3,45 a 49,-8.76077,-63.8999,1,2010.5833333333333,25.806,75.895,Calido,Moderada,Malaria vivax
+140010,1400100,Roraima,Boa vista,140010,2013,9,M,Parda,4 a 7,65+,2.82384,-60.6753,1,2013.75,24.538,95.683,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,1100205,2005,3,M,Blanca,Sin especificar,60 a 64,-8.76077,-63.8999,1,2005.25,26.428,99.048,Calido,Alta,Malaria falciparum
+130380,1303809,Amazonas,Sao gabriel da cachoeira,130380,2015,9,M,Indigena,1 a 3,65+,-0.11909,-67.084,1,2015.75,25.983,91.875,Calido,Alta,Malaria falciparum
+520870,5208707,Goias,Goiania,520870,2013,12,M,Parda,12 o mas,25 a 29,-16.6864,-49.2643,1,2014.0,22.896,97.145,Calido,Alta,Malaria falciparum
+160027,1600279,Amapa,Laranjal do jari,1600279,2005,3,M,Parda,Sin especificar,60 a 64,-0.804911,-52.453,1,2005.25,25.345,100.169,Calido,Muy alta,Malaria falciparum
+160027,1600279,Amapa,Laranjal do jari,150050,2007,11,F,Parda,4 a 7,25 a 29,-0.804911,-52.453,1,2007.9166666666667,24.974,96.7,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2010,5,M,Blanca,4 a 7,65+,-8.76077,-63.8999,1,2010.4166666666667,25.829,94.508,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,130260,2010,2,F,Parda,4 a 7,30 a 34,-3.11866,-60.0212,1,2010.1666666666667,26.44,98.884,Calido,Alta,Malaria vivax
+510185,5101852,Mato grosso,Bom jesus do araguaia,510340,2010,12,M,Negra,1 a 3,45 a 49,-12.1706,-51.5032,1,2011.0,25.575,97.242,Calido,Alta,Malaria falciparum
+431660,4316600,Rio grande do sul,Sananduva,4316600,2003,9,F,Parda,1 a 3,35 a 39,-27.947,-51.8079,1,2003.75,15.093,85.8,Templado,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,1302603,2004,4,F,Sin especificar,Sin especificar,60 a 64,-3.11866,-60.0212,1,2004.3333333333333,25.938,99.225,Calido,Alta,Malaria falciparum
+520870,5208707,Goias,Goiania,520870,2009,6,M,Parda,1 a 3,65+,-16.6864,-49.2643,1,2009.5,21.541,71.533,Calido,Moderada,Malaria vivax
+130110,1301100,Amazonas,Careiro,1301100,2005,8,F,Parda,Sin especificar,65+,-3.76803,-60.369,1,2005.6666666666667,26.14,87.984,Calido,Alta,Malaria falciparum
+150085,1500859,Para,Anapu,1500602,2005,1,F,Blanca,4 a 7,15 a 19,-3.46985,-51.2003,1,2005.0833333333333,25.296,97.605,Calido,Alta,Malaria falciparum
+150810,1508100,Para,Tucurui,150810,2006,8,F,Parda,4 a 7,55 a 59,-3.7657,-49.6773,1,2006.6666666666667,27.316,53.879,Calido,Baja,Malaria falciparum
+530010,5300108,Distrito federal,Brasilia,530010,2013,5,F,Blanca,12 o mas,65+,-15.7795,-47.9297,1,2013.4166666666667,21.905,79.79,Calido,Moderada,Malaria falciparum
+210215,2102150,Maranhao,Brejo de areia,211300,2014,1,M,Parda,4 a 7,25 a 29,-4.334,-45.581,1,2014.0833333333333,24.985,99.105,Calido,Alta,Sin especificar
+130170,1301704,Amazonas,Humaita,1301704,2003,3,F,Indigena,Ninguna,65+,-7.51171,-63.0327,1,2003.25,26.102,96.661,Calido,Alta,Malaria falciparum
+130020,1300201,Amazonas,Atalaia do norte,1300201,2003,12,M,Indigena,Sin especificar,15 a 19,-4.37055,-70.1967,1,2004.0,26.306,95.145,Calido,Alta,Malaria vivax
+110034,1100346,Rondonia,Alvorada d'oeste,5002704,2004,11,M,Blanca,4 a 7,40 a 44,-11.3463,-62.2847,1,2004.9166666666667,25.408,83.783,Calido,Moderada,Sin especificar
+130395,1303957,Amazonas,Sao sebastiao do uatuma,1303957,2005,7,M,Parda,Ninguna,0 a 4,-2.55915,-57.8731,1,2005.5833333333333,25.248,95.669,Calido,Alta,Malaria vivax
+130260,1302603,Amazonas,Manaus,130260,2007,11,F,Blanca,4 a 7,15 a 19,-3.11866,-60.0212,1,2007.9166666666667,25.855,98.042,Calido,Alta,Malaria vivax
+130080,1300805,Amazonas,Borba,130080,2009,7,M,Parda,1 a 3,65+,-4.39154,-59.5874,1,2009.5833333333333,25.809,91.129,Calido,Alta,Malaria vivax
+510125,5101258,Mato grosso,Araputanga,5103403,2004,1,M,Parda,1 a 3,45 a 49,-15.4641,-58.3425,1,2004.0833333333333,25.982,98.339,Calido,Alta,Malaria falciparum
+130040,1300409,Amazonas,Barcelos,130260,2006,10,M,Parda,Ninguna,50 a 54,-0.983373,-62.9311,1,2006.8333333333333,26.219,96.565,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,110020,2006,11,M,Parda,Sin especificar,60 a 64,-8.76077,-63.8999,1,2006.9166666666667,26.362,90.883,Calido,Alta,Sin especificar
+315180,3151800,Minas gerais,Pocos de caldas,315180,2011,12,M,Blanca,4 a 7,55 a 59,-21.78,-46.5692,1,2012.0,20.901,94.887,Calido,Alta,Sin especificar
+350600,3506003,Sao paulo,Bauru,350600,2015,5,M,Blanca,8 a 11,30 a 34,-22.3246,-49.0871,1,2015.4166666666667,19.707,90.911,Templado,Alta,Malaria falciparum
+150550,1505502,Para,Paragominas,2101202,2003,10,M,Parda,Ninguna,20 a 24,-3.00212,-47.3527,1,2003.8333333333333,27.72,76.702,Calido,Moderada,Sin especificar
+130260,1302603,Amazonas,Manaus,1302603,2005,8,F,Blanca,Ninguna,0 a 4,-3.11866,-60.0212,1,2005.6666666666667,26.14,91.339,Calido,Alta,Sin especificar
+150375,1503754,Para,Jacareacanga,1503754,2005,2,F,Indigena,Sin especificar,0 a 4,-6.21469,-57.7544,1,2005.1666666666667,25.602,98.813,Calido,Alta,Malaria falciparum
+130380,1303809,Amazonas,Sao gabriel da cachoeira,130380,2007,8,F,Indigena,Ninguna,65+,-0.11909,-67.084,1,2007.6666666666667,25.022,92.46,Calido,Alta,Sin especificar
+110020,1100205,Rondonia,Porto velho,110020,2008,2,M,Parda,Sin especificar,15 a 19,-8.76077,-63.8999,1,2008.1666666666667,25.012,95.06,Calido,Alta,Malaria falciparum
+150178,1501782,Para,Breu branco,150810,2011,12,M,Parda,4 a 7,25 a 29,-3.77191,-49.5735,1,2012.0,25.776,99.669,Calido,Alta,Sin especificar
+150210,1502103,Para,Cameta,150210,2011,6,M,Negra,1 a 3,20 a 24,-2.24295,-49.4979,1,2011.5,25.428,95.0,Calido,Alta,Malaria vivax
+280030,2800308,Sergipe,Aracaju,2800308,2003,7,F,Sin especificar,Sin especificar,65+,-10.9091,-37.0677,1,2003.5833333333333,23.35,92.274,Calido,Alta,Malaria falciparum
+150810,1508100,Para,Tucurui,150810,2006,7,M,Parda,1 a 3,60 a 64,-3.7657,-49.6773,1,2006.5833333333333,25.002,70.169,Calido,Moderada,Sin especificar
+150553,1505536,Para,Parauapebas,150420,2012,2,M,Parda,Sin especificar,20 a 24,-6.06781,-49.9037,1,2012.1666666666667,23.696,96.164,Calido,Alta,Malaria ovale
+160060,1600600,Amapa,Santana,160060,2013,5,F,Parda,8 a 11,20 a 24,-0.045434,-51.1729,1,2013.4166666666667,26.013,93.935,Calido,Alta,Sin especificar
+130060,1300607,Amazonas,Benjamin constant,130406,2015,5,M,Sin especificar,12 o mas,40 a 44,-4.37768,-70.0342,1,2015.4166666666667,26.298,100.806,Calido,Muy alta,Malaria vivax
+160030,1600303,Amapa,Macapa,160030,2007,11,F,Parda,Sin especificar,65+,0.034934,-51.0694,1,2007.9166666666667,25.876,91.617,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1100205,2003,8,M,Sin especificar,Sin especificar,10 a 14,-8.76077,-63.8999,1,2003.6666666666667,25.656,73.5,Calido,Moderada,Sin especificar
+130406,1304062,Amazonas,Tabatinga,130406,2010,5,M,Indigena,Ninguna,65+,-4.2416,-69.9383,1,2010.4166666666667,26.169,99.629,Calido,Alta,Malaria vivax
+150750,1507508,Para,Sao joao do araguaia,1504208,2003,2,M,Parda,1 a 3,45 a 49,-5.36334,-48.7926,1,2003.1666666666667,25.068,100.732,Calido,Muy alta,Malaria ovale
+420490,4204905,Santa catarina,Descanso,510792,2010,2,M,Blanca,4 a 7,50 a 54,-26.827,-53.5034,1,2010.1666666666667,24.07,93.83,Calido,Alta,Malaria falciparum
+130260,1302603,Amazonas,Manaus,130260,2010,5,F,Parda,Sin especificar,5 a 9,-3.11866,-60.0212,1,2010.4166666666667,26.455,98.234,Calido,Alta,Malaria vivax
+150670,1506708,Para,Santana do araguaia,1506708,2003,10,F,Negra,4 a 7,20 a 24,-9.3281,-50.35,1,2003.8333333333333,26.646,68.105,Calido,Baja,Malaria vivax
+160050,1600501,Amapa,Oiapoque,1600303,2005,11,M,Parda,Sin especificar,30 a 34,3.84074,-51.8331,1,2005.9166666666667,28.211,81.883,Calido,Moderada,Malaria falciparum
+150506,1505064,Para,Novo repartimento,1508100,2005,4,F,Blanca,Sin especificar,5 a 9,-4.24749,-49.9499,1,2005.3333333333333,25.828,97.792,Calido,Alta,Sin especificar
+120042,1200427,Acre,Rodrigues alves,120020,2006,6,M,Blanca,Sin especificar,0 a 4,-7.73864,-72.661,1,2006.5,25.071,89.475,Calido,Alta,Sin especificar
+150085,1500859,Para,Anapu,150060,2009,5,M,Indigena,Sin especificar,0 a 4,-3.46985,-51.2003,1,2009.4166666666667,25.429,100.129,Calido,Muy alta,Malaria falciparum
+150670,1506708,Para,Santana do araguaia,1506708,2003,1,M,Parda,1 a 3,65+,-9.3281,-50.35,1,2003.0833333333333,24.779,95.79,Calido,Alta,Malaria falciparum
+110010,1100106,Rondonia,Guajara-mirim,110020,2007,9,F,Blanca,Sin especificar,45 a 49,-10.7889,-65.3296,1,2007.75,25.742,85.333,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,150360,2007,2,F,Parda,Sin especificar,0 a 4,-4.2667,-55.9926,1,2007.1666666666667,25.574,98.446,Calido,Alta,Malaria falciparum
+120060,1200609,Acre,Tarauaca,120020,2008,5,M,Sin especificar,Sin especificar,0 a 4,-8.15697,-70.7722,1,2008.4166666666667,25.154,95.911,Calido,Alta,Malaria vivax
+520870,5208707,Goias,Goiania,520870,2013,5,F,Blanca,Sin especificar,40 a 44,-16.6864,-49.2643,1,2013.4166666666667,21.905,77.04,Calido,Moderada,Sin especificar
+120020,1200203,Acre,Cruzeiro do sul,120020,2006,6,M,Parda,Ninguna,65+,-7.62762,-72.6756,1,2006.5,25.071,89.475,Calido,Alta,Malaria falciparum
+130380,1303809,Amazonas,Sao gabriel da cachoeira,130380,2006,9,F,Indigena,Sin especificar,0 a 4,-0.11909,-67.084,1,2006.75,25.065,94.492,Calido,Alta,Sin especificar
+240020,2400208,Rio grande do norte,Aracu,240810,2008,2,M,Parda,4 a 7,45 a 49,-5.5836158,-36.9139557,1,2008.1666666666667,26.306,82.017,Calido,Moderada,Sin especificar
+110010,1100106,Rondonia,Guajara-mirim,110020,2009,11,M,Parda,Sin especificar,20 a 24,-10.7889,-65.3296,1,2009.9166666666667,25.971,94.642,Calido,Alta,Malaria vivax
+140010,1400100,Roraima,Boa vista,140010,2010,5,M,Parda,4 a 7,20 a 24,2.82384,-60.6753,1,2010.4166666666667,25.33,99.153,Calido,Alta,Malaria vivax
+150506,1505064,Para,Novo repartimento,150810,2007,1,M,Parda,Sin especificar,0 a 4,-4.24749,-49.9499,1,2007.0833333333333,25.757,97.177,Calido,Alta,Sin especificar
+210760,2107605,Maranhao,Palmeirandia,210860,2013,1,M,Sin especificar,Sin especificar,Sin especificar,-2.64433,-44.8933,1,2013.0833333333333,26.281,91.879,Calido,Alta,Sin especificar
+160050,1600501,Amapa,Oiapoque,1600501,2004,5,F,Parda,1 a 3,35 a 39,3.84074,-51.8331,1,2004.4166666666667,25.968,95.266,Calido,Alta,Malaria falciparum
+150840,1508407,Para,Xinguara,150840,2006,3,M,Parda,1 a 3,45 a 49,-7.0983,-49.9437,1,2006.25,24.879,98.105,Calido,Alta,Malaria vivax
+120020,1200203,Acre,Cruzeiro do sul,120020,2009,6,F,Parda,4 a 7,15 a 19,-7.62762,-72.6756,1,2009.5,25.048,91.925,Calido,Alta,Malaria falciparum
+510805,5108055,Mato grosso,Terra nova do norte,510805,2012,7,M,Blanca,1 a 3,60 a 64,-10.517,-55.231,1,2012.5833333333333,26.573,51.226,Calido,Baja,Sin especificar
+130406,1304062,Amazonas,Tabatinga,130406,2006,7,M,Parda,4 a 7,25 a 29,-4.2416,-69.9383,1,2006.5833333333333,25.565,95.919,Calido,Alta,Malaria vivax
+211176,2111763,Maranhao,Senador la rocque,210530,2011,11,M,Blanca,Ninguna,65+,-5.4461,-47.2959,1,2011.9166666666667,24.725,98.708,Calido,Alta,Sin especificar
+120035,1200351,Acre,Marechal thaumaturgo,1200203,2003,2,M,Parda,Sin especificar,0 a 4,-8.93898,-72.7997,1,2003.1666666666667,26.239,98.464,Calido,Alta,Malaria falciparum
+110012,1100122,Rondonia,Ji-parana,1100122,2004,2,M,Parda,Sin especificar,60 a 64,-10.8777,-61.9322,1,2004.1666666666667,24.029,95.836,Calido,Alta,Malaria falciparum
+510325,5103254,Mato grosso,Colniza,510515,2007,8,M,Blanca,8 a 11,50 a 54,-9.46121,-59.2252,1,2007.6666666666667,28.589,47.129,Calido,Muy baja,Malaria falciparum
+411250,4112504,Parana,Jardim alegre,411150,2011,5,F,Negra,Ninguna,50 a 54,-24.1809,-51.6902,1,2011.4166666666667,17.275,87.387,Templado,Alta,Malaria vivax
+130390,1303908,Amazonas,Sao paulo de olivenca,130390,2012,8,M,Indigena,Ninguna,65+,-3.47292,-68.9646,1,2012.6666666666667,26.008,97.831,Calido,Alta,Sin especificar
+160060,1600600,Amapa,Santana,160060,2014,12,M,Parda,Ninguna,40 a 44,-0.045434,-51.1729,1,2015.0,26.948,84.113,Calido,Moderada,Malaria vivax
+130260,1302603,Amazonas,Manaus,130260,2007,8,M,Parda,8 a 11,65+,-3.11866,-60.0212,1,2007.6666666666667,26.034,91.75,Calido,Alta,Malaria falciparum
+150070,1500701,Para,Anajas,150070,2012,4,F,Parda,Sin especificar,0 a 4,-0.996811,-49.9354,1,2012.3333333333333,25.906,95.042,Calido,Alta,Malaria vivax
+110033,1100338,Rondonia,Nova mamore,1100338,2005,2,F,Parda,Ninguna,0 a 4,-10.4077,-65.3346,1,2005.1666666666667,24.869,99.955,Calido,Alta,Malaria falciparum
+120040,1200401,Acre,Rio branco,120040,2010,8,F,Sin especificar,Sin especificar,5 a 9,-9.97499,-67.8243,1,2010.6666666666667,25.868,64.048,Calido,Baja,Malaria vivax
+150360,1503606,Para,Itaituba,150360,2011,7,F,Parda,Ninguna,60 a 64,-4.2667,-55.9926,1,2011.5833333333333,25.61,92.25,Calido,Alta,Malaria falciparum
+130140,1301407,Amazonas,Eirunepe,130140,2012,4,F,Indigena,Sin especificar,0 a 4,-6.65677,-69.8662,1,2012.3333333333333,24.219,97.192,Calido,Alta,Malaria vivax
+317040,3170404,Minas gerais,Unai,3170404,2003,11,F,Parda,Ninguna,60 a 64,-16.3592,-46.9022,1,2003.9166666666667,23.023,94.342,Calido,Alta,Malaria falciparum
+110013,1100130,Rondonia,Machadinho d'oeste,1100205,2004,1,M,Sin especificar,Sin especificar,0 a 4,-9.44363,-61.9818,1,2004.0833333333333,25.809,98.435,Calido,Alta,Malaria falciparum
+110020,1100205,Rondonia,Porto velho,1100205,2004,3,M,Sin especificar,Sin especificar,65+,-8.76077,-63.8999,1,2004.25,25.964,99.387,Calido,Alta,Malaria falciparum
+130020,1300201,Amazonas,Atalaia do norte,130020,2006,8,M,Blanca,Sin especificar,0 a 4,-4.37055,-70.1967,1,2006.6666666666667,25.736,94.363,Calido,Alta,Malaria falciparum
+210530,2105302,Maranhao,Imperatriz,210530,2010,5,F,Blanca,1 a 3,65+,-5.51847,-47.4777,1,2010.4166666666667,25.757,97.718,Calido,Alta,Sin especificar
+150280,1502806,Para,Curralinho,150280,2010,7,F,Parda,Sin especificar,0 a 4,-1.81179,-49.7952,1,2010.5833333333333,26.07,95.411,Calido,Alta,Sin especificar
+130180,1301803,Amazonas,Ipixuna,130180,2012,5,F,Parda,1 a 3,15 a 19,-7.04791,-71.6934,1,2012.4166666666667,23.537,93.153,Calido,Alta,Malaria falciparum
+150680,1506807,Para,Santarem,1506807,2004,4,M,Parda,Ninguna,0 a 4,-2.43849,-54.6996,1,2004.3333333333333,25.508,99.817,Calido,Alta,Sin especificar
+110013,1100130,Rondonia,Machadinho d'oeste,1100023,2005,5,M,Blanca,Sin especificar,65+,-9.44363,-61.9818,1,2005.4166666666667,25.676,95.137,Calido,Alta,Sin especificar
+310620,3106200,Minas gerais,Belo horizonte,310620,2009,3,M,Parda,8 a 11,40 a 44,-19.9102,-43.9266,1,2009.25,22.392,95.645,Calido,Alta,Sin especificar
+130250,1302504,Amazonas,Manacapuru,1302504,2003,5,F,Sin especificar,Sin especificar,Sin especificar,-3.29066,-60.6216,1,2003.4166666666667,25.91,97.565,Calido,Alta,Sin especificar
+150360,1503606,Para,Itaituba,1503606,2004,1,M,Parda,4 a 7,25 a 29,-4.2667,-55.9926,1,2004.0833333333333,25.654,100.532,Calido,Muy alta,Sin especificar
+160060,1600600,Amapa,Santana,1600303,2005,9,F,Parda,1 a 3,30 a 34,-0.045434,-51.1729,1,2005.75,28.536,74.192,Calido,Moderada,Malaria falciparum
+150360,1503606,Para,Itaituba,1503606,2005,6,F,Parda,4 a 7,25 a 29,-4.2667,-55.9926,1,2005.5,25.529,96.308,Calido,Alta,Malaria falciparum
+292740,2927408,Bahia,Salvador,292740,2008,7,M,Parda,12 o mas,25 a 29,-12.9718,-38.5011,1,2008.5833333333333,21.203,91.355,Calido,Alta,Sin especificar
+260960,2609600,Pernambuco,Olinda,260960,2012,12,F,Parda,Sin especificar,65+,-8.01017,-34.8545,1,2013.0,27.294,79.919,Calido,Moderada,Sin especificar
